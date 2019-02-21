@@ -1,0 +1,3 @@
+# LEI Nº 4.479, DE 20 DE FEVEREIRO DE 2.019.
+(Projeto de Lei n° 016/2018, de autoria do Poder Executivo) AUTORIZA O MUNICÍPIO DE LAVRAS A CELEBRAR CONVÊNIO DE COOPERAÇÃO COM OS MUNICÍPIOS QUE MENCIONA, PARA A DISPONIBILIZAÇÃO E EFETIVA PRESTAÇÃO DE ATENDIMENTO AMBULATORIAL DE URGÊNCIA E EMERGÊNCIA DE GINECOLOGIA E OBSTETRÍCIA, E DÁ OUTRAS PROVIDÊNCIAS.
+A Câmara Municipal de Lavras através de seus representantes legais aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
