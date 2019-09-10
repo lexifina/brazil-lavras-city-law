@@ -1,0 +1,3 @@
+# LEI Nº 4.515, DE 02 DE SETEMBRO DE 2.019.
+(Projeto de Lei n° 003/2019, de autoria do Poder Executivo) DISPÕE SOBRE A PROIBIÇÃO DA DISTRIBUIÇÃO DE FOLHETOS, PANFLETOS OU QUALQUER OUTRO TIPO DE MATERIAL IMPRESSO VEICULADOR DE MENSAGENS PUBLICITÁRIAS NA FORMA E NOS LOCAIS QUE MENCIONA E DÁ OUTRAS PROVIDÊNCIAS.
+A Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
