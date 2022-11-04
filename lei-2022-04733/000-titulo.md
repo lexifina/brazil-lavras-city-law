@@ -1,0 +1,2 @@
+# LEI Nº. 4.733, DE 04 DE NOVEMBRO DE 2022 (Projeto de Lei do Legislativo n° 021/2022, de autoria do Vereador Antônio Claret dos Santos) DENOMINA DE "BECO CARLOS ALBERTO SILVA DE OLIVEIRA" O BECO SITUADO NA ESQUINA DAS RUAS ADAHIR DOS SANTOS NOGUEIRA E JAIME AVELAR PEREIRA, E DÁ OUTRAS PROVIDÊNCIAS.
+A Prefeita do Município de Lavras, Estado de Minas Gerais, no uso de suas atribuições legais faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte lei:
