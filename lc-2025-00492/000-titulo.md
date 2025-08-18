@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 492, DE 18 DE AGOSTO DE 2025 (Projeto de Lei Complementar do Legislativo Substitutivo nº 004/2025, de autoria da Mesa Diretora da Câmara Municipal) ALTERA A LEI COMPLEMENTAR Nº 387, DE 25 DE ABRIL DE 2019, QUE DISPÕE SOBRE A ESTRUTURA ORGANIZACIONAL, PLANO DE CARGOS, CARREIRA E VENCIMENTOS DA CÂMARA MUNICIPAL DE LAVRAS E DÁ OUTRAS PROVIDÊNCIAS.
+A Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei:
