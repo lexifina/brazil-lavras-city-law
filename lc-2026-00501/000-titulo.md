@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 501, DE 17 DE MARÇO DE 2026 (Projeto de Lei Complementar nº 017/2025, de autoria da Chefe do Poder Executivo, com Emenda da Comissão de Constituição e Justiça) AUTORIZA O PODER EXECUTIVO MUNICIPAL A DESAFETAR E A DOAR, COM ENCARGOS, A ÁREA QUE MENCIONA À UNIÃO, COM DESTINAÇÃO À JUSTIÇA FEDERAL DE PRIMEIRO GRAU DE MINAS GERAIS, PARA FINS DE IMPLANTAÇÃO DA SEDE DA SUBSEÇÃO JUDICIÁRIA DE LAVRAS, E DÁ OUTRAS PROVIDÊNCIAS.
+A Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei Complementar:
