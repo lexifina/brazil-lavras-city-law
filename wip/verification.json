@@ -1,0 +1,13 @@
+{
+ "check": {
+  "acts": 8,
+  "backwards": 0,
+  "corpus_sha256": "66e4d34b8c9c8a09c854331029d21bd97e5057b11d34ed6e168c1bc759460010",
+  "future_dated": 0,
+  "merges": 0,
+  "mismatches": 0,
+  "missing_in_force": 0,
+  "trailer_errors": 0,
+  "versions": 8
+ }
+}
