@@ -1,0 +1,12 @@
+{
+ "acts": 77,
+ "versions": 77,
+ "mismatches": 0,
+ "trailer_errors": 0,
+ "missing_in_force": 0,
+ "merges": 0,
+ "backwards": 0,
+ "future_dated": 0,
+ "details": [],
+ "corpus_sha256": "5668c122aeab64b86a489c82fb253d6bd14ee4ef4e89a9c1d4149c6d14b57359"
+}

@@ -1,0 +1,2126 @@
+{
+ "country": {
+  "code": "BR-MG-LAVRAS",
+  "name": "Lavras",
+  "slug": "brazil-lavras-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Lavras (SAPL)",
+   "email": "sapl@lavras.mg.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Lavras, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.lavras.mg.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-02",
+   "licence": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "30 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2023-04755": {
+   "label": "Lei nº 4.755, de 12 de maio de 2023",
+   "title": "Altera a Lei nº 4.484, de 08 de março de 2019, que dispõe sobre a reestruturação do Conselho Municipal dos Direitos da Pessoa Idosa e do Fundo Municipal da Pessoa Idosa.",
+   "kind": "law",
+   "enacted": "2023-05-12",
+   "published": "2023-05-12",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8147",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04754": {
+   "label": "Lei nº 4.754, de 5 de maio de 2023",
+   "title": "Declara de Utilidade Pública a Associação Dehoniana Coração de Jesus (Fazendinha Padre Israel), e dá outras providências",
+   "kind": "law",
+   "enacted": "2023-05-05",
+   "published": "2023-05-05",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8145",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04753": {
+   "label": "Lei nº 4.753, de 4 de maio de 2023",
+   "title": "Denomina de Estrada Municipal Jair Carvalho, a estrada rural da Comunidade dos Pimentas, e dá outras providências",
+   "kind": "law",
+   "enacted": "2023-05-04",
+   "published": "2023-05-04",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8144",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2023-00462": {
+   "label": "Lei Complementar nº 462, de 4 de maio de 2023",
+   "title": "Acrescenta dispositivos que menciona na Lei Complementar Municipal nº 155 de 28 de agosto de 2008 e dá outras providências",
+   "kind": "law",
+   "enacted": "2023-05-04",
+   "published": "2023-05-04",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8143",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04752": {
+   "label": "Lei nº 4.752, de 26 de abril de 2023",
+   "title": "Estende a portadores do transtorno do espectro autista o direito de uso de vagas exclusivas de veículos já existentes, que forem criadas ou modificadas em vias públicas no âmbito do Município de Lavras.",
+   "kind": "law",
+   "enacted": "2023-04-26",
+   "published": "2023-04-26",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8140",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2023-00461": {
+   "label": "Lei Complementar nº 461, de 26 de abril de 2023",
+   "title": "Autoriza a concessão de Direito Real de Uso de Imóvel Público - terreno com área de 18.708,00 m² - localizado nas proximidades do Parque de Exposições Sylvio Modesto de Souza, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2023-04-26",
+   "published": "2023-04-26",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8139",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04751": {
+   "label": "Lei nº 4.751, de 14 de abril de 2023",
+   "title": "Institui o uso do colar de girassol como instrumento auxiliar de orientação para a identificação de pessoas com deficiência oculta no âmbito do Município de Lavras",
+   "kind": "law",
+   "enacted": "2023-04-14",
+   "published": "2023-04-14",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8136",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-04750": {
+   "label": "Lei nº 4.750, de 10 de abril de 2023",
+   "title": "Garante o direito de prioridade de matrícula de irmãos na mesma unidade escolar da Rede Municipal de Educação de Lavras",
+   "kind": "law",
+   "enacted": "2023-04-10",
+   "published": "2023-04-10",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8135",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2023-00460": {
+   "label": "Lei Complementar nº 460, de 31 de março de 2023",
+   "title": "Dispõe sobre a reestruturação administrativa do Instituto de Previdência Municipal de Lavras/MG - LAVRASPREV, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2023-03-31",
+   "published": "2023-03-31",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8132",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2023-00459": {
+   "label": "Lei Complementar nº 459, de 16 de fevereiro de 2023",
+   "title": "Autoriza o Poder Executivo Municipal a doar ao Centro de Equoterapia de Lavras, área que menciona, e dá outras providências",
+   "kind": "law",
+   "enacted": "2023-02-16",
+   "published": "2023-02-16",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8113",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04742": {
+   "label": "Lei nº 4.742, de 22 de dezembro de 2022",
+   "title": "Dispõe sobre o parcelamento de débitos do Município de Lavras com seu Regime Próprio de Previdência Social- RPPS.",
+   "kind": "law",
+   "enacted": "2022-12-22",
+   "published": "2022-12-22",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8092",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2022-00458": {
+   "label": "Lei Complementar nº 458, de 22 de dezembro de 2022",
+   "title": "Dispõe sobre o regime diferenciado e de plantão da Unidade de Pronto Atendimento - UPA, revoga dispositivos da Lei Complementar nº 328, de 16 de julho de 2014, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2022-12-22",
+   "published": "2022-12-23",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8088",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04738": {
+   "label": "Lei nº 4.738, de 6 de dezembro de 2022",
+   "title": "Denomina de \"Carlos Roberto Campim\" o Posto de Saúde da Família (PSF) localizado no Bairro Residencial Vista do Lago",
+   "kind": "law",
+   "enacted": "2022-12-06",
+   "published": "2022-12-06",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8082",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04737": {
+   "label": "Lei nº 4.737, de 6 de dezembro de 2022",
+   "title": "Denomina de \"Maria Dalca Fonseca Campideli\" a escola municipal localizada no Bairro Vista do Lago, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2022-12-06",
+   "published": "2022-12-06",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8081",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2022-00456": {
+   "label": "Lei Complementar nº 456, de 6 de dezembro de 2022",
+   "title": "Altera a Lei Complementar nº 097/2007, que institui o Plano Diretor do Município de Lavras, e dá outras providências",
+   "kind": "law",
+   "enacted": "2022-12-06",
+   "published": "2022-12-06",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8080",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04736": {
+   "label": "Lei nº 4.736, de 29 de novembro de 2022",
+   "title": "Estabelece regras e diretrizes para a atuação de agente de contratação, de equipe de apoio, da comissão de contratação e dos gestores fiscais de contratos, nos termos da Lei Federal nº 14.133, de 1º de abril de 2021, no âmbito da Administração Pública Municipal do Município de Lavras-MG.",
+   "kind": "law",
+   "enacted": "2022-11-29",
+   "published": "2022-11-29",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8076",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04735": {
+   "label": "Lei nº 4.735, de 11 de novembro de 2022",
+   "title": "Denomina de Rua Hernani da Costa Ribeiro logradouro público que menciona",
+   "kind": "law",
+   "enacted": "2022-11-11",
+   "published": "2022-11-11",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8070",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04734": {
+   "label": "Lei nº 4.734, de 11 de novembro de 2022",
+   "title": "Denomina de Rua Danúbio Gomes do Rosário logradouro que menciona",
+   "kind": "law",
+   "enacted": "2022-11-11",
+   "published": "2022-11-11",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8069",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04733": {
+   "label": "Lei nº 4.733, de 4 de novembro de 2022",
+   "title": "Denomina de \"Beco Carlos Alberto Silva de Oliveira\" o beco situado na esquina das ruas Adahir dos Santos Nogueira e Jaime Avelar Pereira, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2022-11-04",
+   "published": "2022-11-04",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8065",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04732": {
+   "label": "Lei nº 4.732, de 3 de novembro de 2022",
+   "title": "Denomina de \"Estrada Vicinal Hélio de Oliveira\", a estrada vicinal da Serrinha, e dá outras providências",
+   "kind": "law",
+   "enacted": "2022-11-03",
+   "published": "2022-11-03",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8064",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04731": {
+   "label": "Lei nº 4.731, de 3 de novembro de 2022",
+   "title": "Declara de Utilidade Pública Municipal a Associação dos Apicultores Protetores das Abelhas (PROAPIS)",
+   "kind": "law",
+   "enacted": "2022-11-03",
+   "published": "2022-11-03",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8063",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04729": {
+   "label": "Lei nº 4.729, de 10 de outubro de 2022",
+   "title": "Denomina de \"Antônio Carlos Marani\" túnel que menciona.",
+   "kind": "law",
+   "enacted": "2022-10-10",
+   "published": "2022-10-10",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04728": {
+   "label": "Lei nº 4.728, de 10 de outubro de 2022",
+   "title": "Denomina de \"Avenida José Alves (Dezico)\" o logradouro público que menciona, e dá outras providências",
+   "kind": "law",
+   "enacted": "2022-10-10",
+   "published": "2022-10-10",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8000",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04727": {
+   "label": "Lei nº 4.727, de 10 de outubro de 2022",
+   "title": "Denomina de \"Evandro Menicucci\", a futura sede do Centro Educacional de Inovação e Tecnologia (CEITEC), e dá outras providências..",
+   "kind": "law",
+   "enacted": "2022-10-10",
+   "published": "2022-10-10",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04726": {
+   "label": "Lei nº 4.726, de 10 de outubro de 2022",
+   "title": "Altera os artigos 1º, § 1º e 10 da Lei nº 4.712, de 29 de julho de 2022, que dispõe sobre o programa de Regularização Fiscal - REFIS da Retomada da Economia-2022 do Município de Lavras, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2022-10-10",
+   "published": "2022-10-10",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04725": {
+   "label": "Lei nº 4.725, de 10 de outubro de 2022",
+   "title": "Cria o Projeto Águas dos Ipês, autoriza o Executivo a prestar apoio técnico, de fomento e financeiro destinados a programas de preservação e conservação ambientais de nascentes no Município de Lavras.",
+   "kind": "law",
+   "enacted": "2022-10-10",
+   "published": "2022-10-17",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8002",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2022-00454": {
+   "label": "Lei Complementar nº 454, de 10 de outubro de 2022",
+   "title": "Altera a Lei Complementar nº 327, de 16 de julho de 2014, que dispõe sobre o Estatuto dos Servidores Públicos do Município de Lavras, e dá outras providências",
+   "kind": "law",
+   "enacted": "2022-10-10",
+   "published": "2022-10-10",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04724": {
+   "label": "Lei nº 4.724, de 5 de outubro de 2022",
+   "title": "Autoriza repasse financeiro à Associação Sócio Cultural Castelo São Jorge e a abertura de crédito adicional suplementar nos termos que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2022-10-05",
+   "published": "2022-10-05",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7994",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-04723": {
+   "label": "Lei nº 4.723, de 5 de outubro de 2022",
+   "title": "Autoriza repasse financeiro à Associação Animais Nossos Irmãos e a abertura de crédito adicional especial nos termos que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2022-10-05",
+   "published": "2022-10-05",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7993",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2022-00452": {
+   "label": "Lei Complementar nº 452, de 15 de setembro de 2022",
+   "title": "Dispõe sobre a regularização de imóveis localizados em áreas urbanas consolidadas inseridos às margens de cursos d'água, e dá outras providências",
+   "kind": "law",
+   "enacted": "2022-09-15",
+   "published": "2022-09-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7985",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2023-04755",
+   "short": "Lei 4755/2023",
+   "title": "Lei nº 4.755, de 12 de maio de 2023",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8147",
+   "first_law": "lei-2023-04755",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2023/8147/lei_4755_2023_altera_lei_4484.pdf",
+     "sha256": "cebb5ce6907ce5306975c9f87f6b391f5dceafa7ef95c956cf9353386f635d9d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.755, DE 12 DE MAIO DE 2023 (Projeto de Lei do Executivo n° 011/2023, de autoria da Chefe do Poder Executivo) ALTERA A LEI Nº. 4.484, DE 08 DE MARÇO DE 2019, QUE DISPÕE SOBRE A REESTRUTURAÇÃO DO CONSELHO MUNICIPAL DOS DIREITOS DA PESSOA IDOSA E DO FUNDO MUNICIPAL DA PESSOA IDOSA.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° A Lei nº. 4.484, de 08 de março de 2019, que dispõe sobre a reestruturação do Conselho Municipal dos Direitos da Pessoa Idosa e do Fundo Municipal da Pessoa Idosa, e dá outras providências, passa a vigorar com as alterações constantes nesta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O caput e incisos I e II do art. 5º da Lei nº. 4.484, de 08 de março de 2019, passam a vigorar com a seguinte redação:\n\"Art. 5º O Conselho Municipal dos Direitos da Pessoa Idosa (CMDPI - LAVRAS) é constituído, de forma paritária, por 16 (dezesseis) membros, titular e suplente, assim definidos:\nI - 08 (oito) representantes governamentais:\na) um da Secretaria Municipal de Desenvolvimento Social e Cidadania;\nb) um da Secretaria Municipal de Saúde;\nc) um da Secretaria Municipal de Educação;\nd) um da Secretaria Municipal de Desenvolvimento Econômico e Inovação;\ne) um da Secretaria Municipal de Cultura, Esporte, Lazer e Turismo;\nf) um da Secretaria Municipal de Fazenda e Planejamento;\ng) um da Secretaria Municipal de Obras, Desenvolvimento Urbano e Serviços;\nh) um da Secretaria Municipal de Administração e Recursos Humanos.\nII - 08 (oito) representantes de organizações da sociedade civil atuantes no campo da promoção e defesa dos direitos ou ao atendimento do idoso, legalmente constituída e em regular funcionamento há mais de 01 (um) ano, sendo indicados pelas seguintes categorias:\na) dois de Instituições de Longa Permanência para Idosos (ILPs);\nb) um de Entidades Sociais ou de Classe;\nc) um de Sindicatos e/ou Associações de Aposentados;\nd) um de Grupos de Convivência de Idosos de equipamentos públicos e/ou entidades/organizações/associações;\nf) um de Organização de Clubes de Serviço do Município de Lavras;\ng) um de Organizações de Grupo ou Movimentos da Pessoa Idosa, devidamente legalizado e em atividade;\nh) um de Instituições de Ensino Superior e/ou Representantes da Faculdade da Terceira Idade.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica alterado o nome da 'Secretaria Municipal de Desenvolvimento Social' para 'Secretaria Municipal de Desenvolvimento Social e Cidadania', nos termos da Lei Complementar nº 440, de 14 de março de 2022, que estabelece a estrutura orgânica da Administração Pública do Poder Executivo e dá outras providências.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 12 de maio de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.755, de 12 de maio de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04754",
+   "short": "Lei 4754/2023",
+   "title": "Lei nº 4.754, de 5 de maio de 2023",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8145",
+   "first_law": "lei-2023-04754",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2023/8145/lei_4754_2023_utilidade_publica_associacao_dehoniana_coracao_de_jesus_fazendinha_padre_israel.pdf",
+     "sha256": "96bee4863fa995ca4bfc0b34a42841617b1b45b13b715f293f9c3cebdf75cb5d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.754, DE 05 DE MAIO DE 2023 (Projeto de Lei do Executivo n° 012/2023, de autoria da Chefe do Poder Executivo) DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO DEHONIANA CORAÇÃO DE JESUS (FAZENDINHA PADRE ISRAEL), E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal aprovou e eu, Prefeita do Município de Lavras/MG, sanciono e promulgo a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública municipal a Associação Dehoniana Coração de Jesus (Fazendinha Padre Israel), com sede à Avenida Doutor Silvio Menicucci, nº 2415 - Bairro Centenário, em Lavras/MG, inscrita no CNPJ nº 22.644.614/0002-20.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Cessarão os efeitos da declaração de utilidade pública quando a entidade mencionada no art. 1º:\nI - deixar de cumprir as disposições estatutárias;\nII - substituir as finalidades previstas no estatuto;\nIII - alterar sua denominação e, no prazo máximo de 90 (noventa) dias, contados da averbação no Registro Público, não informar ao órgão competente da Administração Pública Municipal.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 05 de maio de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.754, de 5 de maio de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04753",
+   "short": "Lei 4753/2023",
+   "title": "Lei nº 4.753, de 4 de maio de 2023",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8144",
+   "first_law": "lei-2023-04753",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2023/8144/lei_4753_2023_denomina_estrada_municipal_jair_carvalho.pdf",
+     "sha256": "a2787e6bf77f5ccf444f2389c07cdcbb3330c78aa7795081ac8fc67c5d879e05",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.753, DE 04 DE MAIO DE 2023 (Projeto de Lei do Legislativo n° 006/2023, de autoria do Vereador Antônio Claret dos Santos) DENOMINA DE \"ESTRADA MUNICIPAL JAIR CARVALHO\", A ESTRADA RURAL DA COMUNIDADE DOS PIMENTAS, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, através de seus representantes legais aprovou, e eu, Prefeita Municipal sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada de \"Estrada Municipal Jair de Carvalho\" a estrada rural que liga o bairro Água Limpa à comunidade dos Pimentas, até a altura da Igreja de São José.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 04 de maio de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.753, de 4 de maio de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00462",
+   "short": "LC 462/2023",
+   "title": "Lei Complementar nº 462, de 4 de maio de 2023",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8143",
+   "first_law": "lc-2023-00462",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2023/8143/lei_complementar_462_2023_altera_lei_complementar_155.pdf",
+     "sha256": "2527d3297b22112353884b04f0dfefd45f7c38e87ea81d1b4f54e5d748337ecc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº. 462, DE 04 DE MAIO DE 2023 (Projeto de Lei Complementar n° 002/2023, de autoria da Chefe do Poder Executivo) ACRESCENTA DISPOSITIVOS QUE MENCIONA NA LEI COMPLEMENTAR MUNICIPAL Nº 155 DE 28 DE AGOSTO DE 2008 E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido o § 3º e § 4º ao artigo 29 da Lei Complementar Municipal nº 155, de 28 de agosto de 2008, com a seguinte redação:\n\"Art. 29. (...) (...)\n§ 3º No caso de desmembramento destinado à construção de imóvel único, que resulte em área desmembrada com metragem mínima de 10.000m² e máxima de 20.000m², com finalidade exclusivamente comercial ou industrial, fica dispensada a transferência, para o Município, do percentual constante do caput deste artigo.\n§ 4º Para os fins dispostos no parágrafo anterior, será autorizado um único desmembramento sobre as glebas de origem e derivada.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica acrescido o inciso VI ao artigo 30 da Lei Complementar Municipal nº 155 de 28 de agosto de 2008, com a seguinte redação:\n\"Art. 30. (...) (...)\nVI. Para os casos de desmembramento estabelecidos no § 3º do artigo anterior, o proprietário deverá apresentar declaração expressa de que a área desmembrada será utilizada exclusivamente para construção de imóvel comercial ou industrial único, vedado, sobre ele, a instituição de condomínio, sub parcelamento ou novo desmembramento.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica acrescido o artigo 31-A à Lei Complementar Municipal nº 155 de 28 de agosto de 2008, com a seguinte redação:\n\"Art. 31-A. A alteração da finalidade do imóvel desmembrado sob égide do § 3º do artigo 29 desta Lei, implica na obrigatoriedade de transferência, ao Município, do percentual de 15% (quinze por cento) calculado sobre a gleba de origem.\" (NR)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 04 de maio de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 462, de 4 de maio de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04752",
+   "short": "Lei 4752/2023",
+   "title": "Lei nº 4.752, de 26 de abril de 2023",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8140",
+   "first_law": "lei-2023-04752",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2023/8140/lei_4752_2023_vagas_exclusivas_de_veiculos_para_portadores_do_transtorno_do_espectro_autista.pdf",
+     "sha256": "e40c909dff9ca1dc763e06165e6e4590cd61ee19968accb5df1a0372c458fa64",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.752, DE 26 DE ABRIL DE 2023 (Projeto de Lei do Legislativo n° 003/2023, de autoria do Vereador Lauro Sampaio Mesquita Junior) ESTENDE À PORTADORES DO TRANSTORNO DO ESPECTRO AUTISTA O DIREITO DE USO DE VAGAS EXCLUSIVAS DE VEÍCULOS JÁ EXISTENTES, QUE FOREM CRIADAS OU MODIFICADAS EM VIAS PÚBLICAS NO ÂMBITO DO MUNICÍPIO DE LAVRAS.\nA Câmara Municipal de Lavras, através de seus representantes legais aprovou, e eu, Prefeita Municipal sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica estendido aos condutores de veículos com portadores do transtorno do espectro autista, considerados deficientes para todos os fins pela Lei Federal nº 12.764, de 27 de dezembro de 2012, o direito de utilizar as vagas exclusivas destinadas à idosos e deficientes existentes e que forem criadas ou modificadas nas vias públicas do Município de Lavras.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A comprovação da condição de autista se dará por laudo médico especializado público ou particular, independente da data de emissão, apresentado pelo interessado no setor competente mediante protocolo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A identificação do beneficiário bem como a sinalização das vagas se dará por certificado emitido em seu favor sem data de validade e pintura das vagas já existentes e que forem criadas ou modificadas com símbolo próprio constante no anexo I desta lei, devendo o Poder Executivo promover sua regulamentação em até 30 dias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 26 de abril de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.752, de 26 de abril de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00461",
+   "short": "LC 461/2023",
+   "title": "Lei Complementar nº 461, de 26 de abril de 2023",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8139",
+   "first_law": "lc-2023-00461",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2023/8139/lei_complementar_461_2023_concessao_direito_real_de_uso_de_imovel_publico.pdf",
+     "sha256": "1e023993d8e21c7b057ae1a0e497057e56f5100f85ec08051726860e16d91040",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº. 461, DE 26 DE ABRIL DE 2023 (Projeto de Lei n° 001/2023, de autoria da Chefe do Poder Executivo) AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO - TERRENO COM ÁREA DE 18.708,00m2 - LOCALIZADO NAS PROXIMIDADES DO PARQUE DE EXPOSIÇÕES SYLVIO MODESTO DE SOUZA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo Municipal autorizado a conceder Direito Real de Uso do imóvel mencionado no artigo 2º desta Lei, com fundamento nos artigos 14, § 1º, e 15, caput e §1º da Lei Orgânica do Município, e mediante prévio processo licitatório na forma da legislação vigente.\nParágrafo único. O procedimento licitatório previsto no caput deverá observar o disposto na legislação federal e municipal, devendo ser fixados no edital da licitação critérios técnicos objetivos adequados para aferir a viabilidade econômica das propostas apresentadas pelos interessados, devendo as mesmas refletir diretamente na geração de empregos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei é o seguinte bem municipal:\nI - 01 (um) terreno localizado na BR-265, s/nº, nas proximidades do Parque de Exposições Sylvio Modesto de Souza, no Município de Lavras, com área de 18.708,00m2, registrado no Serviço Registral de Imóveis de Lavras sob a Matrícula nº 70602.\nParágrafo único. Fica desafetado o bem especificado no inciso I, uma vez que se trata de bem imóvel público dominical, que integra o patrimônio do Município de Lavras.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° Destina-se a Concessão de Direito Real de Uso para fins específicos de atividades empresarial e/ou industrial, em consonância com a Política de Incentivo de ordem econômico-financeira instituída pela Lei Complementar Municipal nº 418/2020, observadas as disposições legais e resguardado o interesse público.\n§ 1º Para efeitos desta Lei considera-se:\nI - Atividade empresarial, a atividade econômica exercida profissionalmente pelo empresário por meio da articulação dos fatores produtivos para a produção ou circulação de bens ou de serviços; e\nII - Atividade industrial, a atividade econômica que tem por finalidade transformar matéria-prima em produtos comercializáveis, utilizando para isto força humana, máquinas e/ou energia.\n§ 2º A concessão tem por objetivo promover o desenvolvimento econômico, com instalação e/ou ampliação de industrias/fabricas/atividades mercantis de toda natureza, que em virtude de suas atividades, possam proporcionar empregos, capacitação profissional e tecnológica e consequentemente, melhoria de renda para todos os seus munícipes.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4° A pesquisa de preços que servirá de parâmetro para o estabelecimento dos valores mínimos a serem admitidos na licitação deverá ser realizada junto aos órgãos oficiais, a Secretaria Municipal de desenvolvimento Social e Cidadania, e outros órgãos que se fizerem necessários, de forma a viabilizar a fixação do preço mínimo da Concessão de Direito Real de Uso.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Concessão de Direito Real de Uso do imóvel de que trata o artigo 2º desta Lei será formalizada através de contrato administrativo e de escritura pública, devendo ser previsto, obrigatoriamente:\nI - a vinculação de uso, que não poderá ser diferente daquele previsto nesta Lei;\nII - as hipóteses de rescisão administrativa da Concessão, incluindo a promovida por infração contratual;\nIII - o prazo da Concessão, bem como do início das obras e das atividades;\nIV - a manutenção das benfeitorias a serem realizadas no terreno, pela concessionária;\nV - a previsão indenizatória de bens que restarem incorporados ao patrimônio municipal nos casos de rescisão administrativa imotivada;\nVI - as penalidades para o caso de descumprimento parcial ou total das obrigações inseridas no contrato administrativo e das inseridas nesta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A Concessão de Direito Real de Uso de que trata o artigo 1° desta Lei se dará pelo prazo de 20 (vinte) anos, podendo ser prorrogado a critério da Administração Pública Municipal, desde que preenchidos os requisitos legais e as condições exaradas no edital do processo licitatório e no contrato administrativo.\nParágrafo Único. Na hipótese de superveniente decisão judicial capaz de alterar o titular da propriedade ou da posse do imóvel objeto da concessão, o prazo previsto no caput poderá ser alterado e/ou findada a Concessão de Direito Real de Uso a qualquer tempo, sem direito a indenização.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7°",
+       "kind": "article",
+       "text": "Art. 7° A presente Concessão de Direito Real de Uso poderá resolver-se a qualquer tempo desde que o concessionário dê ao imóvel destinação diversa da estabelecida no artigo 3° desta Lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Constituem motivos para a rescisão do contrato administrativo, implicando na imediata retomada da área concedida e demais providências cabíveis, não gerando qualquer direito de indenização à concessionária por benfeitorias e acessões levantas, dentre outros a serem estabelecidos pelo Edital:\nI - desvio pela concessionária ou sucessores, a qualquer título, de sua finalidade e/ou atividade contratual;\nII - utilização do imóvel para finalidade diversa da prevista no artigo 3º, desta Lei;\nIII - descumprimento das disposições desta Lei;\nIV - extinção ou dissolução da concessionária a qualquer título, falência, insolvência ou comprometimento do patrimônio ou situação financeira;\nV - descumprimento, a qualquer tempo, da legislação ambiental pertinente ao tipo de atividade da concessionária e/ou ausência de adequada destinação aos resíduos resultantes da atividade.\nVI - paralisação do funcionamento do serviço, sem justa causa e prévia comunicação à concedente.\nVII - descumprimento qualquer das cláusulas contratuais ou prazos.\nVIII - demais razões de interesse público.\nParágrafo Único. A devolução do imóvel incontinente ao concedente sem o direito de indenização à concessionária, não exclui a aplicação das penalidades previstas no Contrato.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º É expressamente vedada a cessão, subconcessão ou transferência, total ou parcial, dos direitos decorrentes da concessão a terceiros, bem como sua sublocação total ou parcial, fusão, cisão ou incorporação que afetem a boa execução deste, sem prévia e expressa anuência do Concedente, sob pena de rescisão e cominação de penalidade aplicável à espécie, de pleno direito, independente de notificação judicial.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Findo o prazo estabelecido para a Concessão, o concessionário se obriga a devolver o imóvel tempestivamente e as benfeitorias então realizadas e existentes, incorporar-se-ão ao patrimônio público municipal, independentemente de qualquer indenização ou ato formalizador.\nParágrafo Único. Nos últimos 5 (cinco) anos da Concessão, fica vedado à concessionária fazer qualquer alteração nas benfeitorias então realizadas e existentes no imóvel ora concedido sem a prévia autorização do Poder Executivo.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. A concessionária responderá por todos os encargos civis, administrativos e tributários que venham a incidir sobre o imóvel objeto da Concessão de Direito Real de Uso a que se refere esta Lei.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Fica o Poder Executivo Municipal autorizado a praticar os atos necessários à implementação desta Lei, sendo que os encargos cartorários e fiscais correrão por conta da concessionária.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. O Poder Executivo poderá regulamentar esta Lei através de Decreto, se necessário.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Ficam revogadas as disposições em contrário e conflitantes.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 26 de abril de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 461, de 26 de abril de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04751",
+   "short": "Lei 4751/2023",
+   "title": "Lei nº 4.751, de 14 de abril de 2023",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8136",
+   "first_law": "lei-2023-04751",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2023/8136/lei_4751_2023_uso_do_colar_de_girassol_com_instrumento_auxiliar_para_identificacao_de_pessoas_com_deficiencia_oculta.pdf",
+     "sha256": "8578dd5f20931d9ecb02ec7afd877bf973787ebc55e1540164b996abb48d22f4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.751, DE 14 DE ABRIL DE 2023 (Projeto de Lei do Legislativo n° 001/2023, de autoria dos Vereadores Rosemeire Aparecida de Oliveira e Evandro Oliveira Miranda) INSTITUI O USO DO COLAR DE GIRASSOL COMO INSTRUMENTO AUXILIAR DE ORIENTAÇÃO PARA A IDENTIFICAÇÃO DE PESSOAS COM DEFICIÊNCIA OCULTA NO ÂMBITO DO MUNICÍPIO DE LAVRAS.\nA Câmara Municipal de Lavras, através de seus representantes legais aprovou, e eu, Prefeita Municipal sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de Lavras, o uso do colar de girassol como instrumento auxiliar de orientação para a identificação de pessoas com deficiência oculta.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para os fins do disposto nesta Lei, considera-se:\nI- pessoa com deficiência oculta: aquela com deficiência não aparente e não identificável de maneira imediata; e\nII- colar de girassol: uma faixa estreita de tecido ou material equivalente, na cor verde, estampada com figura de girassóis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Executivo Municipal poderá dar publicidade, por meio de seus órgãos competentes e de instrumentos e mecanismos adequados, ao uso do colar de girassol por pessoas com deficiência oculta ou por seus familiares.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam os estabelecimentos públicos e privados responsáveis por orientar seus colaboradores e funcionários quanto ao disposto nesta Lei e à possibilidade de uso do colar de girassol como meio de identificação de pessoas com deficiência oculta ou de seus familiares.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 14 de abril de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.751, de 14 de abril de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04750",
+   "short": "Lei 4750/2023",
+   "title": "Lei nº 4.750, de 10 de abril de 2023",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8135",
+   "first_law": "lei-2023-04750",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2023/8135/lei_4750_2023_garante_prioridade_de_matricula_de_irmaos_na_mesma_unidade_escolar_da_rede_municipal_de_educacao.pdf",
+     "sha256": "08ecb06d7d0fc8042a136a0d2c8c4d7d80eae98c6cda1ba7a25b0a78bab7ba75",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.750, DE 10 DE ABRIL DE 2023 (Projeto de Lei do Legislativo n° 002/2023, de autoria do Vereador Evandro Oliveira Miranda) GARANTE O DIREITO DE PRIORIDADE DE MATRÍCULA DE IRMÃOS NA MESMA UNIDADE ESCOLAR DA REDE MUNICIPAL DE EDUCAÇÃO DE LAVRAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica garantido o direito de prioridade de matrícula de irmãos na mesma unidade escolar da Rede Municipal de Educação de Lavras.\n§ 1º O direito de que trata o caput deste artigo fica condicionado à existência, na instituição, de turmas nos níveis educacionais pretendidos.\n§ 2º A garantia à prioridade de matrícula aplica-se, também:\na) aos estudantes que possuam os mesmos representantes legais, em razão de guarda, tutela ou processo de adoção em andamento;\nb) e aos estudantes que possuam representante legal trabalhando em determinada unidade escolar do município, assegurando que seu(s) filho(s) estude na mesma.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º É assegurado aos irmãos a preferência de matrícula na unidade escolar mais próxima de sua residência.\nParágrafo único. Caso a unidade escolar mais próxima de sua residência não disponha de turmas no mesmo nível educacional pretendido para os irmãos, fica-lhes assegurada a preferência de matrícula em unidades escolares com a menor distância possível entre elas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a fruição do direito assegurado nesta Lei, deverá ser observado o cumprimento dos procedimentos e prazos estabelecidos pelo órgão responsável pela educação no Município, para os processos de matrícula e de rematrícula.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará esta Lei em todos os aspectos necessários para a sua efetiva aplicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 10 de abril de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.750, de 10 de abril de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00460",
+   "short": "LC 460/2023",
+   "title": "Lei Complementar nº 460, de 31 de março de 2023",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8132",
+   "first_law": "lc-2023-00460",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2023/8132/lei_complementar_460_2023_reestruturacao_lavrasprev.pdf",
+     "sha256": "6e342343eaccfa257232c595d221986aa691467b9b0d6d321060a752217b7803",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 460, DE 31 DE MARÇO DE 2023 (Projeto de Lei Complementar Substitutivo n° 015/2022, de autoria da Chefe do Poder Executivo) DISPÕE SOBRE A REESTRUTURAÇÃO ADMINISTRATIVA DO INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE LAVRAS/MG - LAVRASPREV, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## TÍTULO I SOBRE O LAVRASPREV\n## CAPÍTULO I DAS DISPOSIÇÕES GERAIS, DA FINALIDADE, DOS PRINCÍPIOS E DIRETRIZES DO LAVRASPREV\n## Seção I Disposições Gerais\nArt. 1º Esta Lei Complementar dispõe sobre a organização administrativa e do quadro de pessoal do Instituto de Previdência Municipal de Lavras/MG, doravante denominado LAVRASPREV.\n§ 1º Fica mantida a autarquia municipal denominada Instituto de Previdência Municipal de Lavras - LAVRASPREV, gestora do Regime Próprio de Previdência Social - RPPS, criada em 18 de setembro de 2003, com personalidade jurídica de direito público interno, detentora de autonomia financeira e administrativa, tendo por finalidade a administração, o gerenciamento e a operacionalização do Sistema de Previdência dos Servidores Públicos Municipais de Lavras.\n§ 2º A operacionalização do Sistema de Previdência dos Servidores Públicos Municipais de Lavras, cabe, nos limites das competências definidas nesta lei, ao LAVRASPREV, por meio do qual o Município cumpre seus encargos de previdência social dos respectivos destinatários.\n§ 3º Fica assegurado ao LAVRASPREV, no que se refere aos seus serviços e bens, rendas e ações, todos os direitos, isenções e imunidades de que goza o Município de Lavras/MG.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## CAPÍTULO II DA ORGANIZAÇÃO ADMINISTRATIVA\n## Seção I Da Estrutura Administrativa\nArt. 2º A organização administrativa do LAVRASPREV compreenderá os seguintes órgãos:\nI - Conselho Deliberativo do LAVRASPREV, com funções de deliberação superior e de julgamento de recursos;\nII - Conselho Fiscal, com função de fiscalização orçamentária de verificação de contas e de julgamento de recursos;\nIII - Comitê de Investimentos, sendo órgão auxiliar no processo decisório, com a competência de analisar e sugerir políticas e estratégias de investimentos do Instituto, observando os regulamentos e diretrizes pertinentes, tendo poder deliberativo em relação a investimentos\nIV - Diretoria Executiva com função executiva de administração e composta:\na) de 01 (um) Diretor-Presidente.\nb) de 01 (um) Diretor de Gestão de Pessoas e Benefícios.\n§ 1º O Diretor-Presidente nomeado terá o prazo de 12 (doze) meses para obter a certificação exigida na Portaria/MTP 1467/2022.\n§ 2º O Diretor de Gestão de Pessoas e Benefícios nomeado terá o prazo de 12 (doze) meses para obter a certificação exigida na Portaria/MTP 1467/2022.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## Subseção I Do Conselho Deliberativo do LAVRASPREV\nArt. 3º Fica instituído o Conselho Deliberativo do LAVRASPREV - CDLP, órgão superior de deliberação colegiada composto pelos seguintes membros, todos nomeados pelo Diretor, com mandato de 03 (três) anos, admitida a recondução e com certificação profissional nos termos e regulamentada pela Portaria/MTP 1467/2022.\nI - 01 (um) representante do Poder Executivo, indicado pelo(a) Prefeito (a) Municipal, dentre os servidores efetivos, com nível superior completo;\nII - 03 (três) representantes dos participantes e beneficiários do LAVRASPREV, sendo 02 (dois) representantes dos servidores em atividade e 01 (um), representante dos aposentados e pensionistas, eleitos de forma direta entre os servidores ativos e inativos, observando, ainda, o regimento interno do Conselho e nomeados na forma desta lei;\nIII - 01 (um) representante do Poder Legislativo, indicado pelo Presidente da Câmara, dentre os servidores efetivos, com nível superior completo;\n§ 1º Cada membro terá um suplente com igual período do mandato do titular, também admitida a recondução.\nLEI COMPLEMENTAR N° 460/2023\n§ 2º Os membros do CDLP e respectivos suplentes serão escolhidos da seguinte forma:\nI - o Presidente, que terá o voto de qualidade, será eleito pelo Conselho por maioria simples, na forma do regimento interno;\nII - os representantes do Executivo e do Legislativo serão indicados pelos respectivos poderes;\nIII - os representantes dos servidores ativos, dos inativos e pensionistas, serão eleitos dentre eles, por voto direto na forma do regimento interno.\n§ 3º Os membros do CDLP, não serão destituíveis ad nutum, somente podendo ser afastados de suas funções, depois de julgados em processo administrativo, se culpados por falta grave ou infração punível com demissão, ou em caso de vacância, assim entendida a ausência não justificada em 03 (três) reuniões consecutivas ou em 04 (quatro) intercaladas num mesmo ano.\n§ 4º O CDLP deverá reunir-se, ordinariamente, a cada dois meses, por convocação de seu Presidente, não podendo ser adiada a reunião por mais de 15 (quinze) dias, se houver requerimento nesse sentido da maioria dos conselheiros.\n§ 5º Poderá ser convocada reunião extraordinária a qualquer momento por seu Presidente, ou a requerimento de 02 (dois) de seus membros, conforme dispuser o regimento interno do CDLP.\n§ 6º Das reuniões ordinárias e extraordinárias do CDLP, que serão públicas, participará sem direito a voto o Diretor Presidente do LAVRASPREV.\n§ 7º As decisões do CDLP dar-se-ão por maioria simples.\n§ 8º As reuniões do CDLP serão lavradas atas em livro próprio.\n§ 9° Todos os membros indicados para a composição do CDLP deverão ser servidores municipais efetivos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os membros do CDLP farão jus a uma gratificação, por reunião de que participar, equivalente a 20% (vinte por cento) do menor vencimento pago pelo Município, no limite máximo de uma reunião mensal.\nParágrafo único. Para fazer face às despesas decorrentes do caput deste artigo, serão utilizadas as dotações orçamentárias e recursos financeiros próprios do LAVRASPREV.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Conselho Deliberativo do LAVRASPREV:\nI - elaborar seu regimento interno;\nII - eleger o seu presidente;\nIII - estabelecer diretrizes gerais e apreciar as decisões de políticas aplicáveis ao LAVRASPREV;\nIV - apreciar e aprovar, observando a legislação de regência, as diretrizes e regras relativas à aplicação dos recursos econômico-financeiros do LAVRASPREV, à política de benefícios e à adequação entre os planos de custeio e de benefícios;\nV - deliberar sobre a alienação ou gravame de bens integrantes do patrimônio imobiliário do LAVRASPREV;\nVI - decidir sobre a aceitação de doações e legados com encargos de que resultem compromissos econômico-financeiros para o LAVRASPREV na forma da Lei;\nVII - conceber, acompanhar e avaliar a gestão operacional, econômica e financeira dos recursos do LAVRASPREV;\nVIII - acompanhar e avaliar a gestão previdenciária;\nIX - acompanhar e apreciar, mediante relatórios gerenciais a execução dos planos, programas e orçamentos do LAVRASPREV;\nX - acompanhar e fiscalizar a aplicação da legislação pertinente ao LAVRASPREV;\nXI - deliberar sobre os casos omissos no âmbito das regras aplicáveis ao LAVRASPREV;\nXII - decidir sobre questão administrativa e financeira que lhe seja submetida pela Diretoria Executiva ou pelo Conselho Fiscal;\nXIII - julgar os recursos interpostos das decisões do Conselho Fiscal e dos atos da Diretoria Executiva não sujeitos a revisão daquele;\nXIV - adotar as providências cabíveis para a correção de atos e fatos, decorrentes de gestão que prejudiquem o desempenho e o cumprimento das finalidades do Fundo de Previdência;\nXV - solicitar a elaboração de estudos e pareceres técnicos relativos a aspectos atuariais, jurídicos, financeiros e organizacionais relativos a assuntos de sua competência;\nXVI - As decisões passíveis de recurso ao Conselho Deliberativo deverão ser interpostas dentro do prazo de 30 (trinta) dias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os órgãos governamentais deverão prestar toda e qualquer informação necessária ao adequado cumprimento das competências do CDLP, fornecendo, sempre que necessário, os estudos técnicos correspondentes.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## Subseção II Do Conselho Fiscal\nArt. 7º O LAVRASPREV terá como órgão responsável para examinar a conformidade dos atos dos seus diretores e demais prepostos em face dos correspondentes deveres legais, regulamentares, orçamentários e estatutários, subsidiando o Conselho Deliberativo do LAVRASPREV, um Conselho Fiscal composto por 04 (quatro) membros, todos nomeados pelo Diretor, formado por servidores efetivos, com nível superior completo, sendo 01 (um) indicado pelo Chefe do Poder Executivo, 01 (um) indicado pelo Chefe do Poder Legislativo e 02 (dois) indicado pelo Conselho Deliberativo do LAVRASPREV, sendo 01 (um) dos servidores ativos e 01 (um) dos servidores inativos, com seus respectivos suplentes, para o exercício de mandato de 03 (três) anos, permitida a recondução, devendo atender ao requisito de certificação profissional nos termos da Portaria/MTP 1467/2022.\n§ 1º Os membros do Conselho Fiscal não são destituíveis ad nutum, somente podendo ser afastados de suas funções, depois de julgados em processo administrativo, se culpados por falta grave ou infração punível com demissão, ou em caso de vacância, assim entendida a ausência não justificada em 03 (três) reuniões consecutivas ou em 04 (quatro) intercaladas num mesmo ano.\n§ 2º Os membros do Conselho Fiscal farão jus a uma gratificação, por reunião de que participar, equivalente a 20% (vinte por cento) do menor vencimento pago pelo Município, no limite máximo de uma reunião mensal.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O Conselho Fiscal se reunirá ordinariamente, no mínimo uma vez por bimestre, e extraordinariamente, sempre que convocado por seu Presidente, em ambos os casos, desde que presentes a maioria de seus membros, cabendo-lhe especificamente:\nI - elaborar seu regimento interno;\nII - eleger o seu presidente;\nIII - fiscalizar os atos dos administradores do LAVRASPREV, o cumprimento de seus deveres legais e estatutários, as contas, livros, registros, balancetes, atos da gestão econômico-financeira, inventários, demonstrativos financeiro-atuariais e requerer outros documentos que achar necessário;\nIV - examinar e emitir parecer sobre os documentos analisados, especialmente sobre o balanço anual e as contas apuradas nos balancetes;\nV - examinar, a qualquer tempo, livros e documentos do LAVRASPREV;\nVI - lavrar, em livro de atas e pareceres, os resultados dos exames procedidos;\nVII - relatar ao Conselho Deliberativo do LAVRASPREV, as irregularidades eventualmente apuradas, sugerindo as medidas que julgar necessárias;\nVIII - julgar os recursos interpostos por segurados e dependentes dos despachos atinentes a processos de benefícios.\nIX - As decisões passíveis de recurso ao Conselho Fiscal deverão ser interpostas dentro do prazo de 30 (trinta) dias.\n§ 1º As atribuições e poderes conferidos ao Conselho Fiscal não podem ser outorgados a outro órgão do LAVRASPREV.\n§ 2º Os órgãos governamentais devem prestar, na forma da lei, toda e qualquer informação necessária ao adequado cumprimento das competências do Conselho Fiscal, fornecendo, sempre que necessário, os estudos técnicos correspondentes.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## Subseção III Do Comitê de Investimentos\nArt. 9º O Comitê de Investimentos, com finalidade deliberativa, integra a estrutura organizacional do LAVRASPREV e terá em sua composição 03 (três) Membros, definidos dentre os servidores municipais e autárquicos, Conselheiros e/ou aqueles integrantes dos quadros ou cedidos ao Instituto, titulares de cargo efetivo, com escolaridade de nível superior.\n§ 1º Os membros do Comitê serão respectivamente indicados pelo Diretor-Presidente, nomeados por meio de Portaria do LAVRASPREV, para um mandato de 04 (quatro) anos, permitida sua recondução.\n§ 2º Na composição do comitê de investimentos todos os integrantes deverão ser certificados nos termos e regulamentada pela Portaria/MTP 1467/2022.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O Comitê de Investimentos pautará suas decisões pela legislação pertinente aos Regimes Próprios de Previdência dos Servidores e pelas Diretrizes do Conselho Monetário Nacional.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Compete ao Comitê de Investimentos:\nI - opinar acerca do plano anual de execução da política de investimento do LAVRASPREV, a ser estabelecido em conformidade com o plano plurianual de investimento e de custeio, e com as respectivas programações econômico-financeiras e orçamentárias;\nII - acompanhar mensalmente a evolução dos investimentos do LAVRASPREV já realizados, com base em relatórios elaborados pela Diretoria Executiva e/ou Empresa especializada em consultoria de investimento, bem como proposições de mudança ou redirecionamento de recursos;\nIII - acompanhar a conjuntura econômica, discutir cenários e deliberar sobre as propostas para adequação do plano anual de investimentos e custeio de demais políticas de investimento do LAVRASPREV;\nIV - sugerir critérios e aprovar procedimentos gerais e normas para a aplicação de recursos no mercado financeiro, podendo contar com o assessoramento de profissionais de carreira e/ou consultores externos devidamente habilitados pelo LAVRASPREV;\nV - avaliar riscos potenciais;\nVI - propor critérios e aprovar procedimentos gerais e normas para aplicação e aquisição de recursos e na aquisição e/ou alienação de imóveis;\nVII - analisar e julgar as propostas de credenciamento das instituições financeiras, nos termos da Portaria/MTP 1467/2022, observando os critérios constantes no Edital de Credenciamento do LAVRASPREV.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Aos membros do Comitê compete:\nI - comparecer às reuniões mensais;\nII - votar sobre os assuntos a eles submetidos.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. O Comitê de Investimentos reunir-se-á, ordinariamente, mensalmente, com presença da maioria absoluta dos membros e deliberará por maioria simples dos presentes.\nI - o Comitê de Investimentos poderá ser convocado, no máximo por 3 reuniões extraordinárias, pelo Diretor-Presidente do LAVRASPREV.\nII - nas reuniões deverão ser lavradas as Atas, que por sua vez serão publicadas na página oficial do Instituto na internet.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. O Conselho Deliberativo avaliará os trabalhos dos membros e, constatada a falta de participação, poderá exigir ao Diretor-Presidente substituição dos membros.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Os membros do Comitê de Investimentos farão jus a uma gratificação por reunião ordinária e extraordinária de que participar, equivalente a 15% (quinze por cento) do menor vencimento pago pelo Município, a ser paga com recursos financeiros próprios do LAVRASPREV.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## Subseção IV Da Diretoria Executiva\nArt. 16. O LAVRASPREV será gerido por uma Diretoria Executiva, que funcionará como órgão superior de administração.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. A Diretoria Executiva será composta do Diretor-Presidente e do Diretor de Gestão de Pessoas e benefícios, nos termos do inciso IV, do art. 2 da presente Lei.\nParágrafo único. O Diretor-Presidente será substituído, nas ausências ou impedimentos temporários, pelo Diretor de Gestão de Pessoas\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Compete à Diretoria Executiva:\nI - cumprir e fazer cumprir a legislação da Previdência Municipal;\nII - submeter ao Conselho Deliberativo do LAVRASPREV a política e diretrizes de investimentos das reservas garantidoras de benefícios do LAVRASPREV;\nIII - submeter as contas anuais do LAVRASPREV para análise do Conselho Deliberativo do LAVRASPREV, acompanhadas dos pareceres do Conselho Fiscal, do Atuário e da Auditoria Independente, quando for o caso;\nIV - submeter ao Conselho Deliberativo do LAVRASPREV, ao Conselho Fiscal e a Auditoria Independente, balanços, balancetes mensais, relatórios semestrais da posição em títulos e valores e das reservas técnicas, bem como quaisquer outras informações e demais elementos de que necessitarem no exercício das respectivas funções;\nV - julgar recursos interpostos dos atos administrativos de sua competência, passíveis de revisão;\nVI - expedir as normas gerais reguladoras das atividades administrativas do LAVRASPREV;\nVII - opinar sobre a celebração de acordos, convênios e contratos em todas as suas modalidades, inclusive a prestação de serviços por terceiros.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Ao Diretor-Presidente, além das atribuições constantes no Anexo II desta Lei Complementar, compete:\nI - representar o LAVRASPREV em todos os atos e perante quaisquer autoridades e terceiros;\nII - comparecer às reuniões do Conselho Deliberativo do LAVRASPREV, sem direito a voto;\nIII - nomear, admitir, contratar, prover, transferir, exonerar, demitir ou dispensar os servidores do LAVRASPREV;\nIV - apresentar relatório de receitas e despesas (relatório de gestão) ao Conselho Fiscal;\nV - despachar os processos de habilitação a benefícios;\nVI - movimentar as contas bancárias do LAVRASPREV conjuntamente com servidor do instituto designado para tal função;\nVII - fazer delegação de competência aos servidores do LAVRASPREV;\nVIII - ordenar despesas e praticar todos os demais atos de administração;\nIX - conceder benefícios de aposentadoria e pensões estipulados na presente Lei, podendo, ainda, retificá-los, ratificá-los, revogá-los ou anulá-los;\nX - conceder reajustes dos benefícios de aposentadoria e pensões para preservar-lhes, em caráter permanente, o valor real;\nXI - elaborar o orçamento anual e plurianual do LAVRASPREV;\nXII - constituir comissões;\nXIII - celebrar e rescindir acordos, convênios e contratos em todas as suas modalidades, inclusive a prestação de serviços por terceiros;\nXIV - autorizar as aplicações e investimentos efetuados com os recursos do Instituto e com os do patrimônio geral do LAVRASPREV;\nXV - avocar o exame e a solução de quaisquer assuntos pertinentes ao LAVRASPREV;\nXVI - Instituir atos normativos de procedimentos administrativos e de Concessão de Benefícios.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Ao Diretor Gestão de Pessoas e Benefícios, além das atribuições constantes do Anexo II desta Lei Complementar, compete:\nI - praticar os atos de gestão de gestão de pessoas e benefícios;\nII - controlar e disciplinar, em conjunto com o Diretor-Presidente a folha de pagamento e benefícios;\nIII - acompanhar a rotina administrativa do LAVRASPREV;\nIV - avaliar a performance dos servidores do LAVRASPREV;\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "## Seção II Do Quadro de Pessoal\nArt. 21. Além dos órgãos mencionados no artigo 2º desta Lei, ficam criados no quadro de pessoal do LAVRASPREV os cargos em comissão de livre nomeação e exoneração, função gratificada e cargos de provimento efetivo, constantes do Anexo I da presente Lei, regidos pelo Regime Jurídico Estatutário dos servidores públicos municipais de Lavras, a serem providos na forma da Constituição da República, nas quantidades, denominações, vencimentos/remuneração mínima, simbologia, requisitos de investidura e jornada de trabalho especificados no referido anexo e atribuições constantes do Anexo II da presente Lei.\n§ 1º Para fazer face às despesas decorrentes da remuneração dos servidores ocupante dos cargos mencionados no caput deste artigo, serão utilizadas as dotações orçamentárias e recursos financeiros próprios do LAVRASPREV.\n§ 2º O LAVRASPREV poderá utilizar-se de servidores cedidos pela Administração Pública Municipal, mediante Convênio, que estabelecerá cláusulas e condições de trabalho;\n§ 3º Os servidores cedidos pela Administração Pública Municipal, a serviço do LAVRASPREV, serão designados ou cedidos através de ato do Chefe do Poder Executivo, o qual determinará suas atribuições;\n§ 4º A remuneração e os respectivos encargos sociais dos servidores públicos cedidos pela Administração Pública Municipal Direta, a serviço do LAVRASPREV, serão adimplidos mediante recursos financeiros próprios do Instituto ou através de recursos financeiros do Município, desde que o Instituto efetue o reembolso das despesas satisfeitas e previstas em Convênio;\n§ 5º O servidor público cedido para exercício de função comissionada poderá optar:\nI - pelo vencimento do cargo de provimento em comissão; ou\nII - pela remuneração de seu cargo efetivo acrescida de 50% (cinquenta por cento) do vencimento do cargo de provimento em comissão.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "## CAPÍTULO III DAS LICITAÇÕES, DAS CONTRATAÇÕS E DO AGENTE DE CONTRATAÇÃO\nArt. 22. O Instituto de Previdência Municipal promoverá as licitações e contratos pertinentes à sua finalidade, salvo quando, em situações especiais, considerando o interesse comum entre Administração Indireta e Direta, poderão ser realizados de maneira centralizada por esta última.\nParágrafo único. Fica o Instituto de Previdência Municipal autorizado a celebrar convênio com o Município de Lavras, quando houver interesse, para participação em processos licitatórios promovidos por este último, visando a redução de custos através da compra concentrada com maiores volumes e padronização de equipamentos e soluções, bem como utilização de atas de registro de preços elaboradas pelo município, obedecendo o que for disciplinado em lei.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. É de incumbência do Diretor-Presidente do LAVRASPREV promover gestão por competências e designar agentes públicos para o desempenho das funções essenciais à execução da Lei Federal nº 14.133, de 1º de abril de 2022, desde que preencham os seguintes requisitos:\nI - sejam, preferencialmente, servidores efetivos do quadro de pessoal do LAVRASPREV;\nII - tenham atribuições relacionadas a licitações e contratos ou possuam formação compatível ou qualificação atestada por certificação profissional emitida por escola de governo criada e mantida pelo poder público; e\nIII - não sejam cônjuge ou companheiro de licitantes ou contratados habituais da Administração nem tenham com eles vínculo de parentesco, colateral ou por afinidade, até o terceiro grau, ou de natureza técnica, comercial, econômica, financeira, trabalhista e civil.\n§ 1º A autoridade referida no caput deste artigo deverá observar o princípio da segregação de funções, vedada a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na respectiva contratação.\n§ 2º O disposto no caput e no § 1º deste artigo, inclusive os requisitos estabelecidos, também se aplica aos órgãos de assessoramento jurídico e de controle interno do LAVRASPREV.\n§ 3º Na inviabilidade do cumprimento do quanto disposto no inciso I do caput deste artigo, será permitido que tais agentes sejam servidores temporários ou estatutários.\nI - servidores temporários são aqueles que exercem atividade temporária de excepcional interesse público, pois seu vínculo permanece apenas enquanto durar a necessidade que o fundamentou;\nII - servidores estatutários são aqueles que podem ocupar cargos efetivos ou cargos em comissão.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. É vedado ao agente público designado para atuar na área de licitações e contratos, ressalvados os casos previstos em lei:\nI - admitir, prever, incluir ou tolerar, nos atos que praticar, situações que:\na) comprometam, restrinjam ou frustrem o caráter competitivo do processo licitatório, inclusive nos casos de participação de sociedades cooperativas;\nb) estabeleçam preferências ou distinções em razão da naturalidade, da sede ou do domicílio dos licitantes;\nc) sejam impertinentes ou irrelevantes para o objeto específico do contrato;\nII - estabelecer tratamento diferenciado de natureza comercial, legal, trabalhista, previdenciária ou qualquer outra entre empresas brasileiras e estrangeiras, inclusive no que se refere a moeda, modalidade e local de pagamento, mesmo quando envolvido financiamento de agência internacional;\nIII - opor resistência injustificada ao andamento dos processos e, indevidamente, retardar ou deixar de praticar ato de ofício, ou praticá-lo contra disposição expressa em lei.\n§ 1º Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato agente público de órgão ou entidade licitante ou contratante, devendo ser observadas as situações que possam configurar conflito de interesses no exercício ou após o exercício do cargo ou emprego, nos termos da legislação que disciplina a matéria.\n§ 2º As vedações de que trata este artigo estendem-se a terceiro que auxilie a condução da contratação na qualidade de integrante de equipe de apoio, profissional especializado ou funcionário ou representante de empresa que preste assessoria técnica.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. A designação dos agentes de contratação que ficarão responsáveis pela condução do procedimento licitatório será de responsabilidade do Diretor - Presidente do LAVRASPREV, a qual deve atender aos seguintes requisitos:\nI - sejam, preferencialmente, servidores efetivos do quadro de pessoal do LAVRASPREV;\nII - respondam individualmente pelos atos praticados no procedimento licitatório, inobstante a possibilidade de contarem com equipe de apoio para auxílio em suas atividades;\nIII - quando se tratar de pregão, que tenha realizado capacitação para exercer a atribuição nos termos definidos em decreto.\n§ 1º Em licitação que envolva bens ou serviços especiais, desde que observados os requisitos estabelecidos no art. 22 desta Lei, o agente de contratação poderá ser substituído por comissão de contratação formada por, no mínimo, 3 (três) membros, que responderão solidariamente por todos os atos praticados pela comissão, ressalvado o membro que expressar posição individual divergente fundamentada e registrada em ata lavrada na reunião em que houver sido tomada a decisão.\n§ 2º As regras relativas à atuação do agente de contratação e da equipe de apoio, ao funcionamento da comissão de contratação e à atuação de fiscais e gestores de contratos de que trata esta Lei serão estabelecidas em regulamento, e deverá ser prevista a possibilidade de eles contarem com o apoio dos órgãos de assessoramento jurídico e de controle interno para o desempenho das funções essenciais à execução do disposto nesta Lei.\n§ 3º Em licitação que envolva bens ou serviços especiais cujo objeto não seja rotineiramente contratado pela Administração, poderá ser contratado, por prazo determinado, serviço de empresa ou de profissional especializado para assessorar os agentes públicos responsáveis pela condução da licitação.\n§ 4º Em licitação na modalidade pregão, o agente responsável pela condução do certame será designado pregoeiro.\n§ 5º Na impossibilidade de atendimento à regra prevista no inciso I do caput deste artigo, a autoridade deverá justificar a escolha e nomeação de servidores temporários ou detentores de cargos em comissão para o exercício da função.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. Durante o período de convivência legislativa previsto no art. 191 da Lei Federal nº 14.133, de 1º de abril de 2021, serão observadas as seguintes regras transitórias:\nI - os presidentes das comissões de licitação e os Pregoeiros de que trata esta lei, serão designados Agentes de Contratação quando a Administração optar por licitar de acordo com o novo regime jurídico instituído pela Lei Federal nº 14.133, de 2021; e;\nII - as atuais comissões de licitação, permanentes ou especiais, serão designadas Comissões de Contratação, para fins de aplicação da Lei Federal nº 14.133, de 2021, na condução dos seguintes procedimentos:\na) pré-qualificação, registro cadastral e procedimento de manifestação de interesse, previstos nos arts. 80 e 87 da Lei Federal nº 14.133, de 2021; e\nb) licitações na modalidade concorrência para contratação de bens e serviços especiais, sob o regime jurídico da Lei Federal nº 14.133, de 2021, a critério da autoridade competente.\nParágrafo único. Os agentes de contratação contarão com o auxílio permanente de equipe de apoio, que poderá corresponder aos atuais membros de comissão de licitação, ou ser composta por profissionais terceirizados.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. Os procedimentos auxiliares de credenciamento e de registro de preços serão conduzidos por Agente de Contratação.\nParágrafo único. Na hipótese de o registro de preços ser processado na modalidade concorrência para contratação de bens e serviços especiais, poderá ser conduzido por comissão de contratação, observadas as disposições constantes em regulamento.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28. A licitação na modalidade diálogo competitivo, prevista no art. 32 da Lei Federal nº 14.133, de 2021 será conduzida por comissão especial de contratação, que deverá ser integrada por, no mínimo, 03 (três) servidores efetivos do quadro de pessoal do LAVRASPREV ou por servidores cedidos.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29. Enquanto não implementada a integração do Sistema Integrado ao Portal Nacional de Contratações Públicas-PNCP a que se refere o art. 174 da Lei Federal nº 14.133, de 2021, a publicação de atos, avisos de editais e extratos de contrato se dará no Diário Oficial do Município de Lavras e no Sistema Integrado.\nParágrafo único. Na hipótese do caput, a publicidade do inteiro teor de documentos, editais e contratos se dará no Sistema Integrado e no Portal da Transparência.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30. Os membros dos Conselhos Deliberativo, Fiscal, de Investimentos e da Diretoria Executiva não poderão contratar com o Instituto.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "## CAPÍTULO IV DOS RECURSOS\nArt. 31. Os recursos deverão ser interpostos perante o órgão que tenha proferido a decisão, devendo ser, desde logo, acompanhados das razões e documentos que os fundamentem.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32. Os recursos não terão efeito suspensivo, salvo se, em face dos interesses, assim o determinar o próprio órgão recorrido.\nParágrafo único. O órgão recorrido poderá reformar sua decisão, em face do recurso apresentado, caso em que este deixará de ser encaminhado à instância superior.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33. Caso a decisão não seja reformada pelo órgão recorrido, o recurso será submetido ao Conselho competente para apreciação.\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "## CAPÍTULO V DAS DISPOSIÇÕES FINAIS\nArt. 34. O Instituto de Previdência Municipal de Lavras gozará de isenção de tributos municipais.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35. Os membros dos Conselhos Administrativo e Fiscal e da Diretoria Executiva não poderão contratar com o Instituto.\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "Art. 36. Na data de entrada de vigência desta lei, serão mantidas as nomeações do Conselho Fiscal até o fim do mandado dos respectivos membros, sendo que a nova composição observará as disposições desta lei.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37. Na data de entrada de vigência desta Lei, serão nomeados os integrantes do Conselho Deliberativo e Comitê de Investimentos.\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "Art. 38. O Executivo Municipal regulamentará a presente Lei, no que couber.\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "Art. 39. As despesas decorrentes desta lei correrão à conta das dotações próprias.\n"
+      },
+      "art-0040": {
+       "label": "Art. 40",
+       "kind": "article",
+       "text": "Art. 40. Ficam revogados os artigos 1º, 2º, 56, 66, 67, 68, 69, 70, 71, 72, 72-A, 73, 74, 75, 76, 77, 78, 79, 80, 81 e 88 da Lei Municipal nº 3.082 de 16 de dezembro de 2004.\n"
+      },
+      "art-0041": {
+       "label": "Art. 41",
+       "kind": "article",
+       "text": "Art. 41. Fica revogado o Anexo Único da Lei Municipal nº 3.082, de 16 de dezembro de 2004.\n"
+      },
+      "art-0042": {
+       "label": "Art. 42",
+       "kind": "article",
+       "text": "Art. 42. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 31 de março de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 460, de 31 de março de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00459",
+   "short": "LC 459/2023",
+   "title": "Lei Complementar nº 459, de 16 de fevereiro de 2023",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8113",
+   "first_law": "lc-2023-00459",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-02-16",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2023/8113/lei_complementar_459_2023_autoriza_doar_ao_centro_de_equoterapia_de_lavras_area_que_menciona.pdf",
+     "sha256": "1d512a729cf4cedae2fd9ab5186f9214c4699a7c7d37a00c2474000688531c45",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 459, DE 16 DE FEVEREIRO DE 2023 (Projeto de Lei Complementar n° 021/2022, de autoria da Chefe do Poder Executivo) AUTORIZA O PODER EXECUTIVO MUNICIPAL A DOAR AO CENTRO DE EQUOTERAPIA DE LAVRAS, ÁREA QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo Municipal autorizado a doar ao Centro de Equoterapia de Lavras, Pessoa Jurídica de Direito Privado, CNPJ n° 08.742.529/0001-92, uma área institucional localizada no Bairro Eldorado, entre a Rua das Sibipirunas e Rua das Gameleiras e uma área com os cadastros n° 30.345 e 30.346.\n§ 1º As despesas da lavratura da escritura, taxas, custas e emolumentos, decorrentes desta doação, correrão por conta da Donatária.\n§ 2º Fica a Donatária com a obrigação de iniciar a construção mencionada no artigo 2º desta Lei, dentro do prazo de 02 (dois) anos e terminá-la no prazo de 05 (cinco) anos, contados da data de assinatura da escritura pública de doação autorizada por esta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A área objeto da presente doação destinar-se-á à implantação da sede do Centro de Equoterapia de Lavras e da implementação de um centro integrado de reabilitação neuropediátrica.\n§ 1º As obras de construção que forem executadas na área definida no caput do art. 1º passará a integrá-la, não cabendo à Donatária o direito de indenização, retenção ou compensação, de qualquer espécie, quando, se extinta ou revogada a doação.\n§ 2º É de responsabilidade da Donatária a regularização da área, observando-se o disposto na Lei Complementar nº 452/2022.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os encargos e obrigações relativos à doação, previstos neste artigo, deverão ser assumidos pela Donatária e deverão constar obrigatoriamente da escritura de doação:\nI - tomar posse no imóvel doado, no prazo máximo de 30 (trinta) dias contados da publicação desta Lei;\nII - arcar com todas as despesas decorrentes da construção;\nIII - não alterar a destinação do imóvel durante o prazo que estiver sendo utilizado;\nIV - responsabilizar-se por todas as despesas decorrentes da instalação, uso, manutenção, água, luz e telefone, bem como os tributos municipais, estaduais e federais incidentes na área doada;\nV - manter o imóvel na mais perfeita segurança, trazendo o bem em boas condições de higiene e limpeza e em perfeito estado de conservação, caso seja determinado sua restituição, pelo Poder Público Municipal, sem direito a retenção ou indenização por quaisquer benfeitorias, ainda que necessárias, as quais ficarão incorporadas, desde logo, ao bem;\nVI - responsabilizar-se por todas as despesas decorrentes da instalação dos equipamentos necessários ao seu funcionamento, assim como pelas despesas decorrentes de reparos que vierem a ser feitos no imóvel em função da sua utilização;\nVII - não repassar essa Doação, ou transferir, ou sublocar, ou ceder ou emprestar o seu objeto sob qualquer pretexto, sem autorização do Município, ou por igual ou semelhante forma alterar o fim a que se destina o objeto da presente doação, não constituindo o decurso do tempo, por si só, ou a demora do Município em reprimir a infração, assentimento à mesma.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Doação de que trata a presente Lei será revogada, independentemente de notificação prévia, revertendo o imóvel ao Patrimônio do Município com os acréscimos nele constantes, sem qualquer indenização à Donatária, uma vez constatada a infração do disposto nesta Lei e na hipótese em que o mesmo, por qualquer motivo, deixar de exercer as atividades e encargos para os quais se propõe.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O imóvel descrito no artigo primeiro será gravado de inalienabilidade, impenhorabilidade, impermutabilidade.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 16 de fevereiro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 459, de 16 de fevereiro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04742",
+   "short": "Lei 4742/2022",
+   "title": "Lei nº 4.742, de 22 de dezembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8092",
+   "first_law": "lei-2022-04742",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8092/lei_4742_2022_parcelamento_de_debitos_regime_proprio_de_previdencia_social_lavrasprev.pdf",
+     "sha256": "86d01379c7e290cb88613a5e60b17e0c946795d034dfa77c5a6db6b8e741c6ec",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.742, DE 22 DE DEZEMBRO DE 2022 (Projeto de Lei n° 025/2022, de autoria da Chefe do Poder Executivo) DISPÕE SOBRE O PARCELAMENTO DE DÉBITOS DO MUNICÍPIO DE LAVRAS COM SEU REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL - RPPS.\nA Câmara Municipal de Lavras, através de seus representantes legais aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o parcelamento dos débitos do Município de Lavras ao Regime Próprio de Previdência Social (RPPS), gerido pelo Instituto de Previdência Municipal de Lavras - LAVRASPREV, em 60 (sessenta) prestações mensais, iguais e sucessivas, nos termos da Portaria nº 1.467/2022 do Ministério do Trabalho e Previdência (MTP).\nParágrafo único. É vedado o parcelamento, para o período a que se refere o caput deste artigo, de débitos oriundos de contribuições previdenciárias descontadas dos segurados ativos, aposentados e pensionistas e de débitos não decorrentes de contribuições previdenciárias.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para apuração dos montantes devidos a serem parcelados, os valores originais serão atualizados pelo Índice de Preços ao Consumidor Amplo (IPCA/IBGE), acrescido de juros simples de 0,5% (meio por cento) ao mês, acumulados desde a data de vencimento até a data da assinatura do termo de acordo de parcelamento.\n§ 1º. As prestações vincendas serão atualizadas mensalmente pelo Índice de Preços ao Consumidor Amplo (IPCA/IBGE), acrescido de juros simples de 0,5% (meio por cento) ao mês, acumulados desde a data de consolidação do montante devido no termo de acordo de parcelamento até o mês do pagamento.\n§ 2º. As prestações vencidas serão atualizadas mensalmente pelo Índice de Preços ao Consumidor Amplo (IPCA/IBGE), acrescido de juros simples de 0,5% (meio por cento) ao mês e multa de 1% (um por cento), acumulados desde a data de vencimento da prestação até o mês do efetivo pagamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas de competência do Município decorrentes desta Lei ocorrerão à conta de dotações orçamentárias consignadas no orçamento municipal, suplementadas, oportunamente, se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 22 de dezembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.742, de 22 de dezembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00458",
+   "short": "LC 458/2022",
+   "title": "Lei Complementar nº 458, de 22 de dezembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8088",
+   "first_law": "lc-2022-00458",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8088/lei_complementar_458_2022_regime_diferenciado_e_de_plantao_na_unidade_de_pronto_atendimento.pdf",
+     "sha256": "f345d9418e94e7ef9177d98eb4a56a0c61ef3fa9fc9439caafe1a16ed8f7beec",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 458, DE 22 DE DEZEMBRO DE 2022 (Projeto de Lei Complementar n° 328/2022, de autoria da Chefe do Poder Executivo) DISPÕE SOBRE O REGIME DIFERENCIADO E DE PLANTÃO NA UNIDADE DE PRONTO ATENDIMENTO - UPA, REVOGA DISPOSITIVOS DA LEI COMPLEMENTAR Nº 328, DE 16 DE JULHO DE 2014, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPITULO I DAS DISPOSIÇÕES PRELIMINARES\nArt. 1º Esta Lei Complementar dispõe sobre o Regime Diferenciado e de Plantão na Unidade do Pronto Atendimento - UPA, denominada de Nerina Menicucci, revoga dispositivos da Lei Complementar nº 328/2014, e dá outras providências.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Regime Diferenciado de Trabalho é aplicado nos serviços que exigem atividades com carga horária inferior a de 12 (doze) horas, estendido para as atividades administrativas e que possuem natureza peculiar e essencial, sendo destinado aos servidores que realizam atividades e atendimentos na Unidade de Pronto Atendimento Nerina Menicucci, nos termos desta Lei Complementar.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Regime de Plantão é aplicado nos serviços que exigirem atividades contínuas de 12 ou 24 horas, sendo destinado aos servidores que realizam atendimentos de urgência e emergência na Unidade de Pronto Atendimento Nerina Menicucci, vedado para atividades administrativas, nos termos desta Lei Complementar.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "## CAPÍTULO II ESTRUTURA E SERVIÇOS\nArt. 4º A Unidade de Pronto Atendimento Nerina Menicucci, trata-se de órgão vinculado ao Fundo Municipal de Saúde que visa prestar atendimento de urgência e emergência, de nível intermediário de atenção entre as Unidades Básicas de Saúde (UBS) e as portas de urgência hospitalares, estruturada nos seguintes setores:\nI - Triagem/Classificação de Risco;\nII - Urgência e Emergência;\nIII - Medicação;\nIV - Observação;\nV - Sala de Ortopedia;\nVI - Bloco Cirúrgico;\nVII - Sala de Curativo;\nVIII - Sala de ECG;\nIX - Sala de Imunização;\nX - Sala de Enfermagem;\nXI - Expurgo;\nXII - Esterilização CME - Central de Material Esterelizado;\nXIII - Serviço de Psicologia;\nXIV - Serviço de Nutrição e Dietetica;\nXV - Posto Avançado de Coleta de Sangue;\nXVI - Agência Transfusional;\nXVII - Laboratório de Urgência e Emergência;\nXVIII - Serviços de Imagem;\nXIX - Setor das Comissões;\nXX - CCIH - Comissão de Controle de Infecção Hospitalar.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Atendimento de Urgência e Emergência na Unidade de Pronto Atendimento Nerina Menicucci é realizado por equipe da área da saúde, constituída, no mínimo, pelos seguintes profissionais:\nI - Médico: Clínico (presencial);\nII - Médico: Pediatra (presencial);\nIII - Bioquímico (presencial);\nIV - Enfermeiro (presencial);\nV - Técnico de Enfermagem (presencial);\nVI - Técnico em Radiologia (presencial);\nVII - Médico: Oncologista (sobreaviso);\nVIII - Médico: Cirurgião (sobreaviso);\nIX - Médico: Anestesista (sobreaviso);\nX - Médico: Neurocirurgião (sobreaviso);\nXI - Médico: Ortopedista (sobreaviso);\nXII - Médico: Radiologista (sobreaviso);\nXIII - Médico: Urologista (sobreaviso);\nXIV - Médico Cirurgião Vascular (sobreaviso);\nXV - Dentista (sobreaviso).\nParágrafo único. Os plantões dos dentistas na Unidade de Pronto Atendimento deverão ser cumpridos por especialistas em Cirurgia e Traumatologia Buco Maxilo Facial e/ou Periodontia.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Serviço de Hemoterapia Municipal na Unidade de Pronto Atendimento Atendimento Nerina Menicucci é realizado por equipe técnica habilitada e capacitada, constituída, no mínimo, pelos seguintes profissionais:\nI - Médico - Clínico;\nII - Enfermeiro;\nIII - Técnico em Enfermagem;\nIV - Profissional vinculado à Secretaria Municipal de Saúde para realização permanente da atividade de captação de doadores e realização de atividade Administrativa.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Serviço de Agência Transfusional na Unidade de Pronto Atendimento Nerina Menicucci é realizado por equipe técnica habilitada e capacitada, constituída, no mínimo, pelos seguintes profissionais:\nI - Bioquímico e/ou Farmacêutico;\nII - Enfermeiro.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O Serviço de Epidemiologia, Prevenção e Controle das Infecções na Unidade de Pronto Atendimento Nerina Menicucci é realizado por enfermeiros capacitados que compõe a Comissão de Controle de Infecção Hospitalar - CCIH, constituída, pelas seguintes especificidades e responsabilidades:\nI - Enfermeiro CCIH: para Controle de Infecção Hospitalar;\nII - Enfermeiro Imunização: para Imunização e Comissão;\nIII - Enfermeiro, Bioquímico e/ou Enfermeiro AT: para Agência Transfusional;\nIV - Enfermeiro: para Responsável Técnico da Comissão - RT;\nV - Enfermeiro Triagem: para Triagem.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## CAPÍTULO III JORNADA DE TRABALHO\nArt. 9º A jornada de trabalho especificada nesta Lei Complementar é definida da seguinte forma:\nI - de 06 (seis) horas;\nII - de 08 (oito) horas;\nIII - de 12 (doze) horas; e\nIV - de 24 (vinte e quatro) horas.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O Serviço de Hemoterapia Municipal tem regime diferenciado de trabalho com carga horária de 6 (seis) horas diárias, desde que atendida as condições para instalação e operacionalização, para cargos/especialidades e modalidades previstas no Anexo I desta Lei Complementar.\nParágrafo Único. Os servidores designados para desempenhar as funções no serviço de hemoterapia, exercerão a carga horária em horário diverso da prevista no cargo em que ocupa.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O Serviço de Agência Transfusional tem regime diferenciado de trabalho com carga horária de 8 (oito) horas diárias, desde que atendida as condições para instalação e operacionalização, para cargos/especialidades e modalidades previstas no Anexo I desta Lei Complementar.\nParágrafo Único. Os servidores designados para desempenhar as funções no serviço de agência transfusional exercerão a carga horária em horário diverso da prevista no cargo em que ocupa.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. O Serviço de Epidemiologia, Prevenção e Controle das Infecções tem regime diferenciado de trabalho com carga horária de 8 (oito) horas diárias, para cargos/especialidades e modalidades previstas no Anexo I desta Lei Complementar.\nParágrafo Único. Os servidores designados para desempenhar as funções no serviço de epidemiologia, prevenção e controle das infecções, poderão exercer sua carga horária em horário diverso se requisitado.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. O Atendimento de Urgência e Emergência, cujas especialidades estão previstas no art. 5º, tem jornada especial no regime de plantão, com carga horária de 12 (doze) horas diárias e de 24 (vinte quatro) horas diárias, para os cargos/especialidades e modalidades previstas no Anexo II desta Lei Complementar.\n§ 1º Os servidores ocupantes de cargo em comissão ou função gratificada não farão jus à percepção de plantão presencial ou de sobreaviso.\n§ 2º É vedado escalar servidor efetivo para o em regime de plantão presencial ou sobreaviso que estiver em gozo de licença prêmio, férias e/ou afastado por licença médica.\n§ 3º No cumprimento da carga horária e da jornada de trabalho, não poderá haver sobreposição de horários.\n§ 4º É permitida a troca de plantão médico desde que seja por meio de permuta e que os interessados notifiquem o Diretor Técnico ou Clínico, com a indicação do plantonista substituto, devidamente justificado com antecedência mínima de 01 (um) plantão.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## CAPÍTULO IV DAS VANTAGENS REMUNERATÓRIAS\n## Seção I Da Gratificação por Serviço UPA\nArt. 14. Fica instituída a Gratificação por Serviço UPA para os servidores que trabalham em regime diferenciado de trabalho, previsto no art. 2º, assegurado o pagamento de valores e quantitativo estabelecidos no QUADRO DE GRATIFICAÇÃO POR SERVIÇOS UPA constante no Anexo I desta Lei Complementar.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. As Gratificações por Serviços UPA somente podem ser concedidas àqueles servidores de que trata esta Lei Complementar, que realizarem as atividades vinculadas ao serviço especificado e na modalidade \"presencial\", que se dá com a presença do profissional no local de trabalho durante o horário de regime diferenciado de trabalho.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. É dever dos servidores em regime diferenciado de trabalho observar seu horário à qual foi designado, devendo comparecer conforme determinado pela Secretaria Municipal de Saúde.\n§ 1º Não sendo possível cumprir a carga horária à qual foi designado, deve comunicar a chefia imediata e com antecedência mínima de 48hs, sob pena de perda do direito à gratificação, garantido o pagamento proporcional às horas trabalhadas.\n§ 2º Fica autorizado a designação pro tempore, em caráter de substituição, desde que haja comunicação com a antecedência prevista no § 1º.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "## Seção II Das Gratificações de Regime de Plantão\nArt. 17. Fica instituído as Gratificações de Regime de Plantão para os servidores que realizam atendimentos de urgência e emergência, previsto no art. 3º e art. 5º, assegurado o pagamento de valores e quantitativo estabelecidos no QUADRO DE GRATIFICAÇÃO DE REGIME DE PLANTÃO UPA constante no Anexo II desta Lei Complementar.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Qualquer servidor público municipal ocupante dos cargos/especialidades descritos no QUADRO DE GRATIFICAÇÃO DE REGIME DE PLANTÃO UPA, constante no Anexo II da presente Lei Complementar, pode realizar plantões, desde que não haja sobreposição de horários e conforme o quantitativo estabelecido, com direito a percepção do respectivo valor de plantão, podendo optar pela contribuição previdenciária sobre os plantões realizados, incorporando para fins de aposentadoria sobre a média dos plantões recolhidos.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. O plantão pode ser \"presencial\", que se dará com a presença do profissional plantonista no local de trabalho durante o horário de plantão, ou \"sobreaviso\", que se caracteriza pela permanência à disposição durante o horário de plantão, podendo ser exigida a sua presença a qualquer momento, devendo comparecer em até 01 (uma) hora, podendo ser reduzida de acordo com a urgência e necessidade.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Os servidores efetivos concursados que realizarem apenas plantões cumprirão sua carga horária através da realização do plantão do cargo/especialidade previsto no Anexo II, garantido a progressão vertical e a promoção funcional e respectivo vencimento do cargo efetivo correspondente, nos termos da Lei Complementar nº 328/2014 - Plano de Cargos, Carreiras e Vencimentos dos Servidores da Administração Pública do Município de Lavras, bem como o respectivo pagamento dos plantões que excederem à carga horária, com recolhimento de contribuição previdenciária sobre esses plantões.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. Os servidores que realizarem atendimento médico em unidade de saúde designada pelo Município e plantões, será garantido seu respectivo vencimento, demais vantagens e premiações estabelecidas em lei e valor dos plantões, desde que as atividades sejam exercidas em horário diverso e haja compatibilidade exigida pela norma constitucional com possibilidade efetiva de cumprimento de carga horária, sem prejuízo ao desempenho do cargo ou à saúde do trabalhador, com recolhimento de contribuição previdenciária sobre os plantões.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. É dever dos servidores em regime de plantão observar seu horário na escala, devendo comparecer conforme determinado pela Secretaria.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. A Administração Municipal através de Decreto pode fixar plantões específicos presenciais prestados por médicos em datas especiais, com pagamento de plantões em dobro, mediante disponibilidade orçamentária e financeira.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "## Seção III Das Gratificações de Responsabilidade Técnica da UPA\nArt. 24. Fica instituída a Gratificação de Responsabilidade Técnica do Enfermeiro Responsável Técnico da Comissão - RT da Unidade de Pronto Atendimento Nerina Menicucci no valor mensal de R$ 1.000,00 (mil reais).\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. Fica instituída a Gratificação de Responsabilidade Técnica do Diretor Clínico da Unidade de Pronto Atendimento Nerina Menicucci no valor mensal de R$ 3.000,00 (três mil reais).\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. Fica instituída a Gratificação de Responsabilidade Técnica do Laboratório Municipal, e de Urgência e Emergência da Unidade de Pronto Atendimento Nerina Menicucci, ao servidor ocupante do cargo de Bioquímico, no valor R$ 3.000,00 (três mil reais).\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "## Seção IV Das Gratificação por Condições Especiais UPA\nArt. 27. Fica instituída a Gratificação por Condições Especiais UPA para Médico de qualquer especialidade no valor de R$ 3.000,00 (três mil reais), que exercer a função de Médico de Serviço de Verificação de Óbito na Unidade de Pronto Atendimento Nerina Menicucci.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "## Seção V Da Gratificação por Serviço de Atendimento Especializado\nArt. 28. Fica instituída a Gratificação por Serviço de Atendimento Especializado para Médico Ortopedista no valor de R$ 3.125,00 (três mil, cento e vinte e cinco reais) que realizar atendimento especializado pós traumático.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "## Seção VI Da Gratificação por Coordenação da Comissão Municipal de Oncologia\nArt. 29. Fica instituída a Gratificação por Coordenação da Comissão Municipal de Oncologia no valor de R$ 2.000,00 (dois mil reais).\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "## CAPÍTULO V DAS DISPOSIÇÕES FINAIS\nArt. 30. As gratificações especificadas nos artigos 27 e 28 são de natureza transitória, não serão incorporadas aos vencimentos, salvo para efeitos de aposentadoria como base na média de recolhimentos.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31. Os demais termos e condições para a operacionalização do regime diferenciado de trabalho e regime de plantão poderão ser estabelecidos pelo Executivo Municipal, mediante regulamentação.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32. A designação dos servidores a desempenhar as atividades em regime diferenciado de trabalho, deve ser estabelecida por Portaria da Secretaria Municipal de Saúde, condicionado o recebimento da vantagem remuneratória com a execução das atividades desempenhadas devidamente atestada pela Direção Administrativa da Unidade de Pronto Atendimento Nerina Menicucci.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33. Os servidores que realizam atendimento em regime de plantão, devem cumprir com a escala de plantões efetuada pela Direção Administrativa da Unidade de Pronto Atendimento Nerina Menicucci, condicionado o recebimento da vantagem remuneratória com a execução das atividades desempenhadas e atestada pela direção.\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34. As gratificações previstas nesta lei poderão ser reajustadas na mesma data e nos mesmos índices que forem alteradas as remunerações dos servidores públicos, mediante disponibilidade orçamentária e financeira.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35. Fica revogado o art. 77 e Anexo IX da Lei Complementar nº. 328, de 16 de julho de 2014\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "Art. 36. As despesas decorrentes da aplicação desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 22 de dezembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 458, de 22 de dezembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04738",
+   "short": "Lei 4738/2022",
+   "title": "Lei nº 4.738, de 6 de dezembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8082",
+   "first_law": "lei-2022-04738",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8082/lei_4738_2022_denomina_posto_de_saude_da_familia_carlos_roberto_campim.pdf",
+     "sha256": "39c54321b74fa3e5d7976d2c37b595a38e139b6d811ea4d649a3e9b9c4b17ed6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.738, DE 06 DE DEZEMBRO DE 2022 (Projeto de Lei n° 033/2022, de autoria da Chefe do Poder Executivo) DENOMINA DE \"CARLOS ROBERTO CAMPIM\" O POSTO DE SAÚDE DA FAMÍLIA (PSF) LOCALIZADO NO BAIRRO RESIDENCIAL VISTA DO LAGO.\nA PREFEITA DO MUNICÍPIO DE LAVRAS, estado de Minas Gerais, no uso de suas atribuições legais faz saber que a Câmara Municipal APROVOU e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado \"CARLOS ROBERTO CAMPIM\", o Posto de Saúde da Família (PSF) localizado na Rua Vinte, nº 84, Bairro Residencial Vista do Lago.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo providenciará a colocação de placas indicativas, bem como as devidas comunicações aos Correios, companhias de abastecimento de água e de energia elétrica e aos setores de Obras e Cadastro da Municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 06 de dezembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.738, de 6 de dezembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04737",
+   "short": "Lei 4737/2022",
+   "title": "Lei nº 4.737, de 6 de dezembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8081",
+   "first_law": "lei-2022-04737",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8081/lei_4737_2022_denomina_escola_municipal_maria_dalca_fonseca_campideli.pdf",
+     "sha256": "0a7ef28a0c57d0e8699c4d38774768dd7c19e0d73c02db72ac1524b37831c606",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.737, DE 06 DE DEZEMBRO DE 2022 (Projeto de Lei n° 030/2022, de autoria da Chefe do Poder Executivo) DENOMINA DE \"MARIA DALCA FONSECA CAMPIDELI\" A ESCOLA MUNICIPAL LOCALIZADA NO BAIRRO RESIDENCIAL VISTA DO LAGO, E DÁ OUTRAS PROVIDÊNCIAS.\nA PREFEITA DO MUNICÍPIO DE LAVRAS, Estado de Minas Gerais, no uso de suas atribuições legais faz saber que a Câmara Municipal APROVOU e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada \"MARIA DALCA FONSECA CAMPIDELI\", a Escola Municipal situada no bairro Residencial Vista do Lago.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo providenciará a colocação de placas indicativas, bem como as devidas comunicações aos Correios, companhias de abastecimento de água e de energia elétrica e aos setores de Obras e Cadastro da Municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 06 de dezembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.737, de 6 de dezembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00456",
+   "short": "LC 456/2022",
+   "title": "Lei Complementar nº 456, de 6 de dezembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8080",
+   "first_law": "lc-2022-00456",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8080/lei_complementar_456_2022_altera_lei_complementar_097.pdf",
+     "sha256": "7b7c8a8aa139fcc9236a66245b33ede68987d898badd85128dae7e89d1a5f6ea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº. 456, DE 06 DE DEZEMBRO DE 2022.\n(Projeto de Lei Complementar nº 013/2022, de autoria da Chefe do Poder Executivo) ALTERA A LEI COMPLEMENTAR MUNICIPAL Nº 097/2007, QUE INSTITUI O PLANO DIRETOR DO MUNICÍPIO DE LAVRAS, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, através de seus representantes legais aprovou e eu, Prefeita Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Mapa do Zoneamento Municipal, constante no Anexo VII da Lei Complementar nº 97, de 17 de abril de 2007, com redação dada pela Lei Complementar nº 419, de 17 de dezembro de 2020, passa a viger com as alterações constantes no Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 06 de dezembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 456, de 6 de dezembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04736",
+   "short": "Lei 4736/2022",
+   "title": "Lei nº 4.736, de 29 de novembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8076",
+   "first_law": "lei-2022-04736",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8076/lei_4736_2022_regras_e_diretrizes_para_agente_de_contratacao_equipe_de_apoio_comissao_de_ocntratacao_gestores_fiscais_de_contratos.pdf",
+     "sha256": "143a42a54b30147a4b47ee49d63044f0c79730197f30cd6faba6d6a23ace987e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.736, DE 29 DE NOVEMBRO DE 2022 (Projeto de Lei n° 020/2022, de autoria da Chefe do Poder Executivo, com emendas do Vereador Ubirajara Cassiano Rocha) ESTABELECE REGRAS E DIRETRIZES PARA A ATUAÇÃO DE AGENTE DE CONTRATAÇÃO, DE EQUIPE DE APOIO, DA COMISSÃO DE CONTRATAÇÃO E DOS GESTORES E FISCAIS DE CONTRATOS, NOS TERMOS DA LEI FEDERAL Nº 14.133, DE 1º DE ABRIL DE 2021, NO ÂMBITO DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL DO MUNICÍPIO DE LAVRAS-MG.\nA Câmara Municipal de Lavras, através de seus representantes legais aprovou, e eu, Prefeita Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É de incumbência do(a) Secretário (a) Municipal de Administração e Recursos Humanos e do Presidente da Câmara Municipal de Lavras, promover gestão por competências e designar agentes públicos para o desempenho das funções essenciais à execução desta Lei que preencham os seguintes requisitos:\nI - sejam, preferencialmente, servidor efetivo ou empregado público dos quadros permanentes da Administração Pública;\nII - tenham atribuições relacionadas a licitações e contratos ou possuam formação compatível ou qualificação atestada por certificação profissional emitida por escola de governo criada e mantida pelo poder público; e\nIII - não sejam cônjuge ou companheiro de licitantes ou contratados habituais da Administração nem tenham com eles vínculo de parentesco, colateral ou por afinidade, até o terceiro grau, ou de natureza técnica, comercial, econômica, financeira, trabalhista e civil.\n§ 1º As autoridades referidas no caput deste artigo deverão observar o princípio da segregação das funções, vedada a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na respectiva contratação.\n§ 2º O disposto no caput e no § 1º deste artigo, inclusive os requisitos estabelecidos, também se aplica aos órgãos de assessoramento jurídico e de controle interno da Administração.\n§ 3º Na inviabilidade do cumprimento do quanto disposto no inciso I deste artigo 1º, será permitido que tais agentes sejam servidores temporários, servidores celetistas ou estatutários.\nI - servidores temporários são aqueles que exercem atividade temporária de excepcional interesse público, pois seu vínculo permanece apenas enquanto durar a necessidade que o fundamentou;\nII - servidores celetistas são aqueles que trabalham perante empresas públicas, sociedades de economia mista e fundações governamentais de direito privado;\nIII - servidores estatutários são aqueles que podem ocupar cargos efetivos ou cargos em comissão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º É vedado ao agente público designado para atuar na área de licitações e contratos, ressalvados os casos previstos em lei:\nI - admitir, prever, incluir ou tolerar, nos atos que praticar, situações que:\na) comprometam, restrinjam ou frustrem o caráter competitivo do processo licitatório, inclusive nos casos de participação de sociedades cooperativas;\nb) estabeleçam preferências ou distinções em razão da naturalidade, da sede ou do domicílio dos licitantes;\nc) sejam impertinentes ou irrelevantes para o objeto específico do contrato;\nII - estabelecer tratamento diferenciado de natureza comercial, legal, trabalhista, previdenciária ou qualquer outra entre empresas brasileiras e estrangeiras, inclusive no que se refere a moeda, modalidade e local de pagamento, mesmo quando envolvido financiamento de agência internacional;\nIII - opor resistência injustificada ao andamento dos processos e, indevidamente, retardar ou deixar de praticar ato de ofício, ou praticá-lo contra disposição expressa em lei.\n§ 1º Não poderá participar, direta ou indiretamente, da licitação ou da execução do contrato agente público de órgão ou entidade licitante ou contratante, devendo ser observadas as situações que possam configurar conflito de interesses no exercício ou após o exercício do cargo ou emprego, nos termos da legislação que disciplina a matéria.\n§ 2º As vedações de que trata este artigo estendem-se a terceiro que auxilie a condução da contratação na qualidade de integrante de equipe de apoio, profissional especializado ou funcionário ou representante de empresa que preste assessoria técnica.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A designação dos agentes de contratação que ficarão responsáveis pela condução do procedimento licitatório será de responsabilidade do (a) Secretário (a) Municipal de Administração e Recursos Humanos e do(a) Presidente da Câmara Municipal de Lavras, respeitando-se as estruturas independentes dos Poderes Executivo e Legislativo, a qual deve atender aos seguintes requisitos:\nI - sejam, preferencialmente, servidor efetivo ou empregado público dos quadros permanentes dos Poderes Executivo e Legislativo;\nII - respondam individualmente pelos atos praticados no procedimento licitatório, inobstante a possibilidade de contarem com equipe de apoio para auxílio em suas atividades;\nIII - quando se tratar de pregão, que tenha realizado capacitação para exercer a atribuição nos termos definidos em decreto.\n§ 1º Em licitação que envolva bens ou serviços especiais, desde que observados os requisitos estabelecidos no art. 1º desta Lei, o agente de contratação poderá ser substituído por comissão de contratação formada por, no mínimo, 3 (três) membros, que responderão solidariamente por todos os atos praticados pela comissão, ressalvado o membro que expressar posição individual divergente fundamentada e registrada em ata lavrada na reunião em que houver sido tomada a decisão.\n§ 2º As regras relativas à atuação do agente de contratação e da equipe de apoio de contratação, ao funcionamento da comissão de contratação e à atuação de fiscais e gestores de contratos de que trata esta Lei serão estabelecidas por meio de Decreto do Poder Executivo e de Portaria da Presidência da Câmara Municipal de Lavras, conforme particularidades orgânico-funcionais de cada Poder, e deverá ser prevista a possibilidade de eles contarem com o apoio dos órgãos de assessoramento jurídico e de controle interno para o desempenho das funções essenciais à execução do disposto nesta Lei.\n§ 3º Em licitação que envolva bens ou serviços especiais cujo objeto não seja rotineiramente contratado pela Administração, poderá ser contratado, por prazo determinado, serviço de empresa ou de profissional especializado para assessorar os agentes públicos responsáveis pela condução da licitação.\n§ 4º Em licitação na modalidade pregão, o agente responsável pela condução do certame será designado pregoeiro.\n§ 5º Na impossibilidade de atendimento à regra prevista no inciso I do caput deste artigo, a autoridade deverá justificar a escolha e nomeação de servidores temporários ou detentores de cargos em comissão para o exercício da função.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Durante o período de convivência legislativa previsto no art. 191 da Lei Federal nº 14.133, de 1º de abril de 2021, serão observadas as seguintes regras transitórias:\nI - os presidentes das comissões de licitação e os Pregoeiros de que trata esta lei, serão designados Agentes de Contratação quando a Administração optar por licitar de acordo com o novo regime jurídico instituído pela Lei Federal nº 14.133, de 2021;\ne;\nII - as atuais comissões de licitação, permanentes ou especiais, serão designadas Comissões de Contratação, para fins de aplicação da Lei Federal nº 14.133, de 2021, na condução dos seguintes procedimentos:\na) pré-qualificação, registro cadastral e procedimento de manifestação de interesse, previstos nos arts. 80 e 87 da Lei Federal nº 14.133, de 2021; e\nb) licitações na modalidade concorrência para contratação de bens e serviços especiais, sob o regime jurídico da Lei Federal nº 14.133, de 2021, a critério da autoridade competente.\nParágrafo único. Os agentes de contratação contarão com o auxílio permanente de equipe de apoio, que poderá corresponder aos atuais membros de comissão de licitação, ou ser composta por profissionais terceirizados.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os procedimentos auxiliares de credenciamento e de registro de preços serão conduzidos por Agente de Contratação.\nParágrafo único. Na hipótese de o registro de preços ser processado na modalidade concorrência para contratação de bens e serviços especiais, poderá ser conduzido por comissão de contratação, observadas as disposições constantes em regulamento.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A licitação na modalidade diálogo competitivo, prevista no art. 32 da Lei Federal nº 14.133, de 2021 será conduzida por comissão especial de contratação, que deverá ser integrada por, no mínimo, 03 (três) servidores municipais com vínculo efetivo ou empregados públicos dos quadros permanentes da Administração ou servidores cedidos ao Poder Executivo Municipal.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Enquanto não implementada a integração do Sistema Integrado do Município ao Portal Nacional de Contratações Públicas-PNCP a que se refere o art.\n174 da Lei Federal nº 14.133, de 2021, a publicação de atos, avisos de editais e extratos de contrato se dará no Diário Oficial do Município e no Sistema Integrado.\nParágrafo único. Na hipótese do caput, a publicidade do inteiro teor de documentos, editais e contratos se dará no Sistema Integrado e no Portal da Transparência.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 29 de novembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.736, de 29 de novembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04735",
+   "short": "Lei 4735/2022",
+   "title": "Lei nº 4.735, de 11 de novembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8070",
+   "first_law": "lei-2022-04735",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8070/lei_4735_2022_denomina_rua_hernani_da_costa_ribeiro.pdf",
+     "sha256": "25bdc68846cf97d7c5d2ef33da3e7233bc2f7adfe755f14c8c767c3ceb32d279",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.735, DE 11 DE NOVEMBRO DE 2022 (Projeto de Lei do Legislativo n° 023/2022, de autoria do Vereador Ubirajara Cassiano Rocha) DENOMINA DE RUA HERNANI DA COSTA RIBEIRO LOGRADOURO PÚBLICO QUE MENCIONA.\nA Câmara Municipal de Lavras aprovou, e eu em seu nome, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada \"HERNANI DA COSTA RIBEIRO\" a Rua Projetada 01, com início entre o Lote 01 da Quadra 06 e Lote 16 da Quadra 05, passando pela Avenida Totonho Rezende e término entre o Lote 01 da Quadra 02 e Lote 20 da Quadra 01, situado no Bairro Cidade da Serra.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica Revogada a Lei nº 4.322, de 10 de junho de 2016.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entrará em vigor na data da sua publicação.\nPrefeitura Municipal de Lavras, em 11 de novembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.735, de 11 de novembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04734",
+   "short": "Lei 4734/2022",
+   "title": "Lei nº 4.734, de 11 de novembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8069",
+   "first_law": "lei-2022-04734",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8069/lei_4734_2022_denomina_rua_danubio_gomes_do_rosario.pdf",
+     "sha256": "b261aa87bef26b042a89c4f6b2264d3b80108972b94ebf3a56b27ed83db84b74",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.734, DE 11 DE NOVEMBRO DE 2022 (Projeto de Lei do Legislativo n° 022/2022, de autoria da Vereadora Jaqueline Aparecida Fráguas) DENOMINA DE RUA DANÚBIO GOMES DO ROSÁRIO LOGRADOURO QUE MENCIONA.\nA Prefeita do Município de Lavras, Estado de Minas Gerais, no uso de suas atribuições legais faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada \"Danúbio Gomes do Rosário\" a Rua Um, com início entre o Lote 01 da Quadra A - Equipamentos Urbanos 3 e Lote 01 da Quadra B, passando pela Rua 14, e término entre o Lote 14 da Quadra E, e o Lote 16 da Quadra D - Equipamentos Urbanos 2, situado no Bairro Residencial Vista do Lago.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data da sua publicação.\nPrefeitura Municipal de Lavras, em 11 de novembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.734, de 11 de novembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04733",
+   "short": "Lei 4733/2022",
+   "title": "Lei nº 4.733, de 4 de novembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8065",
+   "first_law": "lei-2022-04733",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8065/lei_4733_2022_denomina_beco_carlos_alberto_silva_de_oliveira.pdf",
+     "sha256": "1a37018823dea547fbf8543df0952329468cb11cd86f905374c034439da59516",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.733, DE 04 DE NOVEMBRO DE 2022 (Projeto de Lei do Legislativo n° 021/2022, de autoria do Vereador Antônio Claret dos Santos) DENOMINA DE \"BECO CARLOS ALBERTO SILVA DE OLIVEIRA\" O BECO SITUADO NA ESQUINA DAS RUAS ADAHIR DOS SANTOS NOGUEIRA E JAIME AVELAR PEREIRA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Prefeita do Município de Lavras, Estado de Minas Gerais, no uso de suas atribuições legais faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado de \"Beco Carlos Alberto Silva de Oliveira\" o beco sem saída entre a rua Adahir dos Santos Nogueira e a rua Jaime Avelar Pereira, entre os números 211 e 221, no bairro Conjunto Habitacional Água Limpa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data da sua publicação.\nPrefeitura Municipal de Lavras, em 04 de novembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.733, de 4 de novembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04732",
+   "short": "Lei 4732/2022",
+   "title": "Lei nº 4.732, de 3 de novembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8064",
+   "first_law": "lei-2022-04732",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8064/lei_4732_2022_denomina_estrada_vicinal_helio_de_oliveira.pdf",
+     "sha256": "4ac5a3c392103e90f69539a4eb025c7febf5419fff2380bd4187aef48b39540f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.732, DE 03 DE NOVEMBRO DE 2022 (Projeto de Lei do Legislativo n° 020/2022, de autoria do Vereador Antônio Claret dos Santos) DENOMINA DE \"ESTRADA VICINAL HÉLIO DE OLIVEIRA\" A ESTRADA VICINAL DA SERRINHA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Prefeita do Município de Lavras, Estado de Minas Gerais, no uso de suas atribuições legais faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada de \"Estrada Vicinal Hélio de Oliveira\" a estrada vicinal da comunidade da Serrinha, que inicia-se na divisa do Bairro Caminho da Serra até a divisa com a cidade de Ingaí na comunidade rural do Tomba.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entrará em vigor na data da sua publicação.\nPrefeitura Municipal de Lavras, em 03 de novembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.732, de 3 de novembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04731",
+   "short": "Lei 4731/2022",
+   "title": "Lei nº 4.731, de 3 de novembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8063",
+   "first_law": "lei-2022-04731",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8063/lei_4731_2022_utilidade_publica_associacao_dos_apicultores_protetores_das_abelhas_proapis.pdf",
+     "sha256": "18d959c1dec6bb268c1a732fae3c852bae7d4db600825a751b61eb7437dad051",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.731, DE 03 DE NOVEMBRO DE 2022 (Projeto de Lei do Legislativo n° 019/2022, de autoria do Vereador Antônio Claret dos Santos) DECLARA DE UTILIDADE PÚBLICA MUNICIPAL A ASSOCIAÇÃO DOS APICULTORES PROTETORES DAS ABELHAS (PROAPIS).\nA Câmara Municipal de Lavras, através de seus representantes legais aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a Associação dos Apicultores Protetores das Abelhas (PROAPIS), situado na Rua Roberto Silva, nº 240, Bairro Nova Era I, Lavras/MG, inscrito no CNPJ nº 46.388.520/0001-14, o título de utilidade pública municipal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data da sua publicação.\nPrefeitura Municipal de Lavras, em 03 de novembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.731, de 3 de novembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04729",
+   "short": "Lei 4729/2022",
+   "title": "Lei nº 4.729, de 10 de outubro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8001",
+   "first_law": "lei-2022-04729",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8001/lei_4729_2022_denomina_tunel_antonio_carlos_marani.pdf",
+     "sha256": "d955a225c3000e124d5508b72e1e8b8e6cf487748b0abaa4b4dfd3439f7765cc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.729, DE 10 DE OUTUBRO DE 2022 (Projeto de Lei n° 032/2022, de autoria da Chefe do Poder Executivo) DENOMINA DE \"ANTÔNIO CARLOS MARANI\" TÚNEL QUE MENCIONA.\nA PREFEITA DO MUNICÍPIO DE LAVRAS, Estado de Minas Gerais, no uso de suas atribuições legais faz saber que a Câmara Municipal APROVOU e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado de \"Antônio Carlos Marani\", o Túnel localizado na Rua Kennedy dos Santos, Bairro Jardim Bela Vista.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entra em vigor na data da sua publicação.\nPrefeitura Municipal de Lavras, em 10 de outubro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.729, de 10 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04728",
+   "short": "Lei 4728/2022",
+   "title": "Lei nº 4.728, de 10 de outubro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8000",
+   "first_law": "lei-2022-04728",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8000/lei_4728_2022_denomina_avenida_jose_alves_dezico.pdf",
+     "sha256": "1d0c8a58f015e695c90ae0b287397b2ce48248937db61f6a672b586dd998ba46",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.728, DE 10 DE OUTUBRO DE 2022 (Projeto de Lei n° 031/2022, de autoria da Chefe do Poder Executivo) DENOMINA DE \"AVENIDA JOSÉ ALVES (DEZICO)\" O LOGRADOURO PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA PREFEITA DO MUNICÍPIO DE LAVRAS, Estado de Minas Gerais, no uso de suas atribuições legais faz saber que a Câmara Municipal APROVOU e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado de \"Avenida José Alves (Dezico)\", a avenida que liga a Avenida Prefeito Sylvio Dâmaso de Castro com o bairro Joaquim Sales, interligando os Bairros São Vicente e Joaquim Sales.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da Municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data da sua publicação.\nPrefeitura Municipal de Lavras, em 10 de outubro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.728, de 10 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04727",
+   "short": "Lei 4727/2022",
+   "title": "Lei nº 4.727, de 10 de outubro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7999",
+   "first_law": "lei-2022-04727",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/7999/lei_4727_2022_denomina_evandro_menicucci_o_centro_educacional_de_inovacao_e_tecnologia.pdf",
+     "sha256": "1080522a538c8e8c6109bfd2fcdec5187eb02866af51e619fc34b08d01b23684",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.727, DE 10 DE OUTUBRO DE 2022 (Projeto de Lei n° 029/2022, de autoria da Chefe do Poder Executivo) DENOMINA DE \"EVANDRO MENICUCCI\", A FUTURA SEDE DO CENTRO EDUCACIONAL DE INOVAÇÃO E TECNOLOGIA (CEITEC), E DÁ OUTRAS PROVIDÊNCIAS.\nA PREFEITA DO MUNICÍPIO DE LAVRAS, Estado de Minas Gerais, no uso de suas atribuições legais faz saber que a Câmara Municipal APROVOU e eu sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado de \"Evandro Menicucci\", a futura sede do Centro Educacional de Inovação e Tecnologia (CEITEC), a ser edificada na Rua Lourenço Menicucci, Bairro Centro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Executivo Municipal providenciará a colocação de placas indicativas, bem como as devidas comunicações aos setores de Obras e Cadastro da Municipalidade, aos Correios, e companhias de energia elétrica, abastecimento de água e tratamento de esgotos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data da sua publicação.\nPrefeitura Municipal de Lavras, em 10 de outubro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.727, de 10 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04726",
+   "short": "Lei 4726/2022",
+   "title": "Lei nº 4.726, de 10 de outubro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7998",
+   "first_law": "lei-2022-04726",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/7998/lei_4726_2022_altera_lei_4712.pdf",
+     "sha256": "ee16b04999e093a9bbf2cd36b46866adc935966b072bb35ee6474d8a41aa0ab3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.726, DE 10 DE OUTUBRO DE 2022 (Projeto de Lei n° 021/2022, de autoria da Chefe do Poder Executivo) ALTERA OS ARTIGOS 1º § 1º E 10 DA LEI Nº 4.712, DE 29 DE JULHO DE 2022, QUE DISPÕE SOBRE O PROGRAMA DE REGULARIZAÇÃO FISCAL-REFIS DA RETOMADA DA ECONOMIA-2022 DO MUNICÍPIO DE LAVRAS, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei Municipal nº 4.712, de 29 de julho de 2022, que dispõe sobre o Programa de Regularização Fiscal- REFIS DA RETOMADA DA ECONOMIA-2022, passa a viger com as alterações de que trata a presente lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O § 1º do art. 1º da Lei nº 4.712, de 29 de julho de 2022, passa a vigorar com a seguinte redação:\n\"Art. 1º (...)\n§ 1º Os créditos de que trata o caput, cujo devedores sejam pessoas físicas e jurídicas, poderão ser pagos de uma só vez ou parceladamente, mediante requerimento a ser formalizado até 27 de dezembro de 2022, com as seguintes reduções no valor dos juros moratórios, das multas de mora e da atualização monetária, por meio deste Programa de Regularização Fiscal - REFIS DA RETOMADA DA ECONOMIA - 2022\". (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O art. 10 da Lei nº 4.712, de 29 de julho de 2022, passa a vigorar com a seguinte redação:\n\"Art. 10. Para os casos de regularização imobiliária que implique na incidência de multa administrativa, fica assegurado ao proprietário o prazo de 90 (noventa) dias para apresentação do(s) projeto(s) de adequação da(s) área(s) irregulares.\n§ 1º Nos casos estabelecidos neste artigo fica concedido o desconto de 50% (cinquenta por cento) sobre o valor total do débito apurado, para pagamento à vista.\n§ 2º As disposições contidas no parágrafo anterior aplicam-se aos procedimentos já concluídos ou em tramitação, cuja as multas não tenham sido quitadas\". (NR)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta lei entra em vigor na data da sua publicação.\nPrefeitura Municipal de Lavras, em 10 de outubro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.726, de 10 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04725",
+   "short": "Lei 4725/2022",
+   "title": "Lei nº 4.725, de 10 de outubro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8002",
+   "first_law": "lei-2022-04725",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8002/lei_4725_2022_cria_projeto_aguas_dos_ipes.pdf",
+     "sha256": "12a37a3a88228f5f3f5439b3f7a3e829e8ce7cadfb583f8fa5a71ac706ba23ce",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.725, DE 10 DE OUTUBRO DE 2022 (Projeto de Lei n° 018/2022, de autoria da Chefe do Poder Executivo) CRIA O PROJETO ÁGUAS DOS IPÊS, AUTORIZA O EXECUTIVO A PRESTAR APOIO TÉCNICO, DE FOMENTO E FINANCEIRO DESTINADOS A PROGRAMAS DE PRESERVAÇÃO E CONSERVAÇÃO AMBIENTAIS DE NASCENTES NO MUNICÍPIO DE LAVRAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o Projeto Águas dos Ipês, que visa à implantação e execução de ações em adequação ambiental de propriedades rurais e urbanas, para a melhoria da qualidade e quantidade das águas, da biodiversidade e do clima, no Município de Lavras - Estado de Minas Gerais.\nParágrafo único. Para fins de aplicação do art. 1º, entende-se para propriedades urbanas aquelas com área superior a 300 m2 situadas em Área de Preservação Permanente, conforme estabelecido em Plano Diretor, exceto propriedades passíveis de regularização para fins de edificação nos termos da Lei Federal nº 14.285/2021.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para os fins desta Lei entende-se por:\nI - Serviços ambientais: os benefícios que decorrem de funções prestadas por ecossistemas naturais preservados, conservados, protegidos, mantidos, em recuperação, em restauração, imprescindíveis para a manutenção das condições ambientais adequadas à sadia qualidade de vida, funções estas que podem ser restabelecidas, recuperadas, restauradas, mantidas e melhoradas pelos proprietários ou possuidores;\nII - Pagamento por serviços ambientais: transação voluntária através da qual uma atividade desenvolvida por um provedor de serviços ambientais, que conserve ou recupere um serviço ambiental previamente definido, é remunerada por um pagador de serviços ambientais, mediante a comprovação do atendimento das disposições previamente contratadas nos termos desta Lei;\nIII - Provedor de serviços ambientais: pessoa física ou jurídica, que provê o serviço ambiental por meio de práticas de preservação, conservação, proteção, manutenção, recuperação e restauração de ecossistemas naturais, desde que atendidos os critérios de elegibilidade;\nIV - Pagador de serviços ambientais: pessoa física ou jurídica, de direito público ou privado, que arca com a remuneração dos serviços ambientais prestados por, pelo menos, um provedor de serviços ambientais;\nV - Possuidor: todo aquele que tem de fato o exercício, pleno ou não, de algum dos poderes inerentes à propriedade, nos termos do art. 1.196, da Lei Federal nº 10.406, de 10 de janeiro de 2002 (Código Civil);\nVI - Bonificação: valoração pelo incremento dos serviços ambientais, a partir da adoção de práticas sustentáveis de uso e conservação de solo;\nVII - Termo de Adesão e Compromisso: documento por meio do qual o proprietário oficializa seu interesse em aderir ao Projeto Água dos Ipês para Pagamento por Serviços Ambientais, declarando estar de acordo com suas normas e exigências e se compromete a receber e prestar as informações necessárias aos técnicos responsáveis, bem como a cumprir as metas que serão propostas nesse Projeto.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Projeto Águas dos Ipês é de adesão e permanência voluntárias, não gera vínculo de emprego e/ou de trabalho e tem como objetivo estimular financeiramente a adoção de práticas sustentáveis em propriedades no Município de Lavras, através da execução de ações para o cumprimento de metas estabelecidas nas seguintes modalidades:\nI - conservação e melhoria da qualidade e da disponibilidade hídrica;\nII - restauração e conservação para incremento da biodiversidade;\nIII - redução de processos erosivos e de sedimentação em corpos hídricos;\nIV - aumento da infiltração da água no solo com a minimização do escoamento superficial;\nV - readequação de estradas vicinais;\nVI - restauração de Áreas de Preservação Permanente;\nVII - implantação do saneamento rural;\nVIII - construção de barraginhas;\nIX - recuperação e proteção das bacias de contribuição dos mananciais de abastecimento público do Município de Lavras.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica o Poder Executivo autorizado a prestar apoio técnico, de fomento e financeiro, na forma de Pagamentos por Serviços Ambientais - PSA, aos proprietários rurais e urbanos habilitados que aderirem ao Projeto Águas dos Ipês, através da execução de ações para o cumprimento de metas estabelecidas nesta Lei.\n§ 1º O apoio técnico, de fomento e financeiro aos proprietários aderentes/habilitados iniciará com a adesão ao projeto, formalizada por meio do Termo de Adesão e Compromisso e se estenderá mediante o cumprimento de metas estabelecidas pela Secretaria Municipal de Meio Ambiente.\n§ 2º O apoio financeiro aos proprietários aderentes/habilitados iniciará com o término da implantação das ações propostas e se estenderá por no mínimo quatro anos.\n§ 3º A cada 6 (seis) meses deve ser realizado a avaliação de desenvolvimento do projeto e o cumprimento de metas.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º São requisitos gerais para a participação no Projeto Água dos Ipês para Pagamento por Serviços Ambientais - PSA:\nI - cadastramento no Projeto Água dos Ipês;\nII - comprovação de uso ou ocupação regular do imóvel;\nIII - enquadramento e habilitação nos requisitos exigidos no projeto específico de implantação do pagamento por serviços de restabelecimento, recuperação, manutenção e melhoria dos ecossistemas prestados em meio natural ou urbano;\nIV - comprovação de emprego de técnicas de uso sustentável do solo e respeito à legislação ambiental, no caso de imóveis contemplados no âmbito do Projeto Água dos Ipês; e\nV - formalização de Termo de Adesão e Compromisso entre o Município e o provedor de serviços ambientais.\nParágrafo único. São cláusulas obrigatórias do Termo de Adesão e Compromisso para pagamento por serviços ambientais aquelas relativas:\nI - aos direitos e às obrigações do provedor, incluídas as ações de manutenção, de recuperação e de melhoria ambiental do ecossistema por ele assumidas e os critérios e os indicadores da qualidade dos serviços ambientais prestados;\nII - aos direitos e às obrigações do pagador, incluídos as formas, as condições e os prazos de realização da fiscalização e do monitoramento;\nIII - às condições de acesso, pelo poder público, à área objeto do Termo de Adesão e Compromisso e aos dados relativos às ações de manutenção, de recuperação e de melhoria ambiental assumidas pelo provedor, em condições previamente pactuadas e respeitados os limites do sigilo legal ou constitucionalmente previsto.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Projeto Água dos Ipês será implementado por meio de Projetos de Pagamento por Serviços Ambientais, especificados em editais públicos contendo, no mínimo, as seguintes definições:\nI - Tipos e características de serviços ambientais que serão contemplados;\nII - Área para a execução do projeto;\nIII - Critérios de elegibilidade e priorização dos participantes;\nIV - Requisitos a serem atendidos pelos participantes;\nV - Critérios para a aferição dos serviços ambientais prestados;\nVI - Critérios para o cálculo dos valores a serem pagos;\nVII - Prazos mínimos e máximos a serem observados nos termos.\n§ 1º Os provedores de serviços ambientais serão selecionados dentre os interessados, de acordo com as diretrizes e critérios de elegibilidade e prioridade definidos nos projetos, devendo ser assegurada a observância dos princípios de publicidade, isonomia e impessoalidade.\n§ 2º Os valores a serem pagos aos provedores de serviços ambientais deverão ser proporcionais aos serviços prestados considerando a extensão e características da área envolvida, os custos de oportunidade e as ações efetivamente realizadas.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Caberá ao Secretário da Secretaria do Meio Ambiente do Município, em conjunto com o CODEMA, definir as áreas prioritárias para a implantação do Projeto Água dos Ipês para Pagamento por Serviços Ambientais no âmbito do Município de Lavras, considerando os seguintes critérios:\nI - áreas de relevante interesse para a conservação de ecossistemas;\nII - áreas que possibilitem a formação de corredores ecológicos;\nIII - bacias, micro bacias e outras subdivisões, consideradas manancial de abastecimento público;\nIV - bacias, micro bacias e outras subdivisões, com déficit de cobertura vegetal em áreas de preservação permanente;\nV - áreas de uso alternativo passíveis de redução de processos erosivos, redução de sedimentação, de aumento da infiltração de água no solo, de melhoria da qualidade e quantidade de água, de constância do regime de vazão e de diminuição da poluição.\nParágrafo único. Para fins do disposto no caput deste artigo, poderão ser estabelecidos novos critérios, a depender do nível de degradação, por meio de Portaria do Secretário Municipal de Meio Ambiente, desde que respeitadas as diretrizes e princípios previsto nesta lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O projeto será implantado por sub bacias hidrográficas, seguindo critérios a serem definidos pela Secretaria Municipal de Meio Ambiente e aprovados pelo Conselho Municipal de Meio Ambiente (CODEMA) e o valor de referência (VR) será de até 88 Unidades Fiscais do Município de Lavras - UFML por hectare (ha) por ano.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O Conselho Municipal de Meio Ambiente (CODEMA) - deverá analisar e deliberar sobre o projeto técnico elaborado pela Secretaria de Meio Ambiente para implantação deste projeto nas propriedades rurais e urbanas para obtenção do apoio técnico, de fomento e financeiro.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Fica o município autorizado a firmar convênio com entidades governamentais e da sociedade civil, cuja atribuição será auxiliar na implantação do Projeto Água dos Ipês, na execução das ações e na fiscalização do cumprimento das metas pelos proprietários ou posseiros.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Fica determinado o repasse de 30% (trinta por cento) dos recursos provenientes da Resolução ARSAE-MG 110/2018 ao Fundo Municipal de Saneamento Básico, para proteção e preservação ambiental da bacia hidrográfica explorada no município de Lavras, conforme Plano Municipal de Saneamento.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Constituem recursos vinculados ao Projeto Água dos Ipês:\nI - dotações consignadas na Lei Orçamentária Anual do Município, a favor do Projeto Água dos Ipês;\nII - doações realizadas por entidades nacionais e internacionais, de outras pessoas físicas ou jurídicas, a favor do Projeto Água dos Ipês;\nDIÁRIO OFICIAL Prefeitura Municipal de Lavras COORDENADORIA DE COMUNICAÇÃO SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E RECURSOS HUMANOS Av. Dr. Silvio Menicucci, 1575 - Lavras - MG CEP: 37.200-000 Tel: (35) 3694-4000\nIII - rendimentos decorrentes de aplicações dos recursos financeiros vinculados ao Projeto Água dos Ipês;\nIV - recursos do Fundo Estadual de Recursos Hídricos - FHIDRO destinados a projetos de PSA pelos Comitês de Bacias Hidrográficas, observada a legislação de recursos hídricos, em especial a legislação sobre a Cobrança pelo Uso por Recursos Hídricos e a normatização do FHIDRO;\nV - outros recursos advindos de fundos, públicos ou privados, em âmbito municipal, estadual ou federal, com esta finalidade;\nVI - recursos decorrentes de acordos, convênios ou outros instrumentos congêneres celebrados com órgãos e entidades da Administração Pública federal, estadual ou de outros municípios;\nVII - recursos oriundos de acordos judiciais ou extrajudiciais, de Termos de Ajustamentos de Conduta, multas ambientais e outros advindos de órgãos públicos destinados ao Projeto Água dos Ipês;\nVIII - convênios com ONGs (Organizações Não Governamentais), consórcios, cooperativas, associações e outras entidades destinadas a fins ambientais;\nIX - recursos da cobrança pelo uso da água, destinados pelo Comitê de Bacia Hidrográfica, nos termos da Lei Federal nº 9.433, de 08 de janeiro de 1997;\ne\nX - outros.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. A efetiva implementação do Projeto Água dos Ipês, para Pagamentos por Serviços Ambientais - PSA, estará condicionado à disponibilidade de recurso financeiro mencionados no art. 12.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Para os fins desta Lei, poderá também ser considerado em seu objetivo o planejamento, as metas, as atividades, as práticas e diretrizes dadas por políticas, programas, projetos, planos e ações emanadas dos Governos Estadual e Federal relacionadas com o Plano Nacional da Agricultura de Baixo Carbono (ABC) e com a Política Nacional de Integração Lavoura-Pecuária-Floresta (ILPF), com vistas a se obter a sustentabilidade ambiental no campo, conjugando-se para isto a viabilidade econômica das propriedades rurais com a recuperação destas áreas que tenham passivos ambientais consolidados ou em processo de degradação, ainda que em um estágio inicial, reduzindo-se a poluição difusa e as emissões de carbono em tais áreas situada no município.\nParágrafo único. Para os efeitos do caput deste artigo, também são consideradas as propriedades com características rurais situadas no perímetro urbano do município.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 10 de outubro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.725, de 10 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00454",
+   "short": "LC 454/2022",
+   "title": "Lei Complementar nº 454, de 10 de outubro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7997",
+   "first_law": "lc-2022-00454",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/7997/lei_complementar_454_2022_altera_lei_complementar_327.pdf",
+     "sha256": "862c3008cae8d2f75da7eeb0e9c19a057f38a13b02ee7ad25a2b7961d996ae6b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N°. 454, DE 10 DE OUTUBRO DE 2022 (Projeto de Lei Complementar nº 012/2022, de autoria da Chefe do Poder Executivo) ALTERA A LEI COMPLEMENTAR Nº 327, DE 16 DE JULHO DE 2014, QUE DISPÕE SOBRE O ESTATUTO DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE LAVRAS, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei Complementar altera a Lei Complementar nº 327, de 16 de julho de 2014 e dá outras providências.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica alterado o §2º do artigo 65 da Lei Complementar nº 327/2014, que passa a vigorar com a seguinte redação:\n\"Art. 65. (...) (...)\n§ 2º O servidor que exercer cumulativa e legalmente mais de um cargo, terá direito ao adicional calculado sobre os respectivos cargos.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica alterado o §1º do artigo 78 da Lei Complementar nº 327/2014, que passa a vigorar com a seguinte redação:\n\"Art. 78. (...)\n§1º A gratificação de que trata este artigo será devida no valor de R$ 350,00 (trezentos e cinquenta reais) sobre o vencimento mensal do servidor efetivo, sendo o seu valor atualizado de acordo com o índice de correção aplicada por ocasião da revisão geral anual nos salários e vencimentos dos servidores públicos da administração pública do município de Lavras.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica alterado o caput do artigo 30 da Lei Complementar nº 327/2014, que passa a vigorar com a seguinte redação:\n\"Art. 30. Os servidores cumprirão jornada de trabalho conforme fixadas no edital de concurso do cargo para o qual foi nomeado, não podendo ser superior a 8 horas diárias e 40 horas semanais, facultada a compensação de horários e a redução de jornada, na forma da lei.\n(...)\"\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica revogado o artigo 81 da Lei Complementar nº 327/2014.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 10 de outubro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 454, de 10 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04724",
+   "short": "Lei 4724/2022",
+   "title": "Lei nº 4.724, de 5 de outubro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7994",
+   "first_law": "lei-2022-04724",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/7994/lei_4724_2022_autoriza_repasse_financeiro_associacao_socio_cultural_castelo_sao_jorge.pdf",
+     "sha256": "6abbdd78b5d9c7e1cfd2da4be283500e01e727e3a8d571d920012854afe96474",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.724, DE 05 DE OUTUBRO DE 2022 (Projeto de Lei n° 028/2022, de autoria da Chefe do Poder Executivo) AUTORIZA O REPASSE FINANCEIRO À ASSOCIAÇÃO SOCIO CULTURAL CASTELO SÃO JORGE E ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR, NOS TERMOS QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo Municipal autorizado a realizar repasse financeiro à Associação Sócio Cultural Castelo São Jorge, no valor de R$ 51.000,00 (cinquenta e um mil reais) e eventuais rendimentos.\n§ 1º O repasse de que trata o caput deste artigo é proveniente da Emenda Estadual nº 58.518, conforme Resolução SEGOV nº 786, de 4 de dezembro de 2020, a ser utilizado para aquisição de equipamento e material permanente.\n§ 2º O repasse financeiro será realizado em parcela única, através de celebração de parceria, nos termos da Lei Federal nº 13.019, de 31 de julho de 2014.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para a cobertura das despesas decorrentes com a execução da presente Lei, fica o Poder Executivo Municipal, autorizado a abrir crédito adicional suplementar, conforme abaixo especificado:\nUnidade: 02.24 Secretaria Municipal de Cultura, Esporte, Lazer e Turismo Fonte de Recurso: 200 - Recursos não vinculados de impostos para anulação do recurso 100 - Recursos não vinculados de impostos dos rendimentos\nI - 02.24.01.13.392.0014 - Parcerias de Caráter Cultura Elemento de Despesa Descrição Fonte Valor 3.3.50.41.00 Contribuições R$ 52.283,88 ANULAÇÃO Ficha Dotação orçamentária Fonte Valor 02.24.01.27.122.0004.1116.4.4.90.52.00 R$ 52.283,88 TOTAL R$ 52.283,88\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam alterados o Plano Plurianual de Ação Governamental do Município de Lavras (PPA - Lei n° 4.672/2021), a Lei de Diretrizes Orçamentárias de 2022 (LDO - Lei n° 4.662/2021) e a Lei Orçamentária Anual de 2022 (LOA - Lei n° 4.673/2021), nos moldes e naquilo que for pertinente, conforme descrito nesta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4° Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 05 de outubro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.724, de 5 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04723",
+   "short": "Lei 4723/2022",
+   "title": "Lei nº 4.723, de 5 de outubro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7993",
+   "first_law": "lei-2022-04723",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/7993/lei_4723_2022_autoriza_repasse_financeiro_associacao_animais_nossos_irmaos.pdf",
+     "sha256": "dbd8ee0f8d92ca5fdb8a65d6a3382b89006382b93f07f4614a8cb8c2733950ca",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.723, DE 05 DE OUTUBRO DE 2022 (Projeto de Lei n° 027/2022, de autoria da Chefe do Poder Executivo) AUTORIZA O REPASSE FINANCEIRO À ASSOCIAÇÃO ANIMAIS NOSSOS IRMÃOS E A ABERTURA DE CRÉDITO ADICIONAL ESPECIAL NOS TERMOS QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo Municipal autorizado a realizar repasse financeiro à Associação Animais Nossos Irmãos - AANI, no valor de R$ 100.000,00 (cem mil reais) e eventuais rendimentos.\n§ 1º O repasse de que trata o caput deste artigo é proveniente da Emenda Estadual nº 63.132, conforme Resolução SEGOV nº 011, de 03 de maio de 2021, a ser utilizado para aquisição de equipamento e material permanente.\n§ 2º O repasse financeiro será realizado em parcela única, através de celebração de parceria, nos termos da Lei Federal nº 13.019, de 31 de julho de 2014.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para a cobertura das despesas decorrentes com a execução da presente Lei, fica o Poder Executivo Municipal, autorizado a abrir crédito adicional especial no valor de R$ 100.000,00 (cem mil reais), conforme abaixo especificado:\nUnidade: 02.11 Secretaria Municipal de Meio Ambiente Subunidade: 02.11.01 Secretaria Municipal de Meio Ambiente Fonte de Recurso: 264 - TRANSFERÊNCIA ESPECIAL DA UNIÃO PARA ANULAÇÃO DO RECURSO 164 - TRANSFERÊNCIA ESPECIAL DA UNIÃO DOS RENDIMENTOS\nI - 02.11.01.18.542.0015.2211 - REALIZAÇÃO DE PARCERIAS DE INTERESSE PÚBLICO Elemento de Despesa Descrição Fonte Valor 3.3.50.41.00 Contribuições R$ 100.000,00 ANULAÇÃO Ficha Dotação orçamentária Fonte Valor 02.13.06.10.304.0019.1098-4.4.90.52.00 R$ 100.000,00 TOTAL R$ 100.000,00\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os Créditos Adicionais Especiais criados por esta lei poderão ser suplementados, mediante Decreto, em caso de necessidade.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4° Ficam alterados o Plano Plurianual de Ação Governamental do Município de Lavras (PPA - Lei n° 4.672/2021), a Lei de Diretrizes Orçamentárias de 2022 (LDO - Lei n° 4.662/2021) e a Lei Orçamentária Anual de 2022 (LOA - Lei n° 4.673/2021), nos moldes e naquilo que for pertinente, conforme descrito nesta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5°",
+       "kind": "article",
+       "text": "Art. 5° Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 05 de outubro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.723, de 5 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00452",
+   "short": "LC 452/2022",
+   "title": "Lei Complementar nº 452, de 15 de setembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7985",
+   "first_law": "lc-2022-00452",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-09-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/7985/lei_complementar_452_2022_regularizacao_imoveis_margens_de_cursos_dagua.pdf",
+     "sha256": "de60597907b2ab8e6c6ebdbb141d19ec81888ec04412c268d1de29eaac592437",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N°.452, DE 15 DE SETEMBRO DE 2022.\n(Projeto de Lei Complementar nº 020/2022, de autoria da Chefe do Poder Executivo) DISPÕE SOBRE A REGULARIZAÇÃO DE IMÓVEIS LOCALIZADOS EM ÁREAS URBANAS CONSOLIDAS INSERIDOS ÀS MARGENS DE CURSOS D'ÁGUA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° Esta lei dispõe sobre as condições para definição das faixas marginais de área de preservação permanente no entorno dos cursos d'água em áreas urbanas consolidadas, consoante a Lei Federal nº 14.285, de 29 de dezembro de 2021 e o Decreto Federal nº.\n10.692, de 3 de maio de 2021, bem como as suas alterações subsequentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para efeitos desta Lei entende-se como área urbana consolidada aquela que atende os seguintes critérios:\nI) estar incluída no perímetro urbano ou em zona urbana pelo Plano Diretor Municipal ou por lei municipal especifica;\nII) dispor de sistema viário implantado;\nIII) estar organizada em quadras e lotes predominantemente edificados;\nIV) apresentar uso predominantemente urbano, caracterizado pela existência de edificações residenciais, comerciais, industriais, institucionais, mistas ou direcionadas à prestação de serviços;\nV) dispor de, no mínimo, 2 (dois) dos seguintes equipamentos de infraestrutura urbana implantados:\na) drenagem de águas pluviais;\nb) esgotamento sanitário;\nc) abastecimento de água potável;\nd) distribuição de energia elétrica e iluminação pública; e\ne) limpeza urbana, coleta e manejo de resíduos sólidos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° A intervenção ou a supressão de vegetação nativa na Área de Preservação Permanente somente ocorrerá nas hipóteses de utilidade pública, de interesse social ou de baixo impacto ambiental previstas na Lei Federal n°. 12.651/2012.\nParágrafo único. Não será́ permitida a ocupação de áreas consideradas com risco de desastres.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Poderão ser regularizados os imóveis que até a entrada em vigor da presente lei, estejam localizados em área urbana consolidada e desde que situados entre 05 (cinco) metros da borda de cursos d'água até 30 (trinta) metros, com baixo impacto ambiental.\n§ 1º O pedido de regularização deverá ser apresentado perante à Secretaria Municipal do Meio Ambiente, que analisará os requisitos de baixo impacto e instruirá o processo com parecer do Conselho Municipal do Meio Ambiente - CODEMA.\n§ 2º Considera-se que a área urbana consolidada perdeu suas funções ambientais, quando na localidade:\nI- não mais exerça a função de preservação de recursos hídricos;\nII- sua ocupação não comprometa a estabilidade geológica;\nIII- não desempenhe papel significativo na preservação da biodiversidade;\nIV- não seja relevante para facilitar o fluxo gênico de fauna e de flora;\nV- sua preservação não tenha relevância para a proteção do solo ou para assegurar o bem-estar das populações humanas.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Considera-se de baixo impacto ambiental a regularização ou a implantação de edificações em imóveis urbanos cujas áreas de preservação permanente (APPs) tenham perdido suas funções ambientais e se situem em área urbana consolidada.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Município poderá condicionar o deferimento de regularização ambiental de imóvel construído na área definida no art. 4º. desta lei, à apresentação, pelo interessado, de Projeto de Recuperação de Área Degradada - PRAD, nos termos da legislação vigente.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Na hipótese de deferimento de regularização, o Município emitirá Certidão de Regularização Ambiental de Área de Preservação Permanente (CRA), contendo o número do respectivo processo administrativo, a faixa da APP a ser preservada e eventuais condicionantes.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 15 de setembro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 452, de 15 de setembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}

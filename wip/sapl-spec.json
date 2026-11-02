@@ -1,0 +1,11 @@
+{
+ "folder": "brazil-lavras-city-law",
+ "host": "sapl.lavras.mg.leg.br",
+ "city": "Lavras",
+ "uf": "MG",
+ "code": "BR-MG-LAVRAS",
+ "slug": "brazil-lavras-city",
+ "tz": "America/Sao_Paulo",
+ "email_domain": "lavras.mg.leg.br",
+ "laws": true
+}
