@@ -112,6 +112,62 @@
      "sha256": "77828171ab72b22c9df88bb4e6bdaef4e97e58c292d06ac6348150bc023f9649"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-04734",
+   "short": "Lei 4734/2022",
+   "title": "Lei nº 4.734, de 11 de novembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8069",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8069/lei_4734_2022_denomina_rua_danubio_gomes_do_rosario.pdf",
+     "sha256": "b261aa87bef26b042a89c4f6b2264d3b80108972b94ebf3a56b27ed83db84b74"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04733",
+   "short": "Lei 4733/2022",
+   "title": "Lei nº 4.733, de 4 de novembro de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8065",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/8065/lei_4733_2022_denomina_beco_carlos_alberto_silva_de_oliveira.pdf",
+     "sha256": "1a37018823dea547fbf8543df0952329468cb11cd86f905374c034439da59516"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-04692",
+   "short": "Lei 4692/2022",
+   "title": "Lei nº 4.692, de 18 de março de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7899",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 6,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/7899/lei_4692_2022_referenda_e_aprova_aberturas_de_creditos_adicionais_extraordinarios.pdf",
+     "sha256": "37fa886fd89acb4606adcd30651fd50d3648927c8aac37d4aee22afd86a1395c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-00438",
+   "short": "LC 438/2022",
+   "title": "Lei Complementar nº 438, de 4 de março de 2022",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7891",
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 5,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2022/7891/lei_complementar_438_2022_desafetacao_de_bem_de_suo_comum_bairro_serra_azul.pdf",
+     "sha256": "c2b0fef85559ce0f961a1cc2d814fdd177cd9e3b49996c2941f159093f0c25e3"
+    }
+   ]
   }
  ]
 }
