@@ -1,0 +1,9 @@
+{
+  "path": "br-mg-lavras",
+  "code": "BR-MG-LAVRAS",
+  "name": "Lavras (city)",
+  "level": "municipality",
+  "parent": "br-mg",
+  "repo": "https://github.com/lexifina/brazil-lavras-city-law",
+  "build": "built: the law of Lavras from the Câmara Municipal's SAPL"
+}

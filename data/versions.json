@@ -1,0 +1,117 @@
+{
+ "country": "BR-MG-LAVRAS",
+ "acts": [
+  {
+   "slug": "lc-2026-00502",
+   "short": "LC 502/2026",
+   "title": "Lei Complementar nº 502, de 17 de março de 2026",
+   "url": "https://sapl.lavras.mg.leg.br/norma/9091",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 9,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2026/9091/lei_complementar_n502.pdf",
+     "sha256": "1b253bfcc8b1f8db282be4e044c94f987067bf9c5b4959275edf0e3af1ad7f3e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00501",
+   "short": "LC 501/2026",
+   "title": "Lei Complementar nº 501, de 17 de março de 2026",
+   "url": "https://sapl.lavras.mg.leg.br/norma/9090",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 8,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2026/9090/lei_complementar_n501.pdf",
+     "sha256": "89f978928f921e4cd8a0178eae4d17f4da33c63dcdb838a05eb81621e85b5c30"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04903",
+   "short": "Lei 4903/2025",
+   "title": "Lei nº 4.903, de 9 de setembro de 2025",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8935",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 3,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2025/8935/lei_4903.pdf",
+     "sha256": "a1a6686d00f83adff779c99fd2bfc75cfc77edf243ace81a02f0585fd17195f0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00492",
+   "short": "LC 492/2025",
+   "title": "Lei Complementar nº 492, de 18 de agosto de 2025",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8913",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 10,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2025/8913/lc_492.pdf",
+     "sha256": "81d050b4421482ec7673032c92fa1c1c817907a80b3424e5d88e6efc6c78a222"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04898",
+   "short": "Lei 4898/2025",
+   "title": "Lei nº 4.898, de 7 de agosto de 2025",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8903",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 3,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2025/8903/lei_4898.pdf",
+     "sha256": "847882fa87cbfdb25be49c09722da84490b53275034428a4f36c805e8fbc4bcb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-04843",
+   "short": "Lei 4843/2024",
+   "title": "Lei nº 4.843, de 2 de julho de 2024",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8483",
+   "versions": [
+    {
+     "from": "2024-07-02",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2024/8483/ple_018_2024_dom._lei_4.843.pdf",
+     "sha256": "57dc30317d3ac118ed41509a9b4cb4b147b9ff4efe7f9f156c85fe8fe8857813"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00476",
+   "short": "LC 476/2024",
+   "title": "Lei Complementar nº 476, de 13 de junho de 2024",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8473",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2024/8473/11._plc_006_2024_publicacao_dom.pdf",
+     "sha256": "d396efd95f9319e9b4b9c16d9b599943ce3bbb82c5c75e92acb802da967009ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-04806",
+   "short": "Lei 4806/2023",
+   "title": "Lei nº 4.806, de 4 de dezembro de 2023",
+   "url": "https://sapl.lavras.mg.leg.br/norma/8340",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 3,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2023/8340/lei_4806_autoriza_o_repasse_financeiro_a_associacao_comunitaria_amigos_do_funil.pdf",
+     "sha256": "77828171ab72b22c9df88bb4e6bdaef4e97e58c292d06ac6348150bc023f9649"
+    }
+   ]
+  }
+ ]
+}
