@@ -1,0 +1,193 @@
+{
+ "country": {
+  "code": "BR-MG-LAVRAS",
+  "name": "Lavras",
+  "slug": "brazil-lavras-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Lavras (SAPL)",
+   "email": "sapl@lavras.mg.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Lavras, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.lavras.mg.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-05",
+   "licence": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "3 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2020-04632": {
+   "label": "Lei nº 4.632, de 17 de dezembro de 2020",
+   "title": "Dá denominação de Rua Hercílio Alves de Abreu",
+   "kind": "law",
+   "enacted": "2020-12-17",
+   "published": "2020-12-17",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7682",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2020-04602": {
+   "label": "Lei nº 4.602, de 27 de agosto de 2020",
+   "title": "Prorroga a vigência da Lei Municipal nº 4.577/20 que institui o Programa Bolsa Merenda no âmbito do Município de Lavras e dá outras providências",
+   "kind": "law",
+   "enacted": "2020-08-27",
+   "published": "2020-08-27",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7622",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2020-04601": {
+   "label": "Lei nº 4.601, de 27 de agosto de 2020",
+   "title": "Autoriza o Município de Lavras a realizar repasse financeiro nos termos que menciona e dá outras providências",
+   "kind": "law",
+   "enacted": "2020-08-27",
+   "published": "2020-08-27",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7621",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2020-04632",
+   "short": "Lei 4632/2020",
+   "title": "Lei nº 4.632, de 17 de dezembro de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7682",
+   "first_law": "lei-2020-04632",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7682/lei_4632_2020_denomina_rua_hercilio_alves_de_abreu.pdf",
+     "sha256": "08ee07ba949e153faa71244fc4bc361483b105a8c815ab0c01f484bf5b13f562",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.632, DE 17 DE DEZEMBRO DE 2.020.\n(Projeto de Lei do Legislativo n° 049/2020, de autoria do Vereador Evandro Oliveira Miranda) DÁ DENOMINAÇÃO DE RUA HERCÍLIO ALVES DE ABREU.\nO Povo do Município de Lavras, por seus representantes, aprovou, e eu, em seu nome, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada \"Hercílio Alves de Abreu\" o logradouro público designado como Rua Projetada 03, com início na Rua Eduardo Alves de Carvalho e término entre as quadras 05 e 13 da inscrição cadastral municipal, situado no Bairro alto do Cruzeiro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 17 de dezembro de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.632, de 17 de dezembro de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04602",
+   "short": "Lei 4602/2020",
+   "title": "Lei nº 4.602, de 27 de agosto de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7622",
+   "first_law": "lei-2020-04602",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7622/lei_4602_2020_prorroga_vigencia_lei_4577.pdf",
+     "sha256": "3b4dceb4112e0d9afa3cd73cc020f939261ec33f9350a4a4683eeba8e712d0c3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.602, DE 27 DE AGOSTO DE 2.020.\n(Projeto de Lei n° 037/2020, de autoria do Poder Executivo) PRORROGA A VIGÊNCIA DA LEI MUNICIPAL Nº 4.577/20 QUE INSTITUI O PROGRAMA BOLSA MERENDA NO ÂMBITO DO MUNICÍPIO DE LAVRAS E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica prorrogada a vigência da Lei Municipal nº 4.577, de 03 de junho de 2.020 que institui o Programa Bolsa Merenda no âmbito do Município de Lavras pelo prazo de 60 (sessenta) dias.\n"
+      },
+      "art-0002": {
+       "label": "Art.2º",
+       "kind": "article",
+       "text": "Art.2º. O parágrafo quarto do artigo 4º da Lei Municipal nº 4.577, de 03 de junho de 2.020, passa a vigorar com a seguinte redação:\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (...) (...)\n§4º. Cada núcleo familiar ficará limitado a receber, no máximo, o valor correspondente a 02 (dois) benefícios financeiros, por mês, conforme previsto no caput e no §3º, ainda que a quantidade de estudantes integrantes da família seja superior a este quantum.\nArt. 3º. Esta lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 27 de agosto de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.602, de 27 de agosto de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04601",
+   "short": "Lei 4601/2020",
+   "title": "Lei nº 4.601, de 27 de agosto de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7621",
+   "first_law": "lei-2020-04601",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7621/lei_4601_2020_repasse_financeiro_hospitais.pdf",
+     "sha256": "b84142ae7cf82e40bf3da0537f98dcab9080edf79ef18f6e98f34b066343d9f8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.601, DE 27 DE AGOSTO DE 2.020.\n(Projeto de Lei Substitutivo n° 032/2020, de autoria do Poder Executivo) AUTORIZA O MUNICÍPIO DE LAVRAS A REALIZAR REPASSE FINANCEIRO NOS TERMOS QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo Municipal autorizado a realizar repasse financeiro no valor correspondente a R$ 2.000.000,00 (dois milhões de reais) à cada uma das instituições mencionadas:\nI - Hospital Vaz Monteiro de Assistência à Infância e à Maternidade e\nII - Santa Casa de Misericórdia de Lavras.\n§1º. O repasse de que trata o caput tem como objetivo integrar as instituições beneficiárias no Sistema Único de Saúde (SUS) e definir a sua inserção na rede regionalizada e hierarquizada de ações e serviços de saúde, especificamente no que concerne ao enfrentamento ao Coronavírus (COVID-19), incentivando ao aumento de leitos de UTI - Unidade de Tratamento Intensivo para tratamento da doença viral.\n§2º. O repasse de que trata o caput, será realizado através de instrumentos específicos de Convênios que deverão conter, no mínimo, as seguintes informações:\nI - Identificação do objeto a ser executado;\nII - Metas a serem atingidas;\nIII - Etapas ou fases de execução;\nIV - Plano de aplicação dos recursos financeiros;\nV - Cronograma de desembolso;\nVI - Previsão de início e fim da execução do objeto, bem assim da conclusão das etapas ou fases programadas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Nos termos do artigo 3º da Portaria n° 1.666/2020 do Ministério da Saúde, os recursos financeiros serão destinados ao custeio das ações e serviços de saúde para o enfrentamento da emergência de saúde pública decorrente da COVID 19, podendo abranger a atenção primária e especializada.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Para fazer face às despesas desta Lei serão utilizados recursos financeiros da seguinte dotação orçamentária: Ficha 1133 e Fonte 154 (Outras Transferências de Recursos do SUS).\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4°. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 27 de agosto de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.601, de 27 de agosto de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}

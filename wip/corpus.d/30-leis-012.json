@@ -1,0 +1,139 @@
+{
+ "country": {
+  "code": "BR-MG-LAVRAS",
+  "name": "Lavras",
+  "slug": "brazil-lavras-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Lavras (SAPL)",
+   "email": "sapl@lavras.mg.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Lavras, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.lavras.mg.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-05",
+   "licence": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "2 acts in this part."
+  }
+ ],
+ "laws": {
+  "lc-2021-00437": {
+   "label": "Lei Complementar nº 437, de 20 de dezembro de 2021",
+   "title": "Altera a Lei Complementar nº 418, de 19 de novembro de 2.020, que institui a Política de Incentivo ao Desenvolvimento Econômico e à geração de Empregos no Município de Lavras, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2021-12-20",
+   "published": "2021-12-20",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7869",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-04675": {
+   "label": "Lei nº 4.675, de 6 de dezembro de 2021",
+   "title": "Denomina de \"Complexo social Tunico Maciel\", o prédio público situado no Bairro Jardim Glória, e dá outras providências",
+   "kind": "law",
+   "enacted": "2021-12-06",
+   "published": "2021-12-06",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7860",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lc-2021-00437",
+   "short": "LC 437/2021",
+   "title": "Lei Complementar nº 437, de 20 de dezembro de 2021",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7869",
+   "first_law": "lc-2021-00437",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2021/7869/lei_complementar_437_2021_altera_lei_complementr_418.pdf",
+     "sha256": "771c4a6cb2271987927b8db20e5cee1e861ce63f422354f016e37af606eb88be",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N° 437, DE 20 DE DEZEMBRO DE 2021.\n(Projeto de Lei Complementar nº. 018/21, de autoria da Chefe do Executivo) ALTERA A LEI COMPLEMENTAR Nº 418, DE 19 DE NOVEMBRO DE 2.020, QUE INSTITUI A POLÍTICA DE INCENTIVO AO DESENVOLVIMENTO ECONÔMICO E À GERAÇÃO DE EMPREGOS NO MUNICÍPIO DE LAVRAS, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° O artigo 2º, inciso I, alínea \"c\" da Lei Complementar nº 418, de 19 de novembro de 2.020, que Institui a Política de Incentivo ao Desenvolvimento Econômico e à Geração de Empregos no Município de Lavras, e dá outras providências, passa a vigorar com a seguinte redação:\n\"Art. 2º. (...)\nI - Incentivos Fiscais:\na) (...)\nb) (...)\nc) Isenção do Imposto sobre Serviços (ISS), incidente nos casos de construção de prédio para instalação de novas empresas ou ampliação de empresa existente no Município, pelo período de execução da obra ou pelo prazo máximo de 2 (dois) anos, observado o disposto no art. 8º-A da Lei Complementar Federal nº. 116, de 31 de julho de 2003, não se aplicando ao imposto devido na condição de substituto tributário, especialmente nas situações de retenção na fonte;\nd) (...)\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O art. 2º, da LC 418/2020 fica acrescido do §3º, com a seguinte redação:\n§3º Findo o prazo de 2 (dois) anos previsto no inciso I, alínea c do art.\n2º, sem que a obra tenha sido finalizada, será concedida redução da alíquota para 2% (dois por cento), vigente até o prazo máximo estabelecido nos incisos I e II, do art. 4º, todos desta lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 20 de dezembro de 2021.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 437, de 20 de dezembro de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04675",
+   "short": "Lei 4675/2021",
+   "title": "Lei nº 4.675, de 6 de dezembro de 2021",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7860",
+   "first_law": "lei-2021-04675",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2021/7860/lei_4675_2021_denomina_complexo_social_tunico_maciel.pdf",
+     "sha256": "29e9bb79fc0e315745f85b86451cc91216bdb7d5e9fae141a3b410eb7e710179",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº. 4.675, DE 06 DE DEZEMBRO DE 2021 (Projeto de Lei n° 028/2021, de autoria da Chefe do Executivo) DENOMINA DE \"COMPLEXO SOCIAL TUNICO MACIEL\", O PRÉDIO PÚBLICO SITUADO NO BAIRRO JARDIM GLÓRIA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeita Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado de \"Complexo Social Tunico Maciel\", o prédio público localizado na Rua Severiano Siervult, nº 85, no Bairro Jardim Glória, com Cadastro Municipal nº 57.768, com a inscrição: Setor 06, Zona 027, Quadra 00008, Lote 00500, Sub-lote 00002, situado em Lavras/MG.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° O Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 06 de dezembro de 2021.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.675, de 6 de dezembro de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
