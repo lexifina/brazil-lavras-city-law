@@ -238,6 +238,300 @@
      "sha256": "b84142ae7cf82e40bf3da0537f98dcab9080edf79ef18f6e98f34b066343d9f8"
     }
    ]
+  },
+  {
+   "slug": "lei-2020-04591",
+   "short": "Lei 4591/2020",
+   "title": "Lei nº 4.591, de 16 de julho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7606",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 6,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7606/lei_4591_2020_comunicacao_pelos_sindicos_de_violenci_Opf6Hx7.pdf",
+     "sha256": "7efa9099db7c417685f1759d0bcaecd1dbfc6f8470be0bc8174df676543b7b32"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04588",
+   "short": "Lei 4588/2020",
+   "title": "Lei nº 4.588, de 2 de julho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7600",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7600/lei_4588_2020_denomina_rua_ricardo_sabato.pdf",
+     "sha256": "d1b0c866f30936cae96567912771ee0e23bffb0a928248b9a008ddc21f7004df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04587",
+   "short": "Lei 4587/2020",
+   "title": "Lei nº 4.587, de 2 de julho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7599",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7599/lei_4587_2020_denomina_rua_danilo_godinho.pdf",
+     "sha256": "ece3754ada805853e676d4ee2c635ab912994eba77c75b338ccf4b28acc46352"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04586",
+   "short": "Lei 4586/2020",
+   "title": "Lei nº 4.586, de 2 de julho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7598",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7598/lei_4586_2020_denomina_rua_pedro_correa_filho.pdf",
+     "sha256": "0e3123479955c4e7bb4f42d71956baf3e24bb1e3ffd37fbb86bacc4a7ce88e3a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04585",
+   "short": "Lei 4585/2020",
+   "title": "Lei nº 4.585, de 2 de julho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7597",
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7597/lei_4585_2020_denomina_rua_lucas_costa.pdf",
+     "sha256": "8917b95c3b88ed5803dd8603b66b2394804b6fa0bcd8a0d2220fbed2854b06dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04582",
+   "short": "Lei 4582/2020",
+   "title": "Lei nº 4.582, de 12 de junho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7592",
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7592/lei_4582_2020_denomina_rua_lucas_romeu_garcia.pdf",
+     "sha256": "02f4935add57013ab71d56c27cab1fb16af8d0773c5014c7c7ab7fe179aed5c5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04581",
+   "short": "Lei 4581/2020",
+   "title": "Lei nº 4.581, de 12 de junho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7591",
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7591/lei_4581_2020_denomina_rua_subtenente_jose_mauro_lemes.pdf",
+     "sha256": "eafb4818ebbbd05ae26e98fde5ea13fac4b6937e4920295e5881e1f1027c6385"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04580",
+   "short": "Lei 4580/2020",
+   "title": "Lei nº 4.580, de 12 de junho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7590",
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7590/lei_4580_2020_denomina_rua_geraldo_villela.pdf",
+     "sha256": "e1366485554c35456c578cd0faa24e38551ed5878d09c538a2ede3df16d56e5c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04579",
+   "short": "Lei 4579/2020",
+   "title": "Lei nº 4.579, de 3 de junho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7588",
+   "versions": [
+    {
+     "from": "2020-06-05",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7588/lei_4579_2020_denomina_rua_antonio_fernandes_de_oliveira.pdf",
+     "sha256": "20bbfe751a377466c9639838127edf0be1ac78bb90d516c51f9b8a7f935890e2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04572",
+   "short": "Lei 4572/2020",
+   "title": "Lei nº 4.572, de 18 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7579",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 15,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7579/lei_4572_2020_conselho_municipal_de_esporte.pdf",
+     "sha256": "66928e0f55cbff74fb688b85763ce6b9434027d857fbd4b2bfd3038832d33ba7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00417",
+   "short": "LC 417/2020",
+   "title": "Lei Complementar nº 417, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7575",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7575/lei_complementar_417_2020_altera_lei_complementar_403.pdf",
+     "sha256": "e73e1d35be782a20a17bb904f641a924221e7ab8a19b22652203839353ba6a55"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00416",
+   "short": "LC 416/2020",
+   "title": "Lei Complementar nº 416, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7574",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7574/lei_complementar_416_2020_altera_lei_complementar_402.pdf",
+     "sha256": "539e6e44e5306cd5001a63269b18f956e615513af1d91a3a930cf583a49a4e7e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00415",
+   "short": "LC 415/2020",
+   "title": "Lei Complementar nº 415, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7573",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7573/lei_complementar_415_2020_altera_lei_complementar_401.pdf",
+     "sha256": "f3a4119383fa9878c4c262bef4cdd0712b3fcc07d6f67fd5e3c878444d10fdb9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00414",
+   "short": "LC 414/2020",
+   "title": "Lei Complementar nº 414, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7572",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7572/lei_complementar_414_2020_altera_lei_complementar_400.pdf",
+     "sha256": "70c4a0d54466a131140540374c6bcb15f786dd8775fa007f2b3e36c336e4b16b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00413",
+   "short": "LC 413/2020",
+   "title": "Lei Complementar nº 413, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7571",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7571/lei_complementar_413_2020_altera_lei_complementar_399.pdf",
+     "sha256": "5b67eeac71beaadcc18cac1cdea7325d4a792fad0bb4604a936c771b7230b5c8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00412",
+   "short": "LC 412/2020",
+   "title": "Lei Complementar nº 412, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7570",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7570/lei_complementar_412_2020_altera_lei_complementar_397.pdf",
+     "sha256": "ef11e908bd87e1054270c6fecf015ae9a9d18971c7669759349953e6e1ad76d3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00411",
+   "short": "LC 411/2020",
+   "title": "Lei Complementar nº 411, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7569",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7569/lei_complementar_411_2020_altera_lei_complementar_396.pdf",
+     "sha256": "9db4471b42b96a59ad70ce8be35bfa0dbedc3e7529ee180be55512be89cc79af"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00410",
+   "short": "LC 410/2020",
+   "title": "Lei Complementar nº 410, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7568",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7568/lei_complementar_410_2020_altera_lei_complementar_395.pdf",
+     "sha256": "fc623a3737bd747c360873da3943fbc96bfad2fb3ab703dc2ab9d1c0f7c76765"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00409",
+   "short": "LC 409/2020",
+   "title": "Lei Complementar nº 409, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7567",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7567/lei_complementar_409_2020_altera_lei_complementar_394.pdf",
+     "sha256": "0b2e9bf2b76f999916087002750600522f2f6cc081b9c4a3da3858cd843b86bb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00408",
+   "short": "LC 408/2020",
+   "title": "Lei Complementar nº 408, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7566",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7566/lei_complementar_408_2020_altera_lei_complementar_393.pdf",
+     "sha256": "d1b485163677bdba8d31fcc90f1734f4fa31d1baa088f3477181d08994520d79"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04569",
+   "short": "Lei 4569/2020",
+   "title": "Lei nº 4.569, de 27 de abril de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7558",
+   "versions": [
+    {
+     "from": "2020-04-27",
+     "units": 5,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7558/lei_4569_2020_autoriza_alienar_bens_imoveis.pdf",
+     "sha256": "37db3b05b4f99592c5f30ae174605c747476655385f4baeaee623aa7c258c5f0"
+    }
+   ]
   }
  ]
 }
