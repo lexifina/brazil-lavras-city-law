@@ -168,6 +168,76 @@
      "sha256": "c2b0fef85559ce0f961a1cc2d814fdd177cd9e3b49996c2941f159093f0c25e3"
     }
    ]
+  },
+  {
+   "slug": "lc-2021-00437",
+   "short": "LC 437/2021",
+   "title": "Lei Complementar nº 437, de 20 de dezembro de 2021",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7869",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2021/7869/lei_complementar_437_2021_altera_lei_complementr_418.pdf",
+     "sha256": "771c4a6cb2271987927b8db20e5cee1e861ce63f422354f016e37af606eb88be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-04675",
+   "short": "Lei 4675/2021",
+   "title": "Lei nº 4.675, de 6 de dezembro de 2021",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7860",
+   "versions": [
+    {
+     "from": "2021-12-06",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2021/7860/lei_4675_2021_denomina_complexo_social_tunico_maciel.pdf",
+     "sha256": "29e9bb79fc0e315745f85b86451cc91216bdb7d5e9fae141a3b410eb7e710179"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04632",
+   "short": "Lei 4632/2020",
+   "title": "Lei nº 4.632, de 17 de dezembro de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7682",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7682/lei_4632_2020_denomina_rua_hercilio_alves_de_abreu.pdf",
+     "sha256": "08ee07ba949e153faa71244fc4bc361483b105a8c815ab0c01f484bf5b13f562"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04602",
+   "short": "Lei 4602/2020",
+   "title": "Lei nº 4.602, de 27 de agosto de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7622",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7622/lei_4602_2020_prorroga_vigencia_lei_4577.pdf",
+     "sha256": "3b4dceb4112e0d9afa3cd73cc020f939261ec33f9350a4a4683eeba8e712d0c3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04601",
+   "short": "Lei 4601/2020",
+   "title": "Lei nº 4.601, de 27 de agosto de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7621",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 5,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7621/lei_4601_2020_repasse_financeiro_hospitais.pdf",
+     "sha256": "b84142ae7cf82e40bf3da0537f98dcab9080edf79ef18f6e98f34b066343d9f8"
+    }
+   ]
   }
  ]
 }

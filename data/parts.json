@@ -41,6 +41,21 @@
     "lei-2022-04692"
    ],
    "sha256": "f588a6639ee470c16cedadce3d75e89ca4826894f9a63f83aadfcb75e059a061"
+  },
+  "30-leis-012.json": {
+   "acts": [
+    "lc-2021-00437",
+    "lei-2021-04675"
+   ],
+   "sha256": "2773ac9a3bd83edd976711777ff889395c110dec44acefa17609dcc7475fe83c"
+  },
+  "30-leis-013.json": {
+   "acts": [
+    "lei-2020-04601",
+    "lei-2020-04602",
+    "lei-2020-04632"
+   ],
+   "sha256": "7ca8a72ba24349614b155c81e9f572bc556dfaf6c80e0b76a7bc636336391e1c"
   }
  },
  "schema": 1
