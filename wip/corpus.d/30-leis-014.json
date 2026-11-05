@@ -1,0 +1,1140 @@
+{
+ "country": {
+  "code": "BR-MG-LAVRAS",
+  "name": "Lavras",
+  "slug": "brazil-lavras-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Lavras (SAPL)",
+   "email": "sapl@lavras.mg.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Lavras, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.lavras.mg.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-05",
+   "licence": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "21 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2020-04591": {
+   "label": "Lei nº 4.591, de 16 de julho de 2020",
+   "title": "Dispõe sobre a obrigatoriedade de comunicação, pelos síndicos de condomínios residenciais, aos órgãos de segurança pública, da ocorrência ou de indícios de violência contra mulheres, crianças, adolescentes ou idosos.",
+   "kind": "law",
+   "enacted": "2020-07-16",
+   "published": "2020-07-16",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7606",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2020-04588": {
+   "label": "Lei nº 4.588, de 2 de julho de 2020",
+   "title": "Denomina de Ricardo Sabato logradouro público que menciona",
+   "kind": "law",
+   "enacted": "2020-07-02",
+   "published": "2020-07-02",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7600",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2020-04587": {
+   "label": "Lei nº 4.587, de 2 de julho de 2020",
+   "title": "Denomina de Danilo Godinho logradouro público que menciona",
+   "kind": "law",
+   "enacted": "2020-07-02",
+   "published": "2020-07-02",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7599",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2020-04586": {
+   "label": "Lei nº 4.586, de 2 de julho de 2020",
+   "title": "Denomina de Pedro Corrêa Filho logradouro público que menciona",
+   "kind": "law",
+   "enacted": "2020-07-02",
+   "published": "2020-07-02",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7598",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2020-04585": {
+   "label": "Lei nº 4.585, de 2 de julho de 2020",
+   "title": "Denomina de Lucas Costa logradouro público que menciona",
+   "kind": "law",
+   "enacted": "2020-07-02",
+   "published": "2020-07-02",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7597",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2020-04582": {
+   "label": "Lei nº 4.582, de 12 de junho de 2020",
+   "title": "Denomina de Lucas Romeu Garcia logradouro público que menciona",
+   "kind": "law",
+   "enacted": "2020-06-12",
+   "published": "2020-06-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7592",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2020-04581": {
+   "label": "Lei nº 4.581, de 12 de junho de 2020",
+   "title": "Denomina de Rua Subtenente José Mauro Lemes logradouro público que menciona",
+   "kind": "law",
+   "enacted": "2020-06-12",
+   "published": "2020-06-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7591",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2020-04580": {
+   "label": "Lei nº 4.580, de 12 de junho de 2020",
+   "title": "Denomina de Dr. Geraldo Villela logradouro público que menciona",
+   "kind": "law",
+   "enacted": "2020-06-12",
+   "published": "2020-06-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7590",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2020-04579": {
+   "label": "Lei nº 4.579, de 3 de junho de 2020",
+   "title": "Denomina de Rua Antônio Fernandes de Oliveira logradouro público que menciona.",
+   "kind": "law",
+   "enacted": "2020-06-03",
+   "published": "2020-06-05",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7588",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2020-04572": {
+   "label": "Lei nº 4.572, de 18 de maio de 2020",
+   "title": "Reestrutura o Conselho Municipal de Esporte (CME), e dá outras providências",
+   "kind": "law",
+   "enacted": "2020-05-18",
+   "published": "2020-05-18",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7579",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-00417": {
+   "label": "Lei Complementar nº 417, de 15 de maio de 2020",
+   "title": "Altera a Lei Complementar nº 403/2019, que autoriza a concessão de direito real de uso de imóvel público que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-05-15",
+   "published": "2020-05-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7575",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-00416": {
+   "label": "Lei Complementar nº 416, de 15 de maio de 2020",
+   "title": "Altera a Lei Complementar nº 402/2019, que autoriza a concessão de direito real de uso de imóvel público que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-05-15",
+   "published": "2020-05-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7574",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-00415": {
+   "label": "Lei Complementar nº 415, de 15 de maio de 2020",
+   "title": "Altera a Lei Complementar nº 401/2019, que autoriza a concessão de direito real de uso de imóvel público que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-05-15",
+   "published": "2020-05-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7573",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-00414": {
+   "label": "Lei Complementar nº 414, de 15 de maio de 2020",
+   "title": "Altera a Lei Complementar nº 400/2019, que autoriza a concessão de direito real de uso de imóvel público que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-05-15",
+   "published": "2020-05-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7572",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-00413": {
+   "label": "Lei Complementar nº 413, de 15 de maio de 2020",
+   "title": "Altera a Lei Complementar nº 399/2019, que autoriza a concessão de direito real de uso de imóvel público que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-05-15",
+   "published": "2020-05-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7571",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-00412": {
+   "label": "Lei Complementar nº 412, de 15 de maio de 2020",
+   "title": "Altera a Lei Complementar nº 397/2019, que autoriza a concessão de direito real de uso de imóvel público que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-05-15",
+   "published": "2020-05-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7570",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-00411": {
+   "label": "Lei Complementar nº 411, de 15 de maio de 2020",
+   "title": "Altera a Lei Complementar nº 396/2019, que autoriza a concessão de direito real de uso de imóvel público que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-05-15",
+   "published": "2020-05-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7569",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-00410": {
+   "label": "Lei Complementar nº 410, de 15 de maio de 2020",
+   "title": "Altera a Lei Complementar nº 395/2019, que autoriza a concessão de direito real de uso de imóvel público que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-05-15",
+   "published": "2020-05-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7568",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-00409": {
+   "label": "Lei Complementar nº 409, de 15 de maio de 2020",
+   "title": "Altera a Lei Complementar nº 394/2019, que autoriza a concessão de direito real de uso de imóvel público que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-05-15",
+   "published": "2020-05-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7567",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-00408": {
+   "label": "Lei Complementar nº 408, de 15 de maio de 2020",
+   "title": "Altera a Lei Complementar nº 393/2019, que autoriza a concessão de direito real de uso de imóvel público que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-05-15",
+   "published": "2020-05-15",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7566",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2020-04569": {
+   "label": "Lei nº 4.569, de 27 de abril de 2020",
+   "title": "Autoriza o Poder Executivo Municipal a alienar os bens imóveis que menciona, e dá outras providências",
+   "kind": "law",
+   "enacted": "2020-04-27",
+   "published": "2020-04-27",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7558",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2020-04591",
+   "short": "Lei 4591/2020",
+   "title": "Lei nº 4.591, de 16 de julho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7606",
+   "first_law": "lei-2020-04591",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7606/lei_4591_2020_comunicacao_pelos_sindicos_de_violenci_Opf6Hx7.pdf",
+     "sha256": "7efa9099db7c417685f1759d0bcaecd1dbfc6f8470be0bc8174df676543b7b32",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.591, DE 16 DE JULHO DE 2.020.\n(Projeto de Lei do Legislativo n° 020/2020, de autoria do Vereador Ubirajara Cassiano Rocha) DISPÕE SOBRE A OBRIGATORIEDADE DE COMUNICAÇÃO, PELOS SÍNDICOS DE CONDOMÍNIOS RESIDENCIAIS, AOS ÓRGÃOS DE SEGURANÇA PÚBLICA, DA OCORRÊNCIA OU DE INDÍCIOS DE VIOLÊNCIA CONTRA MULHERES, CRIANÇAS, ADOLESCENTES OU IDOSOS.\nO povo do Município de Lavras, por seus representantes, os Vereadores, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Os síndicos dos condomínios residenciais localizados no âmbito do Município de Lavras, deverão comunicar aos órgãos de segurança pública a ocorrência ou indícios de violência contra mulheres, crianças, adolescentes ou idosos, nas unidades residenciais ou nas áreas comuns do condomínio.\nParágrafo único. A comunicação a que se refere o caput deste artigo deverá ser realizada de imediato, por qualquer meio, nos casos de ocorrência em andamento e, por escrito, nas demais hipóteses, no prazo de até 24 (vinte e quatro) horas, contadas da ciência do fato com informações que possam contribuir para as identificações dos envolvidos, em especial, da vítima e do agressor.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O descumprimento do disposto no art. 1º, sujeitará o infrator às seguintes penalidades:\nI - Advertência, quando da primeira infração;\nII - Multa, a partir da segunda infração.\nParágrafo único. A penalidade de multa poderá ser fixada entre 10 (dez) e 100 (cem) Unidades Fiscais do Município de Lavras (UFML's), a depender das circunstâncias da infração e de eventual reincidência.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Cópias da presente lei deverão ser afixadas nas áreas destinadas à comunicação, nos espaços comuns do município.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O Poder Executivo poderá regulamentar a presente Lei, no que couber, com vistas a garantir seu efetivo cumprimento.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 16 de julho de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.591, de 16 de julho de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04588",
+   "short": "Lei 4588/2020",
+   "title": "Lei nº 4.588, de 2 de julho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7600",
+   "first_law": "lei-2020-04588",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7600/lei_4588_2020_denomina_rua_ricardo_sabato.pdf",
+     "sha256": "d1b0c866f30936cae96567912771ee0e23bffb0a928248b9a008ddc21f7004df",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.588, DE 02 DE JULHO DE 2.020.\n(Projeto de Lei do Legislativo n° 019/2020, de autoria dos Vereadores Antônio Marcos Possato e Antônio Carlos Nogueira) DENOMINA DE RICARDO SABATO LOGRADOURO PÚBLICO QUE MENCIONA.\nO Povo do Município de Lavras, por seus representantes, aprovou, e eu, em seu nome, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada \"Ricardo Sabato\", a Rua VL - 15, com início entre Área Verde 05 e lote 26 da Quadra Q9 e término entre o lote 9 da Quadra Q10 e lote 14 da Quadra Q9, situado no Loteamento Portal da Mata.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 02 de julho de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.588, de 2 de julho de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04587",
+   "short": "Lei 4587/2020",
+   "title": "Lei nº 4.587, de 2 de julho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7599",
+   "first_law": "lei-2020-04587",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7599/lei_4587_2020_denomina_rua_danilo_godinho.pdf",
+     "sha256": "ece3754ada805853e676d4ee2c635ab912994eba77c75b338ccf4b28acc46352",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.587, DE 30 DE JUNHO DE 2.020.\n(Projeto de Lei do Legislativo n° 017/2020, de autoria dos Vereadores Antônio Marcos Possato e Alessandro Furtado Silva) DENOMINA DE DANILO GODINHO LOGRADOURO PÚBLICO QUE MENCIONA.\nO Povo do Município de Lavras, por seus representantes, aprovou, e eu, em seu nome, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada \"Danilo Godinho\", a Rua VL - 09, com início entre o lote 03 da Quadra Q6 e Área Institucional 03, e término entre o Lote 09 da Quadra Q6 e Lote 10 da Quadra Q3, situado no Loteamento Portal da Mata.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 30 de junho de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.587, de 2 de julho de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04586",
+   "short": "Lei 4586/2020",
+   "title": "Lei nº 4.586, de 2 de julho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7598",
+   "first_law": "lei-2020-04586",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7598/lei_4586_2020_denomina_rua_pedro_correa_filho.pdf",
+     "sha256": "0e3123479955c4e7bb4f42d71956baf3e24bb1e3ffd37fbb86bacc4a7ce88e3a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.586, DE 30 DE JUNHO DE 2.020.\n(Projeto de Lei do Legislativo n° 016/2020, de autoria dos Vereadores Antônio Marcos Possato e Alessandro Furtado Silva) DENOMINA DE PEDRO CORRÊA FILHO LOGRADOURO PÚBLICO QUE MENCIONA.\nO Povo do Município de Lavras, por seus representantes, aprovou, e eu, em seu nome, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada \"Pedro Corrêa Filho\", a Rua Projetada 12, com início entre o lote 18 da Quadra \"N\", Área Institucional 04 e término entre o lote 19 da Quadra \"P\" e a Praça 03, situado no Loteamento Residencial Mundo Novo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 30 de junho de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.586, de 2 de julho de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04585",
+   "short": "Lei 4585/2020",
+   "title": "Lei nº 4.585, de 2 de julho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7597",
+   "first_law": "lei-2020-04585",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-07-02",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7597/lei_4585_2020_denomina_rua_lucas_costa.pdf",
+     "sha256": "8917b95c3b88ed5803dd8603b66b2394804b6fa0bcd8a0d2220fbed2854b06dc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.585, DE 30 DE JUNHO DE 2.020.\n(Projeto de Lei do Legislativo n° 015/2020, de autoria dos Vereadores Antônio Marcos Possato e Alessandro Furtado Silva) DENOMINA DE LUCAS COSTA LOGRADOURO PÚBLICO QUE MENCIONA.\nO Povo do Município de Lavras, por seus representantes, aprovou, e eu, em seu nome, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada \"Lucas Costa\", a Rua VL - 17, com início entre o lote 25 da Quadra Q11 e lote Área Verde 06 e término entre o lote 14 da Quadra Q11 e lote 1 da Quadra Q15, situado no Loteamento Portal da Mata.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 30 de junho de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.585, de 2 de julho de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04582",
+   "short": "Lei 4582/2020",
+   "title": "Lei nº 4.582, de 12 de junho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7592",
+   "first_law": "lei-2020-04582",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7592/lei_4582_2020_denomina_rua_lucas_romeu_garcia.pdf",
+     "sha256": "02f4935add57013ab71d56c27cab1fb16af8d0773c5014c7c7ab7fe179aed5c5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.582, DE 12 DE JUNHO DE 2.020.\n(Projeto de Lei do Legislativo n° 014/2020, de autoria do Vereador Antônio Marcos Possato) DENOMINA DE RUA LUCAS ROMEU GARCIA LOGRADOURO PÚBLICO QUE MENCIONA.\nO Povo do Município de Lavras, por seus representantes, aprovou, e eu, em seu nome, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada \"Lucas Romeu Garcia\", a Rua VL - 02, com início entre o lote 31 da Quadra Q15 e área verde 06/Praça e término entre o lote 18 da Quadra Q15 e o lote 16 da Quadra Q17, situado no Loteamento Portal da Mata.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 12 de junho de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.582, de 12 de junho de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04581",
+   "short": "Lei 4581/2020",
+   "title": "Lei nº 4.581, de 12 de junho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7591",
+   "first_law": "lei-2020-04581",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7591/lei_4581_2020_denomina_rua_subtenente_jose_mauro_lemes.pdf",
+     "sha256": "eafb4818ebbbd05ae26e98fde5ea13fac4b6937e4920295e5881e1f1027c6385",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.581, DE 12 DE JUNHO DE 2.020.\n(Projeto de Lei do Legislativo n° 012/2020, de autoria do Vereador Antônio Marcos Possato) DENOMINA DE RUA SUBTENENTE JOSÉ MAURO LEMES LOGRADOURO PÚBLICO QUE MENCIONA.\nO Povo do Município de Lavras, por seus representantes, aprovou, e eu, em seu nome, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada \"Subtenente José Mauro Lemes\", a Rua VL - 07, com início entre o lote 05 da Quadra Q5 e Lote 01 da Quadra 4 e término entre o lote 09 da Quadra Q5 e lote 12 da Quadra Q4, situado no Loteamento Portal da Mata.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 12 de junho de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.581, de 12 de junho de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04580",
+   "short": "Lei 4580/2020",
+   "title": "Lei nº 4.580, de 12 de junho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7590",
+   "first_law": "lei-2020-04580",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-06-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7590/lei_4580_2020_denomina_rua_geraldo_villela.pdf",
+     "sha256": "e1366485554c35456c578cd0faa24e38551ed5878d09c538a2ede3df16d56e5c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.580, DE 12 DE JUNHO DE 2.020.\n(Projeto de Lei do Legislativo n° 011/2020, de autoria do Vereador Antônio Marcos Possato) DENOMINA DE DR. GERALDO VILLELA LOGRADOURO PÚBLICO QUE MENCIONA.\nO Povo do Município de Lavras, por seus representantes, aprovou, e eu, em seu nome, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada \"Dr. Geraldo Villela\", a Rua VL - 05, com início entre o lote 05 da Quadra Q8 e Lote 01 da Quadra Q5 e término entre o Lote 09 da Quadra Q7 e Lote 13 da Quadra Q6, situado no Loteamento Portal da Mata.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 12 de junho de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.580, de 12 de junho de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04579",
+   "short": "Lei 4579/2020",
+   "title": "Lei nº 4.579, de 3 de junho de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7588",
+   "first_law": "lei-2020-04579",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-06-05",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7588/lei_4579_2020_denomina_rua_antonio_fernandes_de_oliveira.pdf",
+     "sha256": "20bbfe751a377466c9639838127edf0be1ac78bb90d516c51f9b8a7f935890e2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.579, DE 03 DE JUNHO DE 2.020.\n(Projeto de Lei do Legislativo n° 013/2020, de autoria do Vereador Antônio Marcos Possato) DENOMINA DE RUA ANTÔNIO FERNANDES DE OLIVEIRA LOGRADOURO PÚBLICO QUE MENCIONA.\nO Povo do Município de Lavras, por seus representantes, aprovou, e eu, em seu nome, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada \"Antônio Fernandes de Oliveira\", a Rua VL-20, com início entre o lote 16 da Quadra Q17 e lote 01 da Quadra Q19 e término no lote 23 da Quadra Q18 e Área Institucional 01, situada no Loteamento Portal da Mata.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Executivo providenciará a divulgação, bem como a comunicação aos setores de obras e de cadastro da municipalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 03 de junho de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.579, de 3 de junho de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04572",
+   "short": "Lei 4572/2020",
+   "title": "Lei nº 4.572, de 18 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7579",
+   "first_law": "lei-2020-04572",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7579/lei_4572_2020_conselho_municipal_de_esporte.pdf",
+     "sha256": "66928e0f55cbff74fb688b85763ce6b9434027d857fbd4b2bfd3038832d33ba7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.572, DE 18 DE MAIO DE 2.020.\n(Projeto de Lei n° 021/2020, de autoria do Poder Executivo) REESTRUTURA O CONSELHO MUNICIPAL DE ESPORTE (CME), E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica Reestruturado o Conselho Municipal de Esporte (CME), órgão paritário, permanente, vinculado à Secretaria Municipal de Esporte, Lazer, Turismo e Cultura do Município de Lavras, que tem função consultiva e deliberativa, segundo o contexto de cada política pública ou programa de esporte em implementação.\nParágrafo único. O órgão de que trata o caput deste artigo, tem por finalidade auxiliar na formulação e implementação de políticas públicas inclusivas e de afirmação do esporte e do lazer como direitos sociais dos cidadãos, colaborando para o desenvolvimento municipal e humano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Compete ao Conselho Municipal de Esporte (CME):\nI - formular diretrizes e promover em todos os níveis da Administração Direta e Indireta, atividades que visem o direito de lazer e a prática de atividade física;\nII - buscar a descentralização da gestão das políticas públicas de esporte e de lazer;\nIII - acompanhar, a partir de análises orçamentárias, entre outras que se façam necessárias, a gestão de recursos públicos voltados para a prática de atividades físicas e de esporte, bem como avaliar os ganhos sociais obtidos e o desempenho dos programas e projetos aprovados, manifestando-se a respeito e sugerindo aprimoramentos;\nIV - desenvolver projetos próprios que promovam a participação da comunidade em todos os níveis de atividades, buscando avanços científicos e tecnológicos;\nV - opinar, quando consultado, sobre a concessão de auxílios e recursos financeiros às entidades e às associações esportivas sediadas no Município;\nVI - buscar a integração entre os demais conselhos e órgãos da Administração Pública para que as questões esportivas sejam consideradas em todos os âmbitos, além do intercâmbio com órgãos estaduais e federais;\nVII - buscar o intercâmbio com entidades nacionais e internacionais que tratem da questão ligadas ao Esporte;\nVIII - fornecer, quando solicitados, auxílios e informações ao Poder Público e à comunidade, quanto a programas e projetos que visem à melhoria da prática de atividades físicas e do esporte no Município;\nIX - realizar os esforços necessários ao esclarecimento de dúvidas quanto à correta utilização, por parte das entidades beneficiárias, de recursos públicos voltados para a prática de atividades físicas e de esporte;\nX - convocar ordinariamente a cada 02 anos, a Conferência Municipal de Esportes;\nXI - elaborar seu Regimento Interno.\nParágrafo único. A Conferência de que se trata o Inciso X, poderá ser convocada extraordinariamente, quando se fizer necessário, por maioria absoluta de seus membros, bem como poderá ser convocada especificamente para realizar eleições.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O Conselho Municipal de Esporte (CME) é integrado por 06 (seis) representantes do Poder Público e da Sociedade Civil, da seguinte forma:\nI - 03 (três) membros representantes do Poder Público, quais sejam:\na) 01 (um) representante da Secretaria Municipal de Esporte, Lazer, Turismo e Cultura;\nb) 01 (um) representante da Secretaria Municipal de Saúde; e\nc) 01 (um) representante da Secretaria Municipal de Educação.\nII - 03 (três) membros representantes da Sociedade Civil, integrantes de entidades comprometidas com o desenvolvimento do esporte, quais sejam:\na) 01 (um) representante de Organização da Sociedade Civil;\nb) 01 (um) representante de Clube Recreativo; e\nc) 01 (um) representante de Instituição de Ensino Superior.\n§ 1º. O Conselho Municipal de Esporte (CME) será presidido por um de seus membros, na forma do Regimento Interno, e designado pelo Chefe do Poder Executivo, através de Decreto.\n§ 2º. Cada um dos representantes titulares de órgãos ou entidades do Conselho Municipal de Esporte (CME) terão um representante suplente correspondente.\n§ 3º. Os membros representantes do Poder Público serão indicados pelos respectivos titulares dos órgãos públicos e nomeados pelo Chefe do Poder Executivo, através de Decreto.\n§ 4º. Os membros representantes da Sociedade Civil, serão eleitos pelos representantes das entidades, bem como nomeados pelo Chefe do Poder Executivo, através de Decreto.\n§ 5º. O prazo de mandato dos membros é de 02 (dois) anos, permitida a recondução por igual período uma única vez, enquanto no desempenho das funções ou cargos nos quais foram indicados ou eleitos.\n§ 6º. São requisitos mínimos para indicação ou eleição como membro do Conselho Municipal de Esporte (CME):\nI - Idade mínima de 21 (vinte e um) anos;\nII - Domicílio no Município de Lavras;\nIII - Idoneidade moral;\nIV - Não ser ocupante de nenhum cargo eletivo público.\n§ 7º. A função de membro do Conselho Municipal de Esporte (CME) é considerada de interesse público relevante e não será remunerada.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Conselho Municipal de Esporte (CME) terá a seguinte estrutura:\nI - Plenário;\nII - Mesa Diretora, que se subdivide em:\na) Presidente;\nb) Vice-Presidente;\nIII - Secretaria Executiva.\n§ 1º. O Plenário é o órgão máximo de deliberação do Conselho Municipal de Esporte (CME), formado por todos os seus membros e se reunirá ordinariamente, pelo menos uma vez por mês e extraordinariamente por convocação do Presidente ou de metade dos seus membros.\n§ 2º. As Assembleias, sessões ou reuniões do Plenário do Conselho Municipal de Esporte (CME) serão públicas e precedidas de ampla divulgação, salvo em hipóteses extraordinárias previstas no Regimento Interno, podendo qualquer presente fazer uso da palavra que será deferida pelo Presidente.\n§ 3º. A Mesa Diretora do Conselho Municipal de Esporte (CME) será eleita mediante votação, dentre os membros do Conselho, por maioria absoluta, devendo haver, uma alternância entre as entidades governamentais e não governamentais.\n§ 4º. Compete ao Presidente da Mesa Diretora do Conselho Municipal de Esporte (CME):\nI - Cumprir e zelar pelo cumprimento das decisões do Plenário;\nII - Representar o Conselho Municipal de Esporte (CME), em juízo e fora dele, podendo delegar representação, inclusive com poderes para prestar depoimento em nome do Conselho;\nIII - Convocar, presidir as Assembleias/Sessões do Plenário do Conselho Municipal de Esporte (CME), submeter a pauta à aprovação do Plenário e exercer o voto de qualidade, sempre que houver empate;\nIV - Assinar Resoluções, Portarias e correspondências oficiais do Conselho Municipal de Esporte (CME), aprovadas pelo Plenário;\nV - Submeter à votação as matérias a serem decididas pelo Plenário, intervindo na ordem dos trabalhos ou suspendendo-os, sempre que necessário;\nVI - Praticar atos necessários ao exercício de tarefas administrativas, assim como os que resultem de deliberação do Plenário;\nVII - Submeter à apreciação do Plenário a programação orçamentária e a execução físico-financeira do Conselho Municipal de Esporte (CME);\nVIII - Submeter ao Plenário o relatório anual do Conselho Municipal de Esporte (CME);\nIX - Dar publicidade às decisões do Conselho Municipal de Esporte (CME);\nX - Decidir sobre questões de ordem;\nXI - Desenvolver as articulações necessárias para o cumprimento das atividades da Presidência;\nXII - Aprovar e encaminhar, ad referendum, assuntos de caráter administrativo, quando não for possível reunir o Plenário para sua deliberação.\n§ 5º. Compete ao Vice-Presidente da Mesa Diretora do Conselho Municipal de Esporte (CME):\nI - Auxiliar o Presidente no cumprimento de suas atribuições;\nII - Substituir o Presidente em casos de ausência, renúncia, impedimento, falta ou perda do mandato;\nIII - Exercer as atribuições que lhe forem conferidas pelo Plenário.\n§ 6º. A Secretaria Executiva, diretamente subordinada à Mesa Diretora e ao Plenário, será composta de 02 (dois) membros Conselheiros e dará suporte ao cumprimento das competências do Conselho Municipal de Esporte (CME).\n§ 7º. São competências da Secretaria Executiva do Conselho Municipal de Esporte (CME):\nI - Promover e praticar os atos de gestão administrativa necessários ao desempenho das atividades do Conselho Municipal de Esporte (CME);\nII - Dar suporte técnico-operacional para o Conselho Municipal de Esporte (CME), com vistas a subsidiar as realizações das Assembleias/Sessões do Plenário do Conselho Municipal de Esporte (CME);\nIII - Acompanhar as atividades de capacitação para os Conselhos Municipais, em conformidade com as diretrizes definidas pelo Plenário;\nIV - Dar cumprimento aos procedimentos aplicáveis às denúncias recebidas no Conselho Municipal de Esporte (CME);\nV - Redigir as atas das Assembleias, Sessões e Reuniões do Plenário do Conselho Municipal de Esporte (CME), bem como colher as assinaturas dos presentes;\nVI - Proceder à leitura das atas no início das Assembleias, Sessões e Reuniões do Plenário do Conselho Municipal de Esporte (CME);\nVII - Assessorar a Mesa Diretora nas demais funções;\nVIII - Dar ampla publicidade às ações do Conselho Municipal de Esporte (CME), através da mídia falada, escrita, presencial e virtual.\n§ 8º. Sem prejuízo do previsto nesta Lei, o Regimento Interno do Conselho Municipal de Esporte (CME) poderá definir outras atribuições e competências complementares aos órgãos que compõem sua estrutura.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O Conselho Municipal de Esporte (CME) instituirá seus atos por meio de Resolução aprovada pela maioria de seus membros.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Cada membro do Conselho Municipal de Esporte (CME) terá direito a um único voto na Assembleia/Sessão do Plenário do Conselho Municipal de Esporte (CME), excetuando o Presidente da Mesa Diretora que também exercerá o voto de qualidade.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Perderá automaticamente o mandato o membro Conselheiro que:\nI - Desvincular-se do órgão ou entidade de origem de sua representação;\nII - Faltar a 3 (três) reuniões consecutivas ou 5 (cinco) reuniões intercaladas;\nIII - Apresentar renúncia ao Presidente da Mesa Diretora do Conselho Municipal de Esporte (CME), que será lida na Assembleia/Sessão seguinte à de sua recepção;\nIV - For condenado em sentença penal condenatória transitada em julgado.\nV - Atuar com desídia no exercício das funções de Conselheiro, após deliberação de maioria absoluta do Plenário e procedimento administrativo, garantida a ampla defesa e o contraditório.\nParágrafo único. A perda do Mandato prevista no caput será declarada pelo Presidente da Mesa Diretora em Assembleia/Sessão do Plenário do Conselho Municipal de Esporte (CME), arquivando-se os documentos comprobatórios pertinentes.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Nos casos de falta ou impedimento temporário, os membros titulares do Conselho Municipal de Esporte (CME) serão substituídos pelos respectivos suplentes, automaticamente, os quais exercerão os mesmos direitos e deveres dos titulares.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Salvo o disposto no artigo 8º, a substituição de membros Conselho Municipal de Esporte (CME) devidamente indicados ou eleitos, somente ocorrerá na hipótese de verificação da perda do mandato do membro respectivo, nos termos do artigo 7º, caput e parágrafo único.\n§ 1º. Verificada a necessidade de substituição prevista no caput, o Conselho Municipal de Esporte (CME) deverá encaminhar a Ata da Assembleia/Sessão de que trata o parágrafo único do artigo 7º, os documentos comprobatórios pertinentes à perda do mandato, bem como os documentos comprobatórios da indicação ou eleição do membro substituinte, a fim de que o Chefe do Poder Executivo promova a respectiva nomeação, através de Decreto.\n§ 2º. A substituição de membros não implica em modificação do alcance e nem interrupção do prazo do mandato previsto no artigo 3º, § 5º.\n§ 3º. Os atos praticados por qualquer dos membros do Conselho Municipal de Esporte (CME) sem a devida nomeação, nos termos desta Lei, são passíveis de nulidade e de aplicação de futura e eventual penalidade cabível em desfavor dos envolvidos.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O Conselho Municipal de Esporte (CME) perderá sua condição de órgão permanente, paritário, consultivo e deliberativo quando ocorrer uma das seguintes situações:\nI - Extinção de sua base territorial de atuação no Município;\nII - Verificação de irregularidades no exercício das atividades que inviabilize sua existência, desde que devidamente comprovadas e respeitada a ampla defesa;\nIII - Aplicação de penalidades administrativas de natureza grave, devidamente comprovada.\nParágrafo único. Extinto o Conselho Municipal de Esporte (CME), o seu patrimônio será transferido ao seu substituto legal ou, na falta deste, ao Município.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. As despesas decorrentes da aplicação da presente lei correrão à conta de dotação orçamentária própria consignada no orçamento vigente, suplementadas se necessária.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Fica mantida a atual composição de membros do Conselho Municipal de Esporte (CME), se existente, devendo a designação ou eleição de novos membros observar o disposto nesta Lei.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Fica revogada a Lei Municipal n° 3.545/2009, que dispõe sobre o Conselho Municipal de Esporte (CME), e dá outras providências.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 18 de maio de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.572, de 18 de maio de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00417",
+   "short": "LC 417/2020",
+   "title": "Lei Complementar nº 417, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7575",
+   "first_law": "lc-2020-00417",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7575/lei_complementar_417_2020_altera_lei_complementar_403.pdf",
+     "sha256": "e73e1d35be782a20a17bb904f641a924221e7ab8a19b22652203839353ba6a55",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 417, DE 15 DE MAIO DE 2.020.\n(Projeto de Lei Complementar n° 016/2020, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR N° 403/2019, QUE AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 2º da Lei Complementar n° 403, de 12 de dezembro de 2019, que autoriza a Concessão de Direito Real de Uso de imóvel público que menciona, passa a vigorar com a seguinte redação:\n\"Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, situa-se no Lote 04 da Quadra A, na Rua Projetada 01, no Loteamento Distrito Industrial III, cuja área útil a ser concedida é de 3.537,15 m², conforme Memorial Descritivo e Croqui presentes nos Anexos I e II da presente Lei.\nParágrafo único. O imóvel descrito no caput, está devidamente registrado sob a Matrícula nº 65333 do Serviço Registral de Imóveis de Lavras\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os Anexos I e II da Lei Complementar n° 403, de 12 de dezembro de 2019, passam a vigorar com as redações dos Anexos I e II da presente Lei, respectivamente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 15 de maio de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 417, de 15 de maio de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00416",
+   "short": "LC 416/2020",
+   "title": "Lei Complementar nº 416, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7574",
+   "first_law": "lc-2020-00416",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7574/lei_complementar_416_2020_altera_lei_complementar_402.pdf",
+     "sha256": "539e6e44e5306cd5001a63269b18f956e615513af1d91a3a930cf583a49a4e7e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 416, DE 15 DE MAIO DE 2.020.\n(Projeto de Lei Complementar n° 015/2020, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR N° 402/2019, QUE AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 2º da Lei Complementar n° 402, de 12 de dezembro de 2019, que autoriza a Concessão de Direito Real de Uso de imóvel público que menciona, passa a vigorar com a seguinte redação:\n\"Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, situa-se no Lote 05 da Quadra C, na Rua Projetada 04, no Loteamento Distrito Industrial III, cuja área útil a ser concedida é de 1.002,07 m², conforme Memorial Descritivo e Croqui presentes nos Anexos I e II da presente Lei.\nParágrafo único. O imóvel descrito no caput, está devidamente registrado sob a Matrícula nº 65342 do Serviço Registral de Imóveis de Lavras\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os Anexos I e II da Lei Complementar n° 402, de 12 de dezembro de 2019, passam a vigorar com as redações dos Anexos I e II da presente Lei, respectivamente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 15 de maio de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 416, de 15 de maio de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00415",
+   "short": "LC 415/2020",
+   "title": "Lei Complementar nº 415, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7573",
+   "first_law": "lc-2020-00415",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7573/lei_complementar_415_2020_altera_lei_complementar_401.pdf",
+     "sha256": "f3a4119383fa9878c4c262bef4cdd0712b3fcc07d6f67fd5e3c878444d10fdb9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 415, DE 15 DE MAIO DE 2.020.\n(Projeto de Lei Complementar n° 014/2020, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR N° 401/2019, QUE AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 2º da Lei Complementar n° 401, de 12 de dezembro de 2019, que autoriza a Concessão de Direito Real de Uso de imóvel público que menciona, passa a vigorar com a seguinte redação:\n\"Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, situa-se no Lote 03 da Quadra A, na Rua Projetada 01, no Loteamento Distrito Industrial III, cuja área útil a ser concedida é de 3.539,00 m², conforme Memorial Descritivo e Croqui presentes nos Anexos I e II da presente Lei.\nParágrafo único. O imóvel descrito no caput, está devidamente registrado sob a Matrícula nº 65332 do Serviço Registral de Imóveis de Lavras\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os Anexos I e II da Lei Complementar n° 401, de 12 de dezembro de 2019, passam a vigorar com as redações dos Anexos I e II da presente Lei, respectivamente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 15 de maio de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 415, de 15 de maio de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00414",
+   "short": "LC 414/2020",
+   "title": "Lei Complementar nº 414, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7572",
+   "first_law": "lc-2020-00414",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7572/lei_complementar_414_2020_altera_lei_complementar_400.pdf",
+     "sha256": "70c4a0d54466a131140540374c6bcb15f786dd8775fa007f2b3e36c336e4b16b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 414, DE 15 DE MAIO DE 2.020.\n(Projeto de Lei Complementar n° 013/2020, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR N° 400/2019, QUE AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 2º da Lei Complementar n° 400, de 12 de dezembro de 2019, que autoriza a Concessão de Direito Real de Uso de imóvel público que menciona, passa a vigorar com a seguinte redação:\n\"Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, situa-se no Lote 04 da Quadra B, na Rua Projetada 01, no Loteamento Distrito Industrial III, cuja área útil a ser concedida é de 3.409,75 m², conforme Memorial Descritivo e Croqui presentes nos Anexos I e II da presente Lei.\nParágrafo único. O imóvel descrito no caput, está devidamente registrado sob a Matrícula nº 65337 do Serviço Registral de Imóveis de Lavras\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os Anexos I e II da Lei Complementar n° 400, de 12 de dezembro de 2019, passam a vigorar com as redações dos Anexos I e II da presente Lei, respectivamente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 15 de maio de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 414, de 15 de maio de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00413",
+   "short": "LC 413/2020",
+   "title": "Lei Complementar nº 413, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7571",
+   "first_law": "lc-2020-00413",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7571/lei_complementar_413_2020_altera_lei_complementar_399.pdf",
+     "sha256": "5b67eeac71beaadcc18cac1cdea7325d4a792fad0bb4604a936c771b7230b5c8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 413, DE 15 DE MAIO DE 2.020.\n(Projeto de Lei Complementar n° 012/2020, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR N° 399/2019, QUE AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 2º da Lei Complementar n° 399, de 12 de dezembro de 2019, que autoriza a Concessão de Direito Real de Uso de imóvel público que menciona, passa a vigorar com a seguinte redação:\n\"Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, situa-se no Lote 02 da Quadra A, na Rua Projetada 01, no Loteamento Distrito Industrial III, cuja área útil a ser concedida é de 3.045,20 m², conforme Memorial Descritivo e Croqui presentes nos Anexos I e II da presente Lei.\nParágrafo único. O imóvel descrito no caput, está devidamente registrado sob a Matrícula n° 65331 do Serviço Registral de Imóveis de Lavras\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os Anexos I e II da Lei Complementar n° 399, de 12 de dezembro de 2019, passam a vigorar com as redações dos Anexos I e II da presente Lei, respectivamente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 15 de maio de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 413, de 15 de maio de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00412",
+   "short": "LC 412/2020",
+   "title": "Lei Complementar nº 412, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7570",
+   "first_law": "lc-2020-00412",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7570/lei_complementar_412_2020_altera_lei_complementar_397.pdf",
+     "sha256": "ef11e908bd87e1054270c6fecf015ae9a9d18971c7669759349953e6e1ad76d3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 412, DE 15 DE MAIO DE 2.020.\n(Projeto de Lei Complementar n° 011/2020, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR N° 397/2019, QUE AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 2º da Lei Complementar n° 397, de 12 de dezembro de 2019, que autoriza a Concessão de Direito Real de Uso de imóvel público que menciona, passa a vigorar com a seguinte redação:\n\"Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, situa-se no Lote 01 da Quadra C, na Rua Projetada 03, no Loteamento Distrito Industrial III, cuja área útil a ser concedida é de 2.202,42 m², conforme Memorial Descritivo e Croqui presentes nos Anexos I e II da presente Lei.\nParágrafo único. O imóvel descrito no caput, está devidamente registrado sob a Matrícula n° 65338 do Serviço Registral de Imóveis de Lavras\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os Anexos I e II da Lei Complementar n° 397, de 12 de dezembro de 2019, passam a vigorar com as redações dos Anexos I e II da presente Lei, respectivamente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 15 de maio de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 412, de 15 de maio de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00411",
+   "short": "LC 411/2020",
+   "title": "Lei Complementar nº 411, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7569",
+   "first_law": "lc-2020-00411",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7569/lei_complementar_411_2020_altera_lei_complementar_396.pdf",
+     "sha256": "9db4471b42b96a59ad70ce8be35bfa0dbedc3e7529ee180be55512be89cc79af",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 411, DE 15 DE MAIO DE 2.020.\n(Projeto de Lei Complementar n° 010/2020, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR N° 396/2019, QUE AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 2º da Lei Complementar n° 396, de 12 de dezembro de 2019, que autoriza a Concessão de Direito Real de Uso de imóvel público que menciona, passa a vigorar com a seguinte redação:\n\"Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, situa-se no Lote 02 da Quadra C, na Rua Projetada 03, esquina com a Rua Projetada 02, no Loteamento Distrito Industrial III, cuja área útil a ser concedida é de 1.944,91 m², conforme Memorial Descritivo e Croqui presentes nos Anexos I e II da presente Lei.\nParágrafo único. O imóvel descrito no caput, está devidamente registrado sob a Matrícula n° 65339 do Serviço Registral de Imóveis de Lavras\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os Anexos I e II da Lei Complementar n° 396, de 12 de dezembro de 2019, passam a vigorar com as redações dos Anexos I e II da presente Lei, respectivamente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 15 de maio de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 411, de 15 de maio de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00410",
+   "short": "LC 410/2020",
+   "title": "Lei Complementar nº 410, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7568",
+   "first_law": "lc-2020-00410",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7568/lei_complementar_410_2020_altera_lei_complementar_395.pdf",
+     "sha256": "fc623a3737bd747c360873da3943fbc96bfad2fb3ab703dc2ab9d1c0f7c76765",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 410, DE 15 DE MAIO DE 2.020.\n(Projeto de Lei Complementar n° 009/2020, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR N° 395/2019, QUE AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 2º da Lei Complementar n° 395, de 12 de dezembro de 2019, que autoriza a Concessão de Direito Real de Uso de imóvel público que menciona, passa a vigorar com a seguinte redação:\n\"Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, situa-se no Lote 07 da Quadra C, na esquina da Rua Projetada 3 e a Rua Projetada 4, no Loteamento Distrito Industrial III, cuja área útil a ser concedida é de 1.438,71 m², conforme Memorial Descritivo e Croqui presentes nos Anexos I e II da presente Lei.\nParágrafo único. O imóvel descrito no caput, está devidamente registrado sob a Matrícula n° 65344 do Serviço Registral de Imóveis de Lavras\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os Anexos I e II da Lei Complementar n° 395, de 12 de dezembro de 2019, passam a vigorar com as redações dos Anexos I e II da presente Lei, respectivamente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 15 de maio de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 410, de 15 de maio de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00409",
+   "short": "LC 409/2020",
+   "title": "Lei Complementar nº 409, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7567",
+   "first_law": "lc-2020-00409",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7567/lei_complementar_409_2020_altera_lei_complementar_394.pdf",
+     "sha256": "0b2e9bf2b76f999916087002750600522f2f6cc081b9c4a3da3858cd843b86bb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 409, DE 15 DE MAIO DE 2.020.\n(Projeto de Lei Complementar n° 008/2020, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR N° 394/2019, QUE AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 2º da Lei Complementar n° 394, de 12 de dezembro de 2019, que autoriza a Concessão de Direito Real de Uso de imóvel público que menciona, passa a vigorar com a seguinte redação:\n\"Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, situa-se no Lote 03 da Quadra C, na Rua Projetada 04, no Loteamento Distrito Industrial III, cuja área útil a ser concedida é de 1.086,45 m², conforme Memorial Descritivo e Croqui presentes nos Anexos I e II da presente Lei.\nParágrafo único. O imóvel descrito no caput, está devidamente registrado sob a Matrícula n° 65340 do Serviço Registral de Imóveis de Lavras\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os Anexos I e II da Lei Complementar n° 394, de 12 de dezembro de 2019, passam a vigorar com as redações dos Anexos I e II da presente Lei, respectivamente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 15 de maio de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 409, de 15 de maio de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-00408",
+   "short": "LC 408/2020",
+   "title": "Lei Complementar nº 408, de 15 de maio de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7566",
+   "first_law": "lc-2020-00408",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7566/lei_complementar_408_2020_altera_lei_complementar_393.pdf",
+     "sha256": "d1b485163677bdba8d31fcc90f1734f4fa31d1baa088f3477181d08994520d79",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 408, DE 15 DE MAIO DE 2.020.\n(Projeto de Lei Complementar n° 007/2020, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR N° 393/2019, QUE AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 2º da Lei Complementar n° 393, de 12 de dezembro de 2019, que autoriza a Concessão de Direito Real de Uso de imóvel público que menciona, passa a vigorar com a seguinte redação:\n\"Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, situa-se no Lote 04 da Quadra C, na Rua Projetada 04, no Loteamento Distrito Industrial III, cuja área útil a ser concedida é de 1.078,81 m², conforme Memorial Descritivo e Croqui presentes nos Anexos I e II da presente Lei.\nParágrafo único. O imóvel descrito no caput, está devidamente registrado sob a Matrícula n° 65341 do Serviço Registral de Imóveis de Lavras\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os Anexos I e II da Lei Complementar n° 393, de 12 de dezembro de 2019, passam a vigorar com as redações dos Anexos I e II da presente Lei, respectivamente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 15 de maio de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 408, de 15 de maio de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2020-04569",
+   "short": "Lei 4569/2020",
+   "title": "Lei nº 4.569, de 27 de abril de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7558",
+   "first_law": "lei-2020-04569",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-04-27",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7558/lei_4569_2020_autoriza_alienar_bens_imoveis.pdf",
+     "sha256": "37db3b05b4f99592c5f30ae174605c747476655385f4baeaee623aa7c258c5f0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.569, DE 27 DE ABRIL DE 2.020.\n(Projeto de Lei n° 019/2020, de autoria do Poder Executivo) AUTORIZA O PODER EXECUTIVO MUNICIPAL A ALIENAR OS BENS IMÓVEIS QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras através de seus representantes legais aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo Municipal autorizado a alienar, através da modalidade licitatória de concorrência, nos termos do inciso I do artigo 14 da Lei Orgânica do Município (LOM), os seguintes bens imóveis:\nI - 01 (um) terreno urbano, denominado Área 01, situado na Rua Ézio Áureo Cavazza, Bairro Distrito Industrial Silvio Menicucci II, no Município de Lavras, com área total de 7.250,81m², registrado no Serviço Registral de Imóveis de Lavras sob a Matrícula n° 64976;\nII - 01 (um) terreno urbano, denominado Área 02, situado na Rua Ézio Áureo Cavazza, Bairro Distrito Industrial Silvio Menicucci II, no Município de Lavras, com área total de 8.804,64m², registrado no Serviço Registral de Imóveis de Lavras sob a Matrícula n° 64977.\n§1º. O procedimento licitatório previsto no caput deverá observar o disposto na Lei Federal n° 8.666, de 21 de junho de 1993, na Lei Orgânica do Município (LOM), e nas demais previsões legais pertinentes.\n§2º. Fica dispensada a desafetação dos bens imóveis elencados nos incisos I e II do caput, uma vez que tratam-se de bens imóveis públicos dominicais, que integram o patrimônio do Município de Lavras.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A pesquisa de preços que servirá de parâmetro para o estabelecimento dos valores mínimos a serem admitidos no procedimento licitatório deverá ser realizada pela Secretaria Municipal Obras, Regulação Urbana e Defesa Civil, observando-se, especialmente, o Parecer Técnico de Avaliação Imobiliária Mercadológica dos bens imóveis objeto de alienação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Os valores oriundos da alienação dos bens imóveis de que trata esta Lei serão destinados à Secretaria Municipal de Saúde, especialmente em razão da necessidade de implementação de medidas de enfrentamento à Pandemia do Coronavírus (COVID-19) e da declaração de estado de emergência, no âmbito da saúde pública do Município de Lavras, nos termos do Decreto Municipal n° 15.336/2020.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 27 de abril de 2020\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.569, de 27 de abril de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
