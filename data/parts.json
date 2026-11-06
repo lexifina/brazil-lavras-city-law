@@ -82,6 +82,12 @@
     "lei-2020-04591"
    ],
    "sha256": "c64fc9154c4e15e31f8d0975e7bc3ddf4d8d6b99af4d6cae814f0601251bb861"
+  },
+  "30-leis-015.json": {
+   "acts": [
+    "lc-2020-00406"
+   ],
+   "sha256": "2be2f259042f168be2bf7fe7b5e0ec079f887f94aae1e5dc6c5365ac6ca4aa19"
   }
  },
  "schema": 1

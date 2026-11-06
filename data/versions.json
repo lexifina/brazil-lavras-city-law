@@ -532,6 +532,20 @@
      "sha256": "37db3b05b4f99592c5f30ae174605c747476655385f4baeaee623aa7c258c5f0"
     }
    ]
+  },
+  {
+   "slug": "lc-2020-00406",
+   "short": "LC 406/2020",
+   "title": "Lei Complementar nº 406, de 26 de fevereiro de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7532",
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "units": 14,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7532/lei_complementar_406_2019_altera_lei_complementar_092.pdf",
+     "sha256": "db728f0d7b6c3702f16d622b85534fd38a27fed99de393c89998c64af82021eb"
+    }
+   ]
   }
  ]
 }
