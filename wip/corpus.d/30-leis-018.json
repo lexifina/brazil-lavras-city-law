@@ -1,0 +1,164 @@
+{
+ "country": {
+  "code": "BR-MG-LAVRAS",
+  "name": "Lavras",
+  "slug": "brazil-lavras-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Lavras (SAPL)",
+   "email": "sapl@lavras.mg.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Lavras, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.lavras.mg.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "2 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2018-04445": {
+   "label": "Lei nº 4.445, de 20 de março de 2018",
+   "title": "APROVA O PLANO MUNICIPAL DE SANEAMENTO BÁSICO DO MUNICÍPIO DE LAVRAS - PMSB-LAVRAS, E O PLANO MUNICIPAL DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE LAVRAS - PMGIRS-LAVRAS",
+   "kind": "law",
+   "enacted": "2018-03-20",
+   "published": null,
+   "url": "https://sapl.lavras.mg.leg.br/norma/6923",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-04444": {
+   "label": "Lei nº 4.444, de 19 de fevereiro de 2018",
+   "title": "INCLUI ENTIDADE NO PLANO DE AUXÍLIOS, SUBVENÇÕES E CONTRIBUIÇÕES DO MUNICÍPIO DE LAVRAS PARA O ANO DE 2018",
+   "kind": "law",
+   "enacted": "2018-02-19",
+   "published": null,
+   "url": "https://sapl.lavras.mg.leg.br/norma/6911",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2018-04445",
+   "short": "Lei 4445/2018",
+   "title": "Lei nº 4.445, de 20 de março de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/6923",
+   "first_law": "lei-2018-04445",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-03-20",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/6923/6923_texto_integral.pdf",
+     "sha256": "d66eabc2dc9511d3bc2ef56f6eb7ba2e542f842304f5126b5f4b6639d19f5478",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº4.445, DE 20 DE MARÇO DE 2.018.\n(Projeto de Lei nº003/18, de autoria do Poder Executivo, com emenda dos Vereadores Antônio Claret dos Santos e Cristiane de Oliveira Costa Lasmar) APROVA O PLANO MUNICIPAL DE SANEAMENTO BÁSICO DO MUNICÍPIO DE LAVRAS - PMSB-LAVRAS, E O PLANO MUNICIPAL DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS DE LAVRAS - PMGIRS-LAVRAS.\nFaço saber que a Câmara Municipal de Lavras aprovou e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Ficam aprovados o Plano Municipal de Saneamento Básico de Lavras - PMSB-LAVRAS e o Plano Municipal de Gestão Integrada de Resíduos Sólidos de Lavras - PMGIRS-LAVRAS, na forma estabelecida nos Anexos desta Lei.\n§1º O Plano Municipal de Saneamento Básico de Lavras - PMSB-LAVRAS, nos termos dos anexos desta Lei compreende:\nI-Anexo I - Sumário Executivo:\na) Compatibilização da Demanda por Saneamento Básico com as Ações do Plano;\nb) Resumo Geral da Projeção de Investimentos;\nc) Resumo da Projeção de Investimentos de Acordo com as Responsabilidades de implementação.\nII- Anexo II - Infraestrutura de Saneamento. Município de Lavras. Serviços de Saneamento Básico - Volume I:\na) Caracterização da área de planejamento;\nb) Projeção populacional;\nc) Regulação do sistema de saneamento;\nd) Vigilância sanitária e ambiental;\ne) Saúde no Município de Lavras;\nf) Qualidade das águas no Município de Lavras;\ng) Aspectos legais;\nh) Anexos.\nIII- Anexo III - Infraestrutura de Saneamento. Município de Lavras. Serviços de Saneamento Básico - Volume II:\na) Diagnóstico da área urbana;\nb) Diagnóstico da área rural;\nc) Referências bibliográficas;\nd) Anexos.\nIV- Anexo IV - Infraestrutura de Saneamento. Município de Lavras. Serviços de Saneamento Básico - Volume III:\na) Prognósticos e alternativas para a universalização, condicionantes, diretrizes, objetivos e metas;\nb) Concepção dos programas, projetos e ações;\nc) Proposta de arranjo alternativo de organização jurídico institucional existente;\nd) Procedimentos e mecanismos para a compatibilização com as políticas e os planos nacional e estadual de recursos hídricos;\ne) Análise da viabilidade social, econômica e ambiental da prestação dos serviços considerando os cenários, os objetivos, programas, projetos e ações;\nf) Ações para emergências e contingências;\ng) Mecanismos e procedimentos de controle social e instrumentos para o monitoramento e avaliação;\nh) Referências bibliográficas;\ni) Anexos.\n§2º O Plano Municipal de Gestão Integrada de Resíduos Sólidos de Lavras - PMGIRS-LAVRAS, nos termos dos anexos desta Lei compreende:\nI-Anexo V - Infraestrutura de Saneamento. Município de Lavras. Serviços de Saneamento Básico - Volume I:\na) Caracterização da área de planejamento;\nb) Projeção populacional;\nc) Regulação do sistema de saneamento;\nd) Vigilância sanitária e ambiental;\ne) Saúde no Município de Lavras;\nf) Aspectos legais;\ng) Referências bibliográficas;\nh) Anexos.\nII- Anexo VI - Infraestrutura de Saneamento. Município de Lavras. Serviços de Saneamento Básico - Volume II:\na) Diagnóstico da área urbana;\nb) Diagnóstico da área rural;\nc) Referências bibliográficas;\nd) Anexos.\nIII- Anexo VII - Infraestrutura de Saneamento. Município de Lavras. Serviços de Saneamento Básico - Volume III:\na) Prognósticos e alternativas para a universalização, condicionantes, diretrizes, objetivos e metas;\nb) Concepção dos programas, projetos e ações;\nc) Proposta de arranjo alternativo de organização jurídico institucional existente;\nd) Análise da viabilidade social, econômica e ambiental da prestação dos serviços considerando os cenários, os objetivos, programas, projetos e ações;\ne) Ações para emergências e contingências;\nf) Mecanismos e procedimentos de controle social e instrumentos para o monitoramento e avaliação;\ng) Referências Bibliográficas;\nh) Anexos\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Os programas, projetos e ações da Administração Pública Municipal na gestão, seja integrada seja associada, e no gerenciamento dos serviços de saneamento básico e dos serviços de resíduos sólidos, deverão ser compatíveis com o PMSB-LAVRAS e o PMGIRS-LAVRAS, ficando vinculados a estes.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - A entidade reguladora a ser designada pelo Município de Lavras, ao exercer a sua competência na regulação e fiscalização dos serviços de saneamento básico, incluso os serviços de resíduos sólidos, observará o disposto no PMSB-LAVRAS e no PMGIRS-LAVRAS, sem prejuízo do atendimento das demais leis aplicáveis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - A prestação dos serviços de saneamento básico e dos serviços de resíduos sólidos, deverá ser desempenhada em compatibilidade com o previsto no PMSB-LAVRAS e o PMGIRS-LAVRAS.\nParágrafo Único - O PMSB-LAVRAS e o PMIGIRS-LAVRAS também deverão nortear a conduta das pessoas físicas ou pessoas jurídicas, de direito público ou de direito privado, que atuem, direta ou indiretamente, na gestão e no gerenciamento dos serviços de saneamento básico e dos serviços de resíduos sólidos, no âmbito do território municipal.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - O PMSB-LAVRAS e o PMIGIRS-LAVRAS, possuem o prazo de vigência de 20 (vinte) anos e deverão ser revistos a cada 4 (quatro) anos, preferencialmente, antes da elaboração da Lei de aprovação do Plano Plurianual do Município de Lavras.\nParágrafo Único - O disposto no caput deste artigo não impede que o PMSB-LAVRAS e o PMIGIRS-LAVRAS sejam revistos sempre que as estratégias de planejamento traçadas se apresentarem insuficientes para o ordenamento da gestão, integrada ou associada, e do gerenciamento dos serviços de saneamento básico, incluso os serviços de resíduos sólidos, observadas as razões de interesse público relevantes existentes na hipótese.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - A consulta pública à íntegra do PMSB-LAVRAS e do PMIGIRS-LAVRAS, permanecerão disponíveis no sítio eletrônico do Município de Lavras.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Esta Lei entra em vigor na data da sua publicação.\nPrefeitura Municipal de Lavras, em 20 de março de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.445, de 20 de março de 2018; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04444",
+   "short": "Lei 4444/2018",
+   "title": "Lei nº 4.444, de 19 de fevereiro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/6911",
+   "first_law": "lei-2018-04444",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/6911/6911_texto_integral.pdf",
+     "sha256": "0a892539e0795dfdb42f01ecc6a9b74480330c0f4fd3a1c0c8ef300df1038922",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº4.444, DE 19 DE FEVEREIRO DE 2.018.\n(Projeto de Lei nº005/18, de autoria do Poder Executivo) INCLUI ENTIDADE NO PLANO DE AUXÍLIOS, SUBVENÇÕES E CONTRIBUIÇÕES DO MUNICÍPIO DE LAVRAS PARA O ANO DE 2018.\nA Câmara Municipal de Lavras através de seus representantes legais aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica incluída no Plano Auxílios, Subvenções e Contribuições da Administração Pública Municipal de Lavras, para o ano de 2018 a associação privada, sem fins lucrativos, de caráter socioassistencial, denominada LAR DE PROTEÇÃO DAS CRIANÇAS E ADOLESCENTES DE NEPOMUCENO - LAR DAS MENINAS, inscrita no CNPJ sob o nº06.231.279/0001-09.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O valor a ser repassado será de até R$11.448,00 (onze mil, quatrocentos e quarenta e oito reais) sob a responsabilidade e acompanhamento da Secretaria Municipal de Desenvolvimento Social.\n§ 1º. Em caso de desistência da entidade, o valor a ela destinado poderá ser redistribuído às demais entidades, destinado à que mais necessitar ou, a critério da Administração, destinado a outra entidade, mediante lei autorizativa.\n§ 2º. As transferências do recurso para a entidade será realizada exclusivamente mediante termo, ajuste ou outros instrumentos congêneres, observando o disposto na Lei nº13.019, de 31 de julho de 2.014 e demais legislação pertinente em vigor.\n§ 3º. A entidade beneficiada com recursos públicos submeter-se-á à fiscalização do órgão concedente, através do envio de prestação de contas ao órgão competente, com a finalidade de verificar o cumprimento do Plano de Trabalho.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. As despesas decorrentes da presente lei correrão à conta de dotação orçamentária própria.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 19 de fevereiro de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.444, de 19 de fevereiro de 2018; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
