@@ -1,0 +1,937 @@
+{
+ "country": {
+  "code": "BR-MG-LAVRAS",
+  "name": "Lavras",
+  "slug": "brazil-lavras-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Lavras (SAPL)",
+   "email": "sapl@lavras.mg.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Lavras, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.lavras.mg.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "14 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2019-04483": {
+   "label": "Lei nº 4.483, de 11 de março de 2019",
+   "title": "Contém o Plano de Auxílios, Subvenções e Contribuições do Município de Lavras para o ano de 2019, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-03-11",
+   "published": "2019-03-12",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7240",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-04480": {
+   "label": "Lei nº 4.480, de 21 de fevereiro de 2019",
+   "title": "Autoriza o Poder Executivo a firmar termo de filiação com a Associação Mineira de Municípios (AMM), e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-02-21",
+   "published": "2019-02-25",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7230",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-04479": {
+   "label": "Lei nº 4.479, de 20 de fevereiro de 2019",
+   "title": "Autoriza a celebrar convênio de cooperação, para a prestação de atendimento ambulatorial de urgência e emergência de ginecologia e obstetrícia",
+   "kind": "law",
+   "enacted": "2019-02-20",
+   "published": "2019-02-21",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7227",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-00382": {
+   "label": "Lei Complementar nº 382, de 26 de dezembro de 2018",
+   "title": "Autoriza a concessão de direito real de uso de imóvel público que menciona, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-12-26",
+   "published": "2018-12-26",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7247",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-00380": {
+   "label": "Lei Complementar nº 380, de 11 de dezembro de 2018",
+   "title": "Altera a Lei Complementar nº 359, de 08 de dezembro de 2016, que dispõe sobre a desafetação de uso institucional e doação com encargo, de imóvel que menciona, ao Estado de Minas Gerais, e dá outras providências",
+   "kind": "law",
+   "enacted": "2018-12-11",
+   "published": "2018-12-17",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7187",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-00379": {
+   "label": "Lei Complementar nº 379, de 11 de dezembro de 2018",
+   "title": "Autoriza a concessão de uso de imóvel público que menciona em favor do Instituto Mineiro de Gestão das Águas (IGAM), e dá outras providências",
+   "kind": "law",
+   "enacted": "2018-12-11",
+   "published": "2018-12-17",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7186",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-00376": {
+   "label": "Lei Complementar nº 376, de 11 de dezembro de 2018",
+   "title": "Altera a Lei Complementar Municipal nº 328 de 16.07.2014 e dá outras providências",
+   "kind": "law",
+   "enacted": "2018-12-11",
+   "published": "2018-12-17",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7183",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-00375": {
+   "label": "Lei Complementar nº 375, de 5 de dezembro de 2018",
+   "title": "Altera a Lei Complementar nº 322 de 07 de maio de 2014 que estabelece parâmetros especiais para o exercício do direito de construir, para as futuras instalações do Hospital Universitário da Universidade Federal de Lavras",
+   "kind": "law",
+   "enacted": "2018-12-05",
+   "published": "2018-12-05",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7166",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-00374": {
+   "label": "Lei Complementar nº 374, de 27 de novembro de 2018",
+   "title": "Autoriza a concessão de Direito Real de Uso de imóvel público que menciona, e dá outras providências",
+   "kind": "law",
+   "enacted": "2018-11-27",
+   "published": "2018-11-27",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7149",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-04467": {
+   "label": "Lei nº 4.467, de 15 de outubro de 2018",
+   "title": "Revoga a Lei nº 4463, de 24 de setembro de 2018, que dispõe sobre o deslocamento, o pagamento de indenizações e diárias e o procedimento de prestação de contas de Vereadores e servidores da Câmara Municipal de Lavras",
+   "kind": "law",
+   "enacted": "2018-10-15",
+   "published": "2018-10-16",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7054",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-00372": {
+   "label": "Lei Complementar nº 372, de 8 de outubro de 2018",
+   "title": "Dispõe sobre os cargos em comissão da Administração Municipal Direta e Indireta e dá outras providências",
+   "kind": "law",
+   "enacted": "2018-10-08",
+   "published": "2018-10-08",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7063",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-00370": {
+   "label": "Lei Complementar nº 370, de 24 de setembro de 2018",
+   "title": "DISPÕE SOBRE A DESAFETAÇÃO DE BEM DE USO INSTITUCIONAL, E DÁ OUTRAS PROVIDÊNCIAS",
+   "kind": "law",
+   "enacted": "2018-09-24",
+   "published": null,
+   "url": "https://sapl.lavras.mg.leg.br/norma/7046",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-04462": {
+   "label": "Lei nº 4.462, de 20 de setembro de 2018",
+   "title": "APROVA O PLANO DE MOBILIDADE URBANA DO MUNICÍPIO DE LAVRAS/MG (PLANMOB), E DÁ OUTRAS PROVIDÊNCIAS",
+   "kind": "law",
+   "enacted": "2018-09-20",
+   "published": null,
+   "url": "https://sapl.lavras.mg.leg.br/norma/7044",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2018-04459": {
+   "label": "Lei nº 4.459, de 28 de agosto de 2018",
+   "title": "AUTORIZA O PODER EXECUTIVO, POR MEIO DE SEUS REPRESENTANTES DA FAZENDA PÚBLICA, A CELEBRAR ACORDOS EM PROCESSO JUDICIAIS E DÁ OUTRAS PROVIDÊNCIAS",
+   "kind": "law",
+   "enacted": "2018-08-28",
+   "published": null,
+   "url": "https://sapl.lavras.mg.leg.br/norma/7036",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2019-04483",
+   "short": "Lei 4483/2019",
+   "title": "Lei nº 4.483, de 11 de março de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7240",
+   "first_law": "lei-2019-04483",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-03-12",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7240/lei_4483_2019_plano_de_auxilios_e_subvencoes.pdf",
+     "sha256": "a8e84add8b1411e3ae2e4b24303aac73fa590dc7115dc260811a585d36490642",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.483, DE 11 DE MARÇO DE 2.019.\n(Projeto de Lei nº 001/19, de autoria do Poder Executivo) CONTÉM O PLANO DE AUXÍLIOS, SUBVENÇÕES E CONTRIBUIÇÕES DO MUNICÍPIO DE LAVRAS PARA O ANO DE 2019, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras através de seus representantes legais aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo Municipal autorizado a conceder, de acordo com o artigo 12, §3º, I da Lei Federal nº 4.320, de 17 de março de 1964 e artigo 31, II da Lei Federal 13.019/14, subvenções sociais às entidades de prestação de serviços essenciais social, médico e educacional constantes do Anexo I da presente Lei, mediante Termo de Parceria, até o montante de R$ 793.000,00 (setecentos e noventa e três mil reais).\n§1º. Os convênios serão formalizados em conformidade com os respectivos projetos e planos de aplicação de recursos aprovados pelos respectivos órgãos gestores.\n§2º.\nSomente as entidades regularmente cadastradas junto à Municipalidade, e, que estiverem regulares com a Seguridade Social, poderão celebrar convênio e receber o recurso público mencionado no artigo 1º da presente Lei.\n§3º. As entidades constantes no Anexo I da presente Lei, deverão comprovar o atendimento aos quesitos da Lei Federal nº 4.320/1964, Lei Federal 13.019/2014, Decreto Municipal 14.415/17 e da presente Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os recursos de que tratam esta Lei serão liberados de acordo com a disponibilidade financeira do Município e em conformidade com o cronograma de desembolso físico-financeiro apresentado no Plano de Trabalho aprovado, atendendo a proporcionalidade, estando disponível todo recurso.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Cada entidade beneficiária deve observar, tanto para a obtenção da subvenção pleiteada quanto no que diz respeito à respectiva prestação de contas:\nI - As entidades beneficiárias ficam obrigadas a manterem conta bancária específica em instituição oficial, para o recebimento e movimentação do valor correspondente à subvenção repassada.\nII - Os valores recebidos e não utilizados em período igual ou superior a 30 (trinta) dias devem ser aplicados em caderneta de poupança ou outro investimento de natureza similar.\nIII - Os rendimentos das aplicações financeiras devem fazer parte integrante da prestação de contas, bem como aplicados em sua totalidade no objetivo desta subvenção, estando sujeitas às mesmas condições de prestação de contas exigidas dos recursos originalmente recebidos.\nIV - A Entidade que tiver sua prestação de contas não aprovadas pelo Poder Executivo Municipal, não será contemplada com novas parcelas ou novo Termo de Parceria, estando, por consequência, impedidas de receber recursos.\nV - A entidade subvencionada que tiver recebido a subvenção em 2018, deverá prestar contas dos recursos recebidos, na forma da Lei Federal 13.019/2014 e Decreto Municipal 14.415/17, sob pena de instauração de tomada de contas especial.\nVI - A liberação da subvenção do ano de 2019 dar-se-á mediante aprovação prévia, pelo órgão gestor ao qual a entidade está vinculada, conforme Plano de Trabalho apresentado.\nVII - O Plano de Trabalho das entidades deverá conter, no mínimo, os seguintes itens:\na) descrição da realidade que será objeto da parceria, devendo ser demonstrado o nexo entre essa realidade e as atividades ou projetos e metas a serem atingidas;\nb) descrição de metas a serem atingidas ou projetos a serem executados;\nc) previsão de receitas e despesas a serem realizadas na execução das atividades ou dos projetos abrangidos pela parceria;\nd) forma de execução das atividades ou dos projetos e de cumprimento das metas a ele atreladas;\ne) definição dos parâmetros a serem utilizados para a aferição do cumprimento das metas;\nf) etapas ou fases de execução;\ng) cronograma de desembolso;\nh) previsão de início e fim da execução do objeto.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Caso os recursos repassados venham ser utilizados em finalidade diversa da estabelecida no termo de parceria ou a respectiva prestação de contas deixar de ser apresentada no prazo exigido, bem assim, deixar de ser executado o objeto do termo de parceria e/ou Plano de Trabalho, ressalvadas as hipóteses de caso fortuito ou força maior, devidamente comprovadas, a entidade beneficiária deve restituir ao Município o montante recebido, acrescido de juros legais e de atualização monetária, segundo o índice oficial, a partir da data do respectivo recebimento.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 11 de março de 2019.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.483, de 11 de março de 2019; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-04480",
+   "short": "Lei 4480/2019",
+   "title": "Lei nº 4.480, de 21 de fevereiro de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7230",
+   "first_law": "lei-2019-04480",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-02-25",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7230/lei_4480_2019_filiacao_com_amm.pdf",
+     "sha256": "335abe2d0524b50e45a4e7942c89dc7fbdf76cf5ed16f59c3961a710e43d14d3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.480, DE 21 DE FEVEREIRO DE 2.019.\n(Projeto de Lei nº 004/19, de autoria do Poder Executivo) AUTORIZA O PODER EXECUTIVO A FIRMAR TERMO DE FILIAÇÃO COM A ASSOCIAÇÃO MINEIRA DE MUNICÍPIOS (AMM), E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo autorizado a firmar Termo de Filiação junto à Associação Mineira de Municípios (AMM), entidade privada sem finalidade lucrativa, inscrita no Cadastro Nacional de Pessoas Jurídicas - CNPJ sob o nº 20.513.859/0001-01, a fim de contribuir para o desenvolvimento e consecução dos objetivos e finalidades previstos em seu Estatuto Social.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º.O Município de Lavras contribuirá mensalmente com o valor de R$ 2.230,00 (dois mil duzentos e trinta reais), em favor da Associação Mineira de Municípios (AMM), a título de contribuição.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3°. Para fazer face às despesas com o Termo de Filiação referido no artigo 1° desta Lei, fica o Chefe do Poder Executivo Municipal, autorizado a proceder à abertura de um Crédito Adicional Especial ao Orçamento Geral de 2019 do Município, no valor de R$ 22.300,00 (vinte e dois mil e trezentos reais), na forma abaixo especificada:\n02.01.01.04.122.0001.2076- Manutenção das Atividades do Gabinete do Prefeito 3.3.50.41.00 - Contribuições 100 - R$ 22.300,00 (vinte e dois mil e trezentos reais)\n§1º. O Crédito Adicional criado poderá ser suplementado, mediante Decreto, em caso de necessidade e para isso serão utilizados recursos provenientes da anulação das respectivas dotações e fontes usadas para criá-los.\n§2º. Nos orçamentos seguintes serão consignadas dotações próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A cobertura do Crédito Adicional Especial a que se refere o artigo anterior se fará através da anulação parcial da seguinte dotação orçamentária:\n02.01.01.04.122.0001.2078 -Programa de PPP 33 - Outros Serviços de Terceiros - Pessoa Jurídica 100 - (-) R$ 22.300,00 (vinte e dois mil e trezentos reais)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Revogadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 21 de fevereiro de 2019.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.480, de 21 de fevereiro de 2019; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-04479",
+   "short": "Lei 4479/2019",
+   "title": "Lei nº 4.479, de 20 de fevereiro de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7227",
+   "first_law": "lei-2019-04479",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7227/lei_4479_2019_convenio__atendimento_ambulatorial_de__iIpOaEM.pdf",
+     "sha256": "102e12084fe6ea85191f64011519a9a8f106ed92bc9683d965e3d6437b0c362f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.479, DE 20 DE FEVEREIRO DE 2.019.\n(Projeto de Lei n° 016/2018, de autoria do Poder Executivo) AUTORIZA O MUNICÍPIO DE LAVRAS A CELEBRAR CONVÊNIO DE COOPERAÇÃO COM OS MUNICÍPIOS QUE MENCIONA, PARA A DISPONIBILIZAÇÃO E EFETIVA PRESTAÇÃO DE ATENDIMENTO AMBULATORIAL DE URGÊNCIA E EMERGÊNCIA DE GINECOLOGIA E OBSTETRÍCIA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras através de seus representantes legais aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo Municipal, através da Secretaria Municipal de Saúde, autorizado a celebrar Convênio de Cooperação com os Municípios limítrofes, visando a disponibilização e efetiva prestação de atendimento ambulatorial de urgência e emergência de ginecologia e obstetrícia, à população dos referidos municípios, mediante correspondente transferências de recursos à título de remuneração para esta finalidade, de acordo com a forma prescrita nesta Lei e no convênio a ser celebrado, através de gestão associada.\nParágrafo Único. Para efeitos desta Lei, consideram-se Municípios limítrofes os Municípios de Ribeirão Vermelho, Itumirim, Itutinga, Carrancas, Ijací, Luminárias e Ingaí.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2°. O prazo de vigência do Convênio de Cooperação de que trata o artigo 1º é de 12 (doze) meses a contar da data de sua assinatura, podendo ser prorrogado mediante Termo Aditivo celebrado entre os envolvidos, desde que o objetivo estiver sendo contemplado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3°. Os Municípios Limítrofes repassarão mensalmente ao Município de Lavras/MG remuneração pela disponibilização ou efetiva prestação dos atendimentos previstos nesta Lei, mediante repasse de recursos transferidos diretamente entre os municípios, com garantia da manutenção do equilíbrio econômico/financeiro para a execução do convênio de acordo com os seus termos e as normas vigentes, em especial a Lei Federal 8.080/90 e a Lei Federal 8.666/93.\nParágrafo Único. A transferência de recursos financeiros de que trata o caput será efetivada, de acordo com os valores descritos no Anexo Único desta Lei, em prazo a ser estabelecido no Convênio de Cooperação, observando-se o critério de contingente populacional de cada Município Limítrofe.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4°. A celebração do Convênio de Cooperação de que trata o artigo 1° depende de prévia aprovação, pela Secretaria Municipal de Saúde, de competente plano de trabalho proposto pelo Município Limítrofe, o qual deverá conter, no mínimo, as seguintes informações:\nI - a identificação do objeto e das metas;\nII - a definição das etapas ou fases de execução;\nIII - as obrigações dos envolvidos;\nIV - o valor da transferência financeira de cada um dos envolvidos e a forma de repasse;\nV - as dotações orçamentárias;\nVI - a forma de prestação de contas;\nVII - a vigência e os aditamentos;\nVIII - as hipóteses de rescisão e as vedações;\nIX - a eleição do foro competente.\nX - Cópia da Lei autorizativa para celebração do Convênio de Cooperação, promulgada pelo Município limítrofe.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. As despesas de competência do Município de Lavras/MG decorrentes desta Lei e do convênio por ela autorizado ocorrerão à conta de dotações orçamentárias próprias, da Secretaria Municipal de Saúde, vigentes para o exercício de 2.018 e suas respectivas para os exercícios seguintes, suplementadas, oportunamente, se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 20 de fevereiro de 2.019.\nJOSÉ CHEREM Prefeito Municipal ANEXO ÚNICO Lei n° 4.479, de 20 de fevereiro de 2019\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.479, de 20 de fevereiro de 2019; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00382",
+   "short": "LC 382/2018",
+   "title": "Lei Complementar nº 382, de 26 de dezembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7247",
+   "first_law": "lc-2018-00382",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7247/lei_complementar_382_2018_concessao_de_direito_de_us_7sNPNwT.pdf",
+     "sha256": "d9bb3e88fd905f0ff45473411b060c9ad522756ae57d2ca0d068ff9d80ce1ad0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR N° 382, DE 26 DE DEZEMBRO DE 2018 (Projeto de Lei Complementar n° 015/2018, de autoria do Poder Executivo) AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo Municipal autorizado a conceder, com fundamento nos artigos14, § 1º, e 15, caput e §1ºda Lei Orgânica do Município, e mediante prévio processo licitatório na modalidade Concorrência tipo maior oferta, Direito Real de Uso do imóvel mencionado no artigo 2º desta Lei.\nParágrafo Único. Deverão ser fixados no edital da licitação de que trata o caput, critérios técnicos objetivos adequados para aferir a viabilidade econômica das propostas apresentadas pelos interessados, devendo as mesmas refletir diretamente na geração de empregos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, registrado sob a Matrícula n° 17.192 do Serviço Registral de Imóveis de Lavras, situa-se na Rua Durval da Costa Alves Ribeiro, n° 432, Distrito Industrial, Lavras/MG, área útil a ser concedida de 9.598,30 m² (nove mil quinhentos e noventa e oito metros quadrados e dezoito decímetros quadrados),integrada por benfeitoria.\nParágrafo único. Não subsume o direito do Concessionário a utilização da área residual do imóvel registrado sob a Matrícula nº 17.192 do Serviço Registral de Imóveis de Lavras.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3°.Destina-se a Concessão de Direito Real de Uso para fins específicos de atividades empresariais e/ou industriais, resguardado o interesse público.\nParágrafo Único. Para efeitos desta Lei considera-se:\nI - Atividade empresarial, a atividade econômica exercida profissionalmente pelo empresário por meio da articulação dos fatores produtivos para a produção ou circulação de bens ou de serviços; e\nII - Atividade industrial, a atividade econômica que tem por finalidade transformar matéria-prima em produtos comercializáveis, utilizando para isto força humana, máquinas e/ou energia.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4°.A pesquisa de preços que servirá de parâmetro para o estabelecimento dos valores mínimos a serem admitidos na licitação deverá ser realizada junto aos órgãos oficiais, a Secretaria Municipal de Desenvolvimento Econômico, Indústria, Comércio e Mobilidade Urbana e outros órgãos que se fizerem necessários, de forma a viabilizar a fixação do preço mínimo da Concessão de Direito Real de Uso.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º.A Concessão de Direito Real de Uso do imóvel de que trata o artigo 2º desta Lei será formalizada através de contrato administrativo e de escritura pública, devendo ser previsto, obrigatoriamente:\nI - a vinculação de uso, que não poderá ser diferente daqueles previstos nesta Lei;\nII - as hipóteses de rescisão administrativa da Concessão, incluindo a promovida por infração contratual;\nIII - o prazo da Concessão;\nIV - a manutenção das benfeitorias atuais existentes e do terreno, pela concessionária;\nV -a previsão indenizatória de bens que restarem incorporados ao patrimônio municipal nos casos de rescisão administrativa imotivada;\nVI - as penalidades para o caso de descumprimento parcial ou total das obrigações inseridas no contrato administrativo e das inseridas nesta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º.A Concessão de Direito Real de Uso de que trata o artigo 1° desta Lei se dará pelo prazo de 10 (dez) anos, podendo ser prorrogado a critério da Administração Pública Municipal, desde que preenchidos os requisitos legais e as condições exaradas no edital do processo licitatório e no contrato administrativo.\nParágrafo Único. Na hipótese de superveniente decisão judicial capaz de alterar o titular da propriedade ou da posse do imóvel objeto da concessão, o prazo previsto no caput poderá ser alterado e/ou findada a Concessão de Direito Real de Uso a qualquer tempo, sem direito a indenização.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7°",
+       "kind": "article",
+       "text": "Art. 7°.A presente Concessão de Direito Real de Uso poderá resolver-se a qualquer tempo desde que o concessionário dê ao imóvel destinação diversa da estabelecida no artigo 3° desta Lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º.Constituem motivos para a rescisão do contrato administrativo, implicando na imediata retomada da área concedida e demais providências cabíveis, não gerando qualquer direito de indenização à concessionária por benfeitorias e acessões levantas, dentre outros a serem estabelecidos pelo Edital:\nI - desvio pela concessionária ou sucessores, a qualquer título, de sua finalidade e/ou atividade contratual;\nII - utilização do imóvel para finalidade diversa da prevista no artigo 3º, desta Lei;\nIII - descumprimento das disposições desta Lei;\nIV - extinção ou dissolução da concessionária a qualquer título, falência, insolvência ou comprometimento do patrimônio ou situação financeira;\nV - descumprimento, a qualquer tempo, da legislação ambiental pertinente ao tipo de atividade da concessionária e/ou ausência de adequada destinação aos resíduos resultantes da atividade.\nVI - paralisação do funcionamento do serviço, sem justa causa e prévia comunicação à concedente.\nVII - descumprimento de qualquer das cláusulas contratuais ou prazos.\nVIII - demais razões de interesse público.\nParágrafo Único. A devolução do imóvel incontinente ao concedente sem o direito de indenização à concessionária, não exclui a aplicação das penalidades previstas no Contrato.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º.É expressamente vedada a cessão, subconcessão ou transferência, total ou parcial, dos direitos decorrentes da concessão a terceiros, bem como sua sublocação total ou parcial, fusão, cisão ou incorporação que afetem a boa execução deste, sem prévia e expressa anuência do Concedente, sob pena de rescisão e cominação de penalidade aplicável à espécie, de pleno direito, independente de notificação judicial.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Findo o prazo estabelecido para a Concessão, o concessionário se obriga a devolver o imóvel tempestivamente e as benfeitorias então realizadas e existentes, incorporar-se-ão ao patrimônio público municipal, independentemente de qualquer indenização ou ato formalizador.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11.A concessionária responderá por todos os encargos civis, administrativos e tributários que venham a incidir sobre o imóvel objeto da Concessão de Direito Real de Uso a que se refere esta Lei.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12.O Poder Executivo poderá regulamentar esta Lei através de Decreto, se necessário.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 26 de dezembro de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 382, de 26 de dezembro de 2018; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00380",
+   "short": "LC 380/2018",
+   "title": "Lei Complementar nº 380, de 11 de dezembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7187",
+   "first_law": "lc-2018-00380",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7187/lei_complementar_380_2018_altera_lei_complementar_359.pdf",
+     "sha256": "99ecd99d78c1db677dbf94b94b9d6c2320a6a075ed8b7e13a0dd5b21dcc7c532",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 380, DE 11 DE DEZEMBRO DE 2.018.\n(Projeto de Lei Complementar n° 013/2018, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR N° 359, DE 08 DE DEZEMBRO DE 2.016, QUE DISPÕE SOBRE A DESAFETAÇÃO DE USO INSTITUCIONAL E DOAÇÃO COM ENCARGO, DE IMÓVEL QUE MENCIONA, AO ESTADO DE MINAS GERAIS, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 4º da Lei Complementar nº 359, de 08 de dezembro de 2.016, passa a vigorar com a seguinte redação:\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (...)\nParágrafo único. A presente Lei será integralmente transcrita na escritura pública de doação com encargo, cuja lavratura e registro se darão no prazo máximo de quatro anos.\nArt. 2º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 11 de dezembro de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 380, de 11 de dezembro de 2018; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00379",
+   "short": "LC 379/2018",
+   "title": "Lei Complementar nº 379, de 11 de dezembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7186",
+   "first_law": "lc-2018-00379",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7186/lei_complementar_379_2018_concessao_d_euso_de_imovel_ik7H6zM.pdf",
+     "sha256": "79c0b33e3d5ef2431cc09aed8600bf614e0620e9acbbe846f6f01df45f485868",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 379, DE 11 DE DEZEMBRO DE 2.018.\n(Projeto de Lei Complementar n° 011/2018, de autoria do Poder Executivo) AUTORIZA A CONCESSÃO DE USO DE IMÓVEL PÚBLICO QUE MENCIONA EM FAVOR DO INSTITUTO MINEIRO DE GESTÃO DAS ÁGUAS (IGAM), E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo Municipal autorizado a conceder o uso do imóvel mencionado no artigo 2º em favor do Instituto Mineiro de Gestão das Águas (IGAM), autarquia com personalidade jurídica de Direito Público, regulamentada pelo Decreto Estadual n° 47.343, de 23 de janeiro de 2018.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O imóvel objeto da Concessão de Uso de que trata a presente Lei, está registrado sob a Matrícula n° 61.459 do Serviço Registral de Imóveis de Lavras, e trata-se de uma sala comercial de n° 202, situada no Edifício João Batista Ribeiro da Silva, na Rua Comendador José Esteves, n° 785, Lavras/MG, com área privativa de 24,35m², área comum de 5,09975m², e área total de 29,44975m² e a fração ideal de 0,031429 do lote do terreno com área total de 226,00m².\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3°. Destina-se a Concessão de Uso autorizada no artigo 1° para sediar o Comitê da Bacia Hidrográfica do Alto Rio Grande (CBH - GD1), gerido pelo Instituto Mineiro de Gestão das Águas (IGAM), a fim de que promova o desenvolvimento das atividades descritas no Decreto Estadual n° 44.432, de 04 de janeiro de 2007.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4°. O prazo da Concessão de Uso autorizada no artigo 1° é de 5 (cinco) anos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A Concessão de Uso do imóvel de que trata o artigo 2º será formalizada através de Termo de Cessão de Uso, devendo ser previsto, obrigatoriamente, no mínimo:\nI - a vinculação do uso, que não poderá ser diferente daquele previsto nesta Lei;\nII - as hipóteses de rescisão administrativa da Concessão de Uso;\nIII - o prazo da Concessão de Uso;\nIV - a manutenção das benfeitorias atuais existentes e do imóvel, pelo concessionário;\nV - as penalidades para o caso de descumprimento parcial ou total das obrigações inseridas no Termo de Cessão de Uso e das inseridas nesta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. A presente Concessão de Uso poderá resolver-se a qualquer tempo desde que o concessionário dê ao imóvel destinação diversa da estabelecida no artigo 3° desta Lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. É expressamente vedada a cessão, subconcessão ou transferência, total ou parcial, dos direitos decorrentes da Concessão de Uso a terceiros, bem como sua sublocação total ou parcial, fusão, cisão ou incorporação que afetem a boa execução deste, sem prévia e expressa anuência do concedente, sob pena de rescisão e cominação de penalidade aplicável à espécie, de pleno direito, independente de notificação judicial.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8",
+       "kind": "article",
+       "text": "Art. 8. O concessionário responderá por todos os encargos civis, administrativos e tributários que venha a incidir sobre o imóvel objeto da Concessão de Uso a que se refere esta Lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9",
+       "kind": "article",
+       "text": "Art. 9. Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 11 de dezembro de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 379, de 11 de dezembro de 2018; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00376",
+   "short": "LC 376/2018",
+   "title": "Lei Complementar nº 376, de 11 de dezembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7183",
+   "first_law": "lc-2018-00376",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7183/lei_complementar_376_2018_altera_lei_complementar_328.pdf",
+     "sha256": "21d3b7ba65d79a2d8258898cff03ed68cb682c0a583e665e2b3951a96f9c03d8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 376, DE 11 DE DEZEMBRO DE 2.018.\n(Projeto de Lei Complementar n° 006/2018, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR MUNICIPAL N°. 328 DE 16.07.2014 E DÁ OUTRAS PROVIDÊNCIAS.\nFaço saber que a Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O Capítulo I do Título VIII da Lei Complementar nº. 328 de 16.07.2014, passa a vigorar acrescido do artigo 63-A, com a seguinte redação:\n"
+      },
+      "art-0063-a": {
+       "label": "Art. 63-A",
+       "kind": "article",
+       "text": "Art. 63-A - Fica instituída a Gratificação Temporária por Função - GTF, que poderá ser concedida pelo Prefeito Municipal, a servidor público municipal concursado estável, em exercício nos órgãos da administração direta e indireta, a que lhe forem atribuídas por ato próprio, tarefas temporárias administrativas e burocráticas de maior complexidade, além de suas funções originárias, em percentual incidente sobre o valor do seu vencimento acrescido das vantagens pessoais já incorporadas por lei.\n§ 1º. - A Gratificação Temporária por Função - GTF tem caráter temporário e não se incorporará à remuneração do servidor e pode ser revogada a qualquer época a juízo da Administração Municipal por ato próprio, sendo vedada a sua concessão acumulada com a gratificação que trata o artigo 14 desta lei.\n§ 2º.- A concessão da gratificação de que trata este artigo compreenderá servidores das seguintes classes de carreiras:\nI-Classes 01 a 05 da Administração Geral;\nII-Classes 01 e 02 do Quadro da Atenção Secundária de Saúde - Centro Viva Vida;\nIII-Classes 01 a 03 da Carreira dos CRAS e CREAS;\nIV-Classes 01 a 04 do Quadro da Atenção à Saúde da Família;\nV-Classes 01 e 02 do Quadro da Atenção à Saúde Mental - Centro Psicossocial;\n§ 3º.- A regra de concessão da gratificação de que trata este artigo observará o seguinte critério técnico:\nI- GTF-01 - 15%, poderá ser concedida a servidores que pertençam às carreiras descritas nos incisos I a V do § 2º deste artigo;\nII- GTF-02 - 20%, que poderá ser concedida a servidores que pertençam às carreiras descritas nos incisos I a V do § 2º deste artigo;\nIII- GTF-03 - 25%, que poderá ser concedida a servidores que pertençam às carreiras descritas nos incisos I a V do § 2º deste artigo;\nIV- GTF-04 - 30%, que poderá ser concedida a servidores das que pertençam as carreiras descritas nos incisos I a V do § 2º deste artigo;\nV- GTF-05 - 40%, que poderá ser concedida a servidores que pertençam às classes de carreiras 01 a 04 do inciso I do § 2º deste artigo e às carreiras descritas nos incisos II a V do § 2º deste artigo;\nVI- GTF-06 - 50%, que poderá ser concedida a servidores que pertençam às classes de carreiras 01 a 04 do inciso I do § 2º deste artigo;\nVII- GTF-07 - 60%, que poderá ser concedida a servidores que pertençam às classes de carreiras 01 a 03 do inciso I do § 2º deste artigo;\nVIII- GTF-08 - 70%, que poderá ser concedida a servidores das classes de carreira 01 e 02 do inciso I do § 2º deste artigo.\" (NR)\nArt. 2º. As despesas decorrentes da aplicação da presente lei correrão à conta de dotações orçamentárias próprias constantes do Orçamento Municipal vigente em consonância com a Lei de Diretrizes Orçamentárias e com o Plano Plurianual.\nArt. 3º. As gratificações de que trata esta Lei serão concedidas observados os limites de 90 (noventa) gratificações e do percentual de 1,2% (um vírgula dois por cento) da média da folha de pagamento dos últimos doze meses.\nArt. 4º. Esta lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 11 de dezembro de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 376, de 11 de dezembro de 2018; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00375",
+   "short": "LC 375/2018",
+   "title": "Lei Complementar nº 375, de 5 de dezembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7166",
+   "first_law": "lc-2018-00375",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7166/lei_complementar_375_2018_altera_lei_complementar_322.pdf",
+     "sha256": "f3649853484e7418f380b67d8a7ecd6fee9ef9bf022aed4ec49f5abfcde319cf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 375, DE 05 DE DEZEMBRO DE 2.018.\n(Projeto de Lei Complementar n° 012/2018, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR Nº 322 DE 07 DE MAIO DE 2014, QUE ESTABELECE PARÂMETROS ESPECIAIS PARA O EXERCÍCIO DO DIREITO DE CONSTRUIR, PARA AS FUTURAS INSTALAÇÕES DO HOSPITAL UNIVERSITÁRIO DA UNIVERSIDADE FEDERAL DE LAVRAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 2º da Lei Complementar nº 322 de 29 de abril de 2014, passa a vigorar com a seguinte redação:\n"
+      },
+      "art-0002": {
+       "label": "Art.2º",
+       "kind": "article",
+       "text": "Art.2º. Para os imóveis citados no artigo anterior não serão exigíveis os índices, coeficientes e parâmetros urbanísticos previstos nas Leis Complementares nº 154, de 25 de julho de 2008, nº 155, de 28 de agosto de 2008 e nº 156, de 22 de setembro de 2008 e suas posteriores alterações.\nArt. 2º. O artigo 4º da Lei Complementar nº 322 de 29 de abril de 2014, passa a vigorar com a seguinte redação:\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A referida autorização se dá exclusivamente para a construção, reforma ou ampliação de edificação com a finalidade de instalação de edifício para o funcionamento do Hospital Universitário da Universidade Federal de Lavras, sendo vedado para finalidade diversa da estipulada neste artigo, o uso do terreno fora dos índices, coeficientes e parâmetros urbanísticos estabelecidos na Leis Complementares nº 154, de 25 de julho de 2008, nº 155, de 28 de agosto de 2008 e nº 156, de 22 de setembro de 2008.\nArt. 3º. Esta lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 05 de dezembro de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 375, de 5 de dezembro de 2018; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00374",
+   "short": "LC 374/2018",
+   "title": "Lei Complementar nº 374, de 27 de novembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7149",
+   "first_law": "lc-2018-00374",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7149/lei_complementar_374_2018_direito_real_de_uso_de_imo_DDnQodb.pdf",
+     "sha256": "d8ab1bec8821abdf180ff5f0658670b7b5933a87ffe6e4ecd2283aa412239c49",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 374, DE 27 DE NOVEMBRO DE 2.018.\n(Projeto de Lei Complementar n° 007/2018, de autoria do Poder Executivo) AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo Municipal autorizado a conceder, com fundamento nos artigos 14, § 1º, e 15, caput e §1º da Lei Orgânica do Município, e mediante prévio processo licitatório na modalidade Concorrência tipo maior oferta, Direito Real de Uso do imóvel mencionado no artigo 2º desta Lei.\n§ 1° Deverão ser fixados no edital da licitação de que trata o caput, critérios técnicos objetivos adequados para aferir a viabilidade econômica das propostas apresentadas pelos interessados, devendo as mesmas refletir diretamente na geração de empregos.\n§ 2° A Concessão de Direito Real de Uso de que trata o caput se dará pelo prazo de 20 anos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, registrado sob a Matrícula n° 18.221 do Serviço Registral de Imóveis de Lavras, situa-se na Rua Durval da Costa Alves Ribeiro, n° 400, Distrito Industrial, Lavras/MG, com área total de 4.530m² (quatro mil, quinhentos e trinta metros quadrados).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3°. Destina-se a Concessão de Direito Real de Uso para fins específicos de atividades empresariais e/ou industriais, resguardado o interesse público.\nParágrafo Único. Para efeitos desta Lei considera-se:\nI - Atividade empresarial, a atividade econômica exercida profissionalmente pelo empresário por meio da articulação dos fatores produtivos para a produção ou circulação de bens ou de serviços; e\nII - Atividade industrial, a atividade econômica que tem por finalidade transformar matéria-prima em produtos comercializáveis, utilizando para isto força humana, máquinas e/ou energia.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A pesquisa de preços que servirá de parâmetro para o estabelecimento dos valores mínimos a serem admitidos na licitação deverá ser realizada junto aos órgãos oficiais, a Secretaria Municipal de Desenvolvimento Econômico, Indústria, Comércio e Mobilidade Urbana e outros órgãos que se fizerem necessários, de forma a viabilizar a fixação do preço mínimo da Concessão de Direito Real de Uso.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A Concessão de Direito Real de Uso do imóvel de que trata o artigo 2º desta Lei será formalizada através de contrato administrativo e de escritura pública, devendo ser previsto, obrigatoriamente:\nI - a vinculação de uso, que não poderá ser diferente daqueles previstos nesta Lei;\nII - as hipóteses de rescisão administrativa da Concessão, incluindo a promovida por infração contratual;\nIII - o prazo da Concessão;\nIV - a manutenção das benfeitorias atuais existentes e do terreno, pela concessionária;\nV - a previsão indenizatória de bens que restarem incorporados ao patrimônio municipal nos casos de rescisão administrativa imotivada;\nVI - as penalidades para o caso de descumprimento parcial ou total das obrigações inseridas no contrato administrativo e das inseridas nesta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. A presente Concessão de Direito Real de Uso poderá resolver-se a qualquer tempo desde que o concessionário dê ao imóvel destinação diversa da estabelecida no artigo 3° desta Lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Constituem motivos para a rescisão do contrato administrativo, implicando na imediata retomada da área concedida e demais providências cabíveis, não gerando qualquer direito de indenização à concessionária por benfeitorias e acessões levantas, dentre outros a serem estabelecidos pelo Edital:\nI - desvio pela concessionária ou sucessores, a qualquer título, de sua finalidade e/ou atividade contratual;\nII - utilização do imóvel para finalidade diversa da prevista no artigo 3º, desta Lei;\nIII - descumprimento das disposições desta Lei;\nIV - extinção ou dissolução da concessionária a qualquer título, falência, insolvência ou comprometimento do patrimônio ou situação financeira;\nV - descumprimento, a qualquer tempo, da legislação ambiental pertinente ao tipo de atividade da concessionária e/ou ausência de adequada destinação aos resíduos resultantes da atividade.\nVI - paralisação do funcionamento do serviço, sem justa causa e prévia comunicação à concedente.\nVII - descumprimento qualquer das cláusulas contratuais ou prazos.\nVIII - demais razões de interesse público.\nParágrafo Único. A devolução do imóvel incontinente ao concedente sem o direito de indenização à concessionária, não exclui a aplicação das penalidades previstas no Contrato.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. É expressamente vedada a cessão, subconcessão ou transferência, total ou parcial, dos direitos decorrentes da concessão a terceiros, bem como sua sublocação total ou parcial, fusão, cisão ou incorporação que afetem a boa execução deste, sem prévia e expressa anuência do Concedente, sob pena de rescisão e cominação de penalidade aplicável à espécie, de pleno direito, independente de notificação judicial.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9",
+       "kind": "article",
+       "text": "Art. 9. Findo o prazo que for estabelecido para a Concessão, as benfeitorias então realizadas e existentes, incorporarão ao patrimônio público municipal, independentemente de qualquer indenização ou ato formalizador.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. A concessionária responderá por todos os encargos civis, administrativos e tributários que venha a incidir sobre o imóvel objeto da Concessão de Direito Real de Uso a que se refere esta Lei.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O Poder Executivo poderá regulamentar esta Lei através de Decreto, se necessário.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Revogam-se as disposições em contrário, especialmente a Lei Complementar n° 085, de 05 de junho de 2006.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 27 de novembro de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 374, de 27 de novembro de 2018; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04467",
+   "short": "Lei 4467/2018",
+   "title": "Lei nº 4.467, de 15 de outubro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7054",
+   "first_law": "lei-2018-04467",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7054/lei_4467_2018_revoga_lei_4463.pdf",
+     "sha256": "b3533c637d1b7108f9522fd169258e91160e9a2ba2f62ba010184eec3640142f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.467, DE 15 DE OUTUBRO DE 2.018.\n(Projeto de Lei nº 033/18, de autoria do Vereador Antônio Claret dos Santos) REVOGA A LEI N° 4.463, DE 24 DE SETEMBRO DE 2.018, QUE DISPÕE SOBRE O DESLOCAMENTO, O PAGAMENTO DE INDENIZAÇÕES E DIÁRIAS E O PROCEDIMENTO DE PRESTAÇÃO DE CONTAS DE VEREADORES E SERVIDORES DA CÂMARA MUNICIPAL DE LAVRAS.\nO povo do Município de Lavras, por seus representantes, os vereadores, APROVOU, e eu, Prefeito Municipal, SANCIONO a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica REVOGADA a Lei n° 4.463, de 24 de setembro de 2.018, passando, a partir de então, a matéria \"deslocamentos, diárias e indenizações\" ser regulada por meio de Resolução, nos termos do art. 63, da Lei Orgânica do Município de Lavras, c/c art. 179 do Regimento Interno da Câmara Municipal de Lavras.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2°. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 15 de outubro de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.467, de 15 de outubro de 2018; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00372",
+   "short": "LC 372/2018",
+   "title": "Lei Complementar nº 372, de 8 de outubro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7063",
+   "first_law": "lc-2018-00372",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-10-08",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7063/lei_complementar_372_2018_cargos_em_comissao_da_admi_vybS62J.pdf",
+     "sha256": "d1efdacedea680d600692ee107d4c78bacbd15599ad237dbe77e50fc3b8d413d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 372, DE 08 DE OUTUBRO DE 2.018.\n(Projeto de Lei Complementar n° 004/2018, de autoria do Poder Executivo) DISPÕE SOBRE OS CARGOS EM COMISSÃO DA ADMINISTRAÇÃO MUNICIPAL DIRETA E INDIRETA E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Esta Lei institui o quadro de servidores municipais de provimento em comissão da administração direta e indireta, com atribuições de Direção, Chefia e Assessoramento, de livre nomeação e exoneração pelo Chefe do Poder Executivo ou seu delegatário.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Os cargos de provimento em comissão integrantes da Administração Pública Municipal direta e indireta de que trata esta lei, destinam-se apenas às atribuições de direção, chefia e assessoramento, de acordo com suas abrangências, hierarquias e competências, em conformidade com o art. 37, incisos II e V da Constituição da República Federativa do Brasil, e são estruturados de acordo com os órgãos regulados pela lei de estrutura organizacional da Administração, em Diretorias, Chefias de Departamento, Assessorias e Chefias Gabinete e Chefias de Seção.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. É reservado o percentual mínimo de 20% (vinte por cento) dos cargos de provimento em comissão aos servidores de carreira da Administração Municipal, para o desempenho de atribuições de Direção, Chefia e Assessoramento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A denominação dos cargos comissionados, suas atribuições, quantidades e vencimentos, estão descritos e articulados no Anexo I e Anexo I-A, parte integrante da presente lei complementar.\n§1º. A remuneração é fixada em relação a complexidade, dedicação e volume de serviços de cada unidade organizacional, sendo designada pelo símbolo \"CC\" seguindo dos algarismos 1 a 24.\n§2º. A carga horária dos servidores comissionados será de 40 (quarenta) horas semanais, exceto para servidores lotados em órgãos com funcionamento de 30 (trinta) horas semanais, quando a carga horária será regulada por ato do Secretário ou Procurador Geral.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Esta lei entra em vigor na data de sua publicação, revogando o parágrafo único do art. 13, § 2º, do artigo 14, o art. 15, alínea \"h\" do artigo 79 e Anexo VIII, todos da Lei Complementar nº. 328 de 14.07.2014, o Quadro de Provimento em Comissão previsto no Anexo Único da Lei Municipal 3.082 de 16.12.2004 e demais disposições em contrário.\nPrefeitura Municipal de Lavras, em 08 de outubro de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 372, de 8 de outubro de 2018; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00370",
+   "short": "LC 370/2018",
+   "title": "Lei Complementar nº 370, de 24 de setembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7046",
+   "first_law": "lc-2018-00370",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-09-24",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7046/7046_texto_integral.pdf",
+     "sha256": "35517ff4c8d57436b236a05f9f1bfd2476912bee1b911b50182ce9eac8146da1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 370, DE 20 DE SETEMBRO DE 2.018.\n(Projeto de Lei Complementar n° 002/2018, de autoria do Poder Executivo) DISPÕE SOBRE A DESAFETAÇÃO DE BEM DE USO INSTITUCIONAL, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1°. Fica desafetada da categoria de bem uso institucional e transferido à categoria de bem dominical, o terreno urbano (área 02), situado no Município de Lavras/MG, nas proximidades do Condomínio MontSerrat, com área de 3.774,45m² (três mil, setecentos e setenta e quatro metros e quarenta e cinco centímetros quadrados), parte de uma área maior de 9.460,37m² (nove mil, quatrocentos e sessenta metros e trinta e sete centímetros quadrados), devidamente registrado junto ao Serviço Registral de Imóveis de Lavras, sob a matrícula n° R-2-49.078, conforme Memorial Descritivo acostado no Anexo Único desta Lei.\nParágrafo Único. Caberá ao Município proceder ao desmembramento da área junto ao Serviço Registral de Imóveis de Lavras.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2°. A presente Lei será integralmente transcrita na escritura pública do lote mencionado no art. 1° desta Lei, cuja lavratura e registro se darão no prazo máximo de dois anos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. As despesas decorrentes da presente Lei correrão à conta de dotações orçamentárias próprias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 20 de setembro de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 370, de 24 de setembro de 2018; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04462",
+   "short": "Lei 4462/2018",
+   "title": "Lei nº 4.462, de 20 de setembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7044",
+   "first_law": "lei-2018-04462",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7044/7044_texto_integral.pdf",
+     "sha256": "e3e0c59fa8b4340f4b76f784f249ff8b07f9b8f88bc1a0b99c5b7d6671fa7dd6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.462, DE 20 DE SETEMBRO DE 2.018.\n(Projeto de Lei n° 014/2018, de autoria do Poder Executivo) APROVA O PLANO DE MOBILIDADE URBANA DO MUNICÍPIO DE LAVRAS/MG (PLANMOB), E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica aprovado o Plano de Mobilidade Urbana do Município de Lavras (PLANMOB), constante no Anexo Único desta Lei, que estabelece objetivos, princípios, diretrizes, abrangência e estratégias da mobilidade urbana municipal, em cumprimento ao determinado na Lei Federal n° 12.587, de 21 de março de 2012.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2°. O PLANMOB tem por finalidade orientar as ações do Município de Lavras acerca dos meios, serviços e infraestrutura de transporte que garantam o deslocamento de pessoas e bens em seu território, além da gestão e operação do sistema de mobilidade, com vistas a atender as necessidades atuais e futuras da população local.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A Secretaria Municipal de Desenvolvimento Econômico, Indústria, Comércio e Mobilidade Urbana, procederá avaliações periódicas da implementação do PLANMOB, com a participação efetiva da sociedade civil.\nParágrafo Único. As avaliações periódicas previstas no caput realizar-se-ão a cada 2 (dois) anos e os métodos de execução serão definidos pela Secretaria Municipal de Desenvolvimento Econômico, Indústria, Comércio e Mobilidade Urbana e aprovados pelo Chefe do Poder Executivo, através de Decreto.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A Secretaria Municipal de Desenvolvimento Econômico, Indústria, Comércio e Mobilidade Urbana e o Departamento Municipal de Trânsito empenhar-se-ão na divulgação do PLANMOB e na progressiva realização de seus objetivos e metas, para que a sociedade o conheça amplamente e acompanhe sua implementação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Fica criada a Assessoria Técnica de Mobilidade Urbana, responsável pela coordenação do PLANMOB, bem como pela avaliação, atualização e estudo da mobilidade urbana municipal.\n§ 1º. A Assessoria Técnica de Mobilidade Urbana será composta por 6 (seis) membros, quais sejam:\nI - 4 (quatro) membros da Secretaria Municipal de Desenvolvimento Econômico, Indústria, Comércio e Mobilidade Urbana, sendo 2 (dois) membros, necessariamente, lotados no Departamento Municipal de Trânsito;\nII - 1 (um) membro da Secretaria Municipal de Obras, Regulação Urbana e Defesa Civil;\nIII - 1 (um) membro da Secretaria Municipal de Meio Ambiente.\n§ 2º. Os membros da Assessoria Técnica de Mobilidade Urbana serão indicados pela Secretaria ou Departamento correspondente e nomeados pelo Chefe do Poder Executivo Municipal, através de Decreto.\n§ 3º. Ficam estabelecidas as atribuições da Assessoria Técnica de Mobilidade Urbana nos termos previstos no item \"4.2\" do Anexo Único desta Lei.\n§ 4º. A participação na Assessoria Técnica de Mobilidade Urbana será considerada prestação de serviços relevantes e não remunerada.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6°",
+       "kind": "article",
+       "text": "Art. 6°. Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 20 de setembro de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.462, de 20 de setembro de 2018; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04459",
+   "short": "Lei 4459/2018",
+   "title": "Lei nº 4.459, de 28 de agosto de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7036",
+   "first_law": "lei-2018-04459",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-08-28",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7036/7036_texto_integral.pdf",
+     "sha256": "38b04f0064c9875e8c113d9f835672a6c96f7a4194748f03628fdbae27ccf5b1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.459, DE 28 DE AGOSTO DE 2.018.\n(Projeto de Lei n° 013/2018, de autoria do Poder Executivo) AUTORIZA O PODER EXECUTIVO, POR MEIO DE SEUS REPRESENTANTES DA FAZENDA PÚBLICA, A CELEBRAR ACORDOS EM PROCESSOS JUDICIAIS E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, através de seus representantes legais aprovou, e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo Municipal, através de seus representantes da Fazenda Pública Municipal, autorizado a celebrar acordos judiciais em que o Município de Lavras figure no pólo passivo do feito, em conformidade às disposições da Lei Federal nº 12.153/2009 e Código de Processo Civil.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O Procurador Geral do Município, diretamente ou mediante delegação, poderá autorizar a realização de acordos, com o escopo de pôr termo às demandas judiciais.\n§ 1º O Procurador Geral do Município, diretamente ou mediante delegação, terá a atribuição de analisar e formular propostas de acordos, as quais limitar-se-ão a 70% (setenta por cento) do valor supostamente devido, a serem pagos em 10 (dez) parcelas mensais iguais e sucessivas.\n§ 2º A autorização a que faz referência o caput será precedida de deliberação da Secretária Municipal de Fazenda e do Procurador Efetivo titular da Especializada, a fim de que sejam realizadas as devidas orientações jurídicas e financeiras, sendo facultada a convocação de outros servidores para elucidações.\n§ 3º No acordo celebrado diretamente pela parte ou por intermédio de procurador, para encerrar processo judicial, cada parte arcará com o pagamento das custas, se existirem, e dos honorários dos respectivos advogados.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Os acordos judiciais disciplinados por esta Lei somente poderão ser realizados se o valor proposto se enquadrar nas hipóteses de Requisição de Pequeno Valor - RPV, estabelecidas pela Lei Municipal nº 3.798, de 05 de dezembro de 2011.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Aos Procuradores do Município de Lavras é vedada a celebração de acordos em conciliação nas hipóteses de realização de atos de instrução por conciliador e não por juiz togado (art. 16, §1º, da Lei Federal nº 12.153/2009), devendo o magistrado competente ser alertado desta restrição, para que, querendo, assuma a condução da audiência de conciliação no que tocar aos atos de instrução, permitindo o prosseguimento das tratativas de acordo.\n§1º Os acordos em conciliação de que trata este artigo só poderão ser celebrados nas hipóteses em que a atuação do conciliador se limite aos seguintes atos:\nI - abrir e conduzir a sessão de conciliação, sob a supervisão do juiz togado, promovendo o entendimento entre as partes;\nII - redigir os termos de acordo, submetendo-os à homologação do juiz togado;\nIII - certificar os atos ocorridos na audiência de conciliação;\nIV - tomar por termos os requerimentos formulados pelas partes na audiência de conciliação;\nV - reduzir a termo os pedidos das partes, em conformidade com o que ficar acertado com o juiz.\n§ 2º Acordos celebrados em violação deste artigo são reputados nulos de pleno direito, devendo os Procuradores do Município de Lavras informarem o superior imediato para a adoção das medidas judiciais pertinentes, mormente ajuizamento de ações, inclusive rescisórias e alegação de nulidade em Juízo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Não serão objetos de acordo:\nI- as ações de mandado de segurança, divisão e demarcação de terras, ações populares, ações intentadas por atos de improbidade administrativa; ações que versem sobre direitos ou interesses difusos e coletivos, ações em que se discute penalidade aplicada a servidor e ações que tenham como objeto a posse ou propriedade de bens imóveis pertencentes o patrimônio do Município;\nII - os casos de dano moral, salvo se o agente causador do dano for entidade credenciada, contratada ou delegada de órgão de Administração Pública Municipal e assuma, em juízo, a responsabilidade pelo pagamento acordado;\nIII - o litígio que estiver fundado exclusivamente em matéria de direito e houver a respeito enunciado da Procuradoria Geral do Município ou orientação interna adotada por Secretário Municipal ou pelo Procurador Geral do Município contrário à pretensão; e\nIV - os processos judiciais já sentenciados, com trânsito em julgado, nos quais já tenha sido expedido o Precatório ou R.P.V. (Requisição de Pequeno Valor).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Os acordos judiciais de que tratam esta Lei deverão, obrigatoriamente, conter previsão expressa das seguintes condições:\nI - renúncia a eventuais direitos decorrentes do mesmo fato ou fundamento jurídico que deu origem à ação judicial, sendo esta cláusula obrigatória;\nII - descrição detalhada da obrigação assumida, com os parâmetros necessários ao seu cumprimento e as condições aplicáveis, especificando, quando for o caso, o termo inicial e final da obrigação;\nIII - prazo para cumprimento, não inferior a 30 (trinta) dias;\nIV - responsabilidade pelas custas e honorários advocatícios, conforme §3º do artigo 2º desta Lei;\nV - forma de cálculo quanto à correção monetária, em observância ao art. 1º F, da lei nº 9.494/1997;\nVI - renúncia de todos os valores que excederem ao limite estabelecido pelo art.\n3º da presente Lei;\nVII - possibilidade de correção de eventuais erros materiais;\nVIII - declaração de que a parte não possui outras ações com o mesmo objeto, com previsão de desconto administrativo de valores eventualmente recebidos em duplicidade;\nIX - previsão de que fica sem efeito a transação caso constatada, a qualquer tempo, a existência de litispendência, coisa julgada, ou falta de requisitos legais referentes ao objeto da ação;\nX - possibilidade de anulação, a qualquer tempo, no caso de ser constatada fraude e responsabilização do agente público ou terceiro; e\nXI - afirmação de que a proposta formulada não significa reconhecimento do pedido, devendo o feito ter prosseguimento normal caso não haja concordância com seus termos.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Fica autorizada a publicação de Decretos para regulamentar a presente Lei, em caso de necessidade.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Esta lei entra em vigor na data de sua publicação.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Revogam-se as disposições em contrário.\nPrefeitura Municipal de Lavras, 28 de agosto de 2018.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.459, de 28 de agosto de 2018; dated by its date (SAPL records no publication date)."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
