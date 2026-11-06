@@ -658,6 +658,202 @@
      "sha256": "0e11dbab71c7c8423cc7997b07b1ceaaa3066c9ec098a831e00a836d683cc48d"
     }
    ]
+  },
+  {
+   "slug": "lei-2019-04483",
+   "short": "Lei 4483/2019",
+   "title": "Lei nº 4.483, de 11 de março de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7240",
+   "versions": [
+    {
+     "from": "2019-03-12",
+     "units": 6,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7240/lei_4483_2019_plano_de_auxilios_e_subvencoes.pdf",
+     "sha256": "a8e84add8b1411e3ae2e4b24303aac73fa590dc7115dc260811a585d36490642"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-04480",
+   "short": "Lei 4480/2019",
+   "title": "Lei nº 4.480, de 21 de fevereiro de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7230",
+   "versions": [
+    {
+     "from": "2019-02-25",
+     "units": 6,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7230/lei_4480_2019_filiacao_com_amm.pdf",
+     "sha256": "335abe2d0524b50e45a4e7942c89dc7fbdf76cf5ed16f59c3961a710e43d14d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-04479",
+   "short": "Lei 4479/2019",
+   "title": "Lei nº 4.479, de 20 de fevereiro de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7227",
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 7,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7227/lei_4479_2019_convenio__atendimento_ambulatorial_de__iIpOaEM.pdf",
+     "sha256": "102e12084fe6ea85191f64011519a9a8f106ed92bc9683d965e3d6437b0c362f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00382",
+   "short": "LC 382/2018",
+   "title": "Lei Complementar nº 382, de 26 de dezembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7247",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 14,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7247/lei_complementar_382_2018_concessao_de_direito_de_us_7sNPNwT.pdf",
+     "sha256": "d9bb3e88fd905f0ff45473411b060c9ad522756ae57d2ca0d068ff9d80ce1ad0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00380",
+   "short": "LC 380/2018",
+   "title": "Lei Complementar nº 380, de 11 de dezembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7187",
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "units": 3,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7187/lei_complementar_380_2018_altera_lei_complementar_359.pdf",
+     "sha256": "99ecd99d78c1db677dbf94b94b9d6c2320a6a075ed8b7e13a0dd5b21dcc7c532"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00379",
+   "short": "LC 379/2018",
+   "title": "Lei Complementar nº 379, de 11 de dezembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7186",
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "units": 10,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7186/lei_complementar_379_2018_concessao_d_euso_de_imovel_ik7H6zM.pdf",
+     "sha256": "79c0b33e3d5ef2431cc09aed8600bf614e0620e9acbbe846f6f01df45f485868"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00376",
+   "short": "LC 376/2018",
+   "title": "Lei Complementar nº 376, de 11 de dezembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7183",
+   "versions": [
+    {
+     "from": "2018-12-17",
+     "units": 3,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7183/lei_complementar_376_2018_altera_lei_complementar_328.pdf",
+     "sha256": "21d3b7ba65d79a2d8258898cff03ed68cb682c0a583e665e2b3951a96f9c03d8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00375",
+   "short": "LC 375/2018",
+   "title": "Lei Complementar nº 375, de 5 de dezembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7166",
+   "versions": [
+    {
+     "from": "2018-12-05",
+     "units": 4,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7166/lei_complementar_375_2018_altera_lei_complementar_322.pdf",
+     "sha256": "f3649853484e7418f380b67d8a7ecd6fee9ef9bf022aed4ec49f5abfcde319cf"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00374",
+   "short": "LC 374/2018",
+   "title": "Lei Complementar nº 374, de 27 de novembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7149",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 14,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7149/lei_complementar_374_2018_direito_real_de_uso_de_imo_DDnQodb.pdf",
+     "sha256": "d8ab1bec8821abdf180ff5f0658670b7b5933a87ffe6e4ecd2283aa412239c49"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04467",
+   "short": "Lei 4467/2018",
+   "title": "Lei nº 4.467, de 15 de outubro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7054",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 3,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7054/lei_4467_2018_revoga_lei_4463.pdf",
+     "sha256": "b3533c637d1b7108f9522fd169258e91160e9a2ba2f62ba010184eec3640142f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00372",
+   "short": "LC 372/2018",
+   "title": "Lei Complementar nº 372, de 8 de outubro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7063",
+   "versions": [
+    {
+     "from": "2018-10-08",
+     "units": 6,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7063/lei_complementar_372_2018_cargos_em_comissao_da_admi_vybS62J.pdf",
+     "sha256": "d1efdacedea680d600692ee107d4c78bacbd15599ad237dbe77e50fc3b8d413d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-00370",
+   "short": "LC 370/2018",
+   "title": "Lei Complementar nº 370, de 24 de setembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7046",
+   "versions": [
+    {
+     "from": "2018-09-24",
+     "units": 5,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7046/7046_texto_integral.pdf",
+     "sha256": "35517ff4c8d57436b236a05f9f1bfd2476912bee1b911b50182ce9eac8146da1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04462",
+   "short": "Lei 4462/2018",
+   "title": "Lei nº 4.462, de 20 de setembro de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7044",
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "units": 7,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7044/7044_texto_integral.pdf",
+     "sha256": "e3e0c59fa8b4340f4b76f784f249ff8b07f9b8f88bc1a0b99c5b7d6671fa7dd6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2018-04459",
+   "short": "Lei 4459/2018",
+   "title": "Lei nº 4.459, de 28 de agosto de 2018",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7036",
+   "versions": [
+    {
+     "from": "2018-08-28",
+     "units": 10,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2018/7036/7036_texto_integral.pdf",
+     "sha256": "38b04f0064c9875e8c113d9f835672a6c96f7a4194748f03628fdbae27ccf5b1"
+    }
+   ]
   }
  ]
 }
