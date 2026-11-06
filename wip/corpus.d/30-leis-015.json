@@ -1,0 +1,140 @@
+{
+ "country": {
+  "code": "BR-MG-LAVRAS",
+  "name": "Lavras",
+  "slug": "brazil-lavras-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Lavras (SAPL)",
+   "email": "sapl@lavras.mg.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Lavras, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.lavras.mg.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "1 acts in this part."
+  }
+ ],
+ "laws": {
+  "lc-2020-00406": {
+   "label": "Lei Complementar nº 406, de 26 de fevereiro de 2020",
+   "title": "Altera a Lei Complementar nº 092, de 15 de dezembro de 2006, que dispõe sobre o Código Tributário do Município de Lavras",
+   "kind": "law",
+   "enacted": "2020-02-26",
+   "published": "2020-02-28",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7532",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lc-2020-00406",
+   "short": "LC 406/2020",
+   "title": "Lei Complementar nº 406, de 26 de fevereiro de 2020",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7532",
+   "first_law": "lc-2020-00406",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-02-28",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2020/7532/lei_complementar_406_2019_altera_lei_complementar_092.pdf",
+     "sha256": "db728f0d7b6c3702f16d622b85534fd38a27fed99de393c89998c64af82021eb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 406, DE 26 DE FEVEREIRO DE 2.020.\n(Projeto de Lei Complementar n° 003/2020, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR Nº 092, DE 15 DE DEZEMBRO DE 2.006, QUE DISPÕE SOBRE O CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE LAVRAS.\nA Câmara Municipal de Lavras, através de seus representantes legais aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. A Lei Complementar nº 092, de 15 de dezembro de 2006, que dispõe sobre o Código Tributário do Município de Lavras, passa a vigorar com as seguintes alterações:\n\"Art. 40- (...)\nParágrafo único. Até a data do encaminhamento para execução fiscal, poderá ser efetuado o pagamento do Imposto integral atualizado e com o acréscimo dos juros de mora, multa e demais despesas lançadas.\n"
+      },
+      "art-0046": {
+       "label": "Art. 46",
+       "kind": "article",
+       "text": "Art. 46 - (...).\nII - da instalação dos andaimes, palcos, coberturas e outras estruturas, no caso dos serviços descritos no subitem 3.05 do Anexo I desta Lei Complementar;\nIII - da execução da obra, no caso dos serviços descritos nos subitens 7.02 e 7.19 do Anexo I desta Lei Complementar;\nX - do florestamento, reflorestamento, semeadura, adubação, reparação de solo, plantio, silagem, colheita, corte, descascamento de árvores, silvicultura, exploração florestal e serviços congêneres indissociáveis da formação, manutenção e colheita de florestas para quaisquer fins e por quaisquer meios, conforme item 7.16 do Anexo I desta Lei Complementar;\nXI - da execução dos serviços de escoramento, contenção de encostas e congêneres, no caso dos serviços descritos no subitem 7.17 do Anexo I desta Lei Complementar;\nXII - da limpeza e dragagem, no caso dos serviços descritos no subitem 7.18 do Anexo I desta Lei Complementar;\nXIX - da feira, exposição, congresso ou congênere a que se referir o planejamento, organização e administração, no caso dos serviços descritos pelo subitem 17.10 do Anexo I desta Lei Complementar;\nXXIII - (...)\n§ 1º - No caso dos serviços a que se refere o subitem 3.04 do Anexo I desta Lei Complementar, considera-se ocorrido o fato gerador e devido o imposto em cada Município em cujo território haja extensão de ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza, objetos de locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não.\n"
+      },
+      "art-0054": {
+       "label": "Art. 54",
+       "kind": "article",
+       "text": "Art. 54. (...)\nII - a pessoa jurídica, ainda que imune ou isenta do Imposto, tomadora ou intermediária dos serviços descritos nos subitens 3.05, 7.02, 7.04, 7.05, 7.09, 7.10, 7.12, 7.18, 7.19, 7.21, 11.02, 17.05 e 17.11 da lista do Anexo I desta Lei;\n"
+      },
+      "art-0072": {
+       "label": "Art. 72",
+       "kind": "article",
+       "text": "Art. 72. (...)\n§2º. A base de cálculo dos serviços descritos no subitem 3.04 da lista do Anexo I será proporcional, conforme o caso, à extensão da ferrovia, rodovia, dutos e condutos de qualquer natureza, cabos de qualquer natureza, ou ao número de postes, existentes no Município.\n"
+      },
+      "art-0085": {
+       "label": "Art. 85",
+       "kind": "article",
+       "text": "Art. 85. (...)\n§4º. Até a data do encaminhamento para execução fiscal, poderá ser efetuado o pagamento do Imposto integral atualizado e com o acréscimo dos juros de mora, multa e demais despesas lançadas.\n"
+      },
+      "art-0098": {
+       "label": "Art. 98",
+       "kind": "article",
+       "text": "Art. 98. (...)\n§ 5º. Verificada a preponderância referida nos parágrafos segundo e terceiro, tornar-se-á devido o Imposto nos termos da lei vigente à data da aquisição e sobre o valor atualizado dos bens ou direito.\n"
+      },
+      "art-0101": {
+       "label": "Art. 101",
+       "kind": "article",
+       "text": "Art. 101. A base de cálculo do Imposto é o valor venal do bem no momento do registro da transmissão ou cessão dos direitos a eles relativos, sendo que, em nenhuma hipótese, poderá ser inferior ao declarado pelo sujeito passivo.\n§ 1º. A apuração do valor venal do imóvel urbano dar-se-á:\nI - através de avaliação segundo a Planta Genérica de Valores vigente, utilizada para base de cálculo do IPTU, ou o valor apurado pela Fazenda Pública na data do lançamento;\nII - pelo valor constante de contratos, compromisso de compra e venda ou outro documento, que comprove o valor da operação, se este for maior;\nIII - pelo valor do contrato de financiamento, nos casos em que o imóvel seja adquirido através de programa de financiamento habitacional ou por meio do Sistema Financeiro Imobiliário.\n"
+      },
+      "art-0106": {
+       "label": "Art. 106",
+       "kind": "article",
+       "text": "Art. 106. Nas transmissões ou cessões, o contribuinte ou o registrador, no momento do pedido de registro da escritura ou do instrumento, conforme o caso, emitirá guia com a descrição completa do imóvel, suas características, localização, área do terreno, tipo de construção, benfeitorias e outros elementos que possibilitem a avaliação pelo fisco.\n§ 1º. A emissão da guia que trata este artigo será feita, também pelo oficial de registro, no momento do pedido da transcrição, nas hipóteses de registro de carta de adjudicação ou arrematação.\n"
+      },
+      "art-0108": {
+       "label": "Art. 108",
+       "kind": "article",
+       "text": "Art. 108. O ITBI será pago:\nI - na transmissão ou cessão por escritura pública, no momento do seu registro;\nII - na transmissão ou cessão por meio de procuração em causa própria ou documento que lhe seja assemelhado, no momento do registro do respectivo documento;\nIII - na transmissão por arrematação, adjudicação, remissão ou por qualquer outra modalidade em virtude de sentença judicial, no momento do registro do respectivo documento;\nIV - na aquisição de terras devolutas no momento do registro do respectivo título, que deverá ser apresentado à autoridade fiscal competente para o cálculo do Imposto devido e no qual serão anotados os dados da guia de arrecadação;\nV - nas tornas e reposições em que sejam interessados incapazes, no momento do registro do respectivo documento;\nVI - nos demais casos não especificados, no momento do registro do respectivo documento.\n"
+      },
+      "art-0113": {
+       "label": "Art. 113",
+       "kind": "article",
+       "text": "Art. 113- (...)\n§ 2º. Até a data do encaminhamento para execução fiscal, poderá ser efetuado o pagamento do Imposto integral atualizado e com o acréscimo dos juros de mora, multa e demais despesas lançadas.\n"
+      },
+      "art-0139": {
+       "label": "Art. 139",
+       "kind": "article",
+       "text": "Art. 139- (...)\n§ 2º. Até a data do encaminhamento para execução fiscal, poderá ser efetuado o pagamento da Taxa integral atualizada e com o acréscimo dos juros de mora, multa e demais despesas lançadas.\n"
+      },
+      "art-0155": {
+       "label": "Art. 155",
+       "kind": "article",
+       "text": "Art. 155- (...)\n§ 2º. Até a data do encaminhamento para execução fiscal, poderá ser efetuado o pagamento da Contribuição integral atualizada e com o acréscimo dos juros de mora, multa e demais despesas lançadas.\n"
+      },
+      "art-0195": {
+       "label": "Art. 195",
+       "kind": "article",
+       "text": "Art. 195- (...)\nParágrafo único. Até a data do encaminhamento para execução fiscal, poderá ser efetuado o pagamento do tributo integral atualizado e com o acréscimo dos juros de mora, multa e demais despesas lançadas\".\nArt. 2°. O Anexo I da Lei Complementar nº 092, de 15 de dezembro de 2006, passa a vigorar com a redação do Anexo Único da presente Lei.\nArt. 3º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 26 de fevereiro de 2020.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 406, de 26 de fevereiro de 2020; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
