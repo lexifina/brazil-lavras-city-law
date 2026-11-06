@@ -1,0 +1,838 @@
+{
+ "country": {
+  "code": "BR-MG-LAVRAS",
+  "name": "Lavras",
+  "slug": "brazil-lavras-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Lavras (SAPL)",
+   "email": "sapl@lavras.mg.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Lavras, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.lavras.mg.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Câmara Municipal de Lavras, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.lavras.mg.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "8 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2019-04517": {
+   "label": "Lei nº 4.517, de 2 de setembro de 2019",
+   "title": "Dispõe sobre a instituição da Semana de Conscientização da Síndrome de Tourette e cria o Dia Municipal do Portador da Síndrome de Tourette no calendário de eventos do município de Lavras.",
+   "kind": "law",
+   "enacted": "2019-09-02",
+   "published": "2019-09-10",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7445",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-04516": {
+   "label": "Lei nº 4.516, de 2 de setembro de 2019",
+   "title": "Dispõe sobre a proibição da distribuição ou venda de sacolas plásticas e disciplina a distribuição e venda de sacolas biodegradáveis ou biocompostáveis a consumidores, em todos os estabelecimentos comerciais em Lavras, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-09-02",
+   "published": "2019-09-10",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7444",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-04515": {
+   "label": "Lei nº 4.515, de 2 de setembro de 2019",
+   "title": "Dispõe sobre a proibição da distribuição de folhetos, panfletos ou qualquer outro tipo de material impresso veiculador de mensagens publicitárias na forma e nos locais que menciona e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-09-02",
+   "published": "2019-09-10",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7443",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2019-00390": {
+   "label": "Lei Complementar nº 390, de 26 de agosto de 2019",
+   "title": "Altera o Parágrafo Primeiro do Artigo 90 da Lei Complementar nº 167, de 29 de junho de 2009, que dispõe sobre o Código de Posturas do Município de Lavras e dá outras providências",
+   "kind": "law",
+   "enacted": "2019-08-26",
+   "published": "2019-08-27",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7434",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2019-04500": {
+   "label": "Lei nº 4.500, de 30 de maio de 2019",
+   "title": "Dispõe sobre a admissão de estagiários na Câmara Municipal de Lavras, nos termos da Lei Federal nº 11.788, de 25 de setembro de 2008, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-05-30",
+   "published": "2019-05-31",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7324",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2019-00386": {
+   "label": "Lei Complementar nº 386, de 24 de abril de 2019",
+   "title": "Dispõe sobre a Procuradoria Geral do Município de Lavras e dá outras providências",
+   "kind": "law",
+   "enacted": "2019-04-24",
+   "published": "2019-04-25",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7258",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2019-00385": {
+   "label": "Lei Complementar nº 385, de 25 de março de 2019",
+   "title": "Autoriza a concessão de Direito Real de Uso de Imóvel Público que menciona, e dá outras providências",
+   "kind": "law",
+   "enacted": "2019-03-25",
+   "published": "2019-03-26",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7251",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2019-00384": {
+   "label": "Lei Complementar nº 384, de 19 de março de 2019",
+   "title": "Altera a Lei Complementar nº 156, de 22 de setembro de 2008, que dispõe sobre o zoneamento e regulamenta o uso e a ocupação do solo urbano do Município de Lavras e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-03-19",
+   "published": "2019-03-19",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7249",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2019-04517",
+   "short": "Lei 4517/2019",
+   "title": "Lei nº 4.517, de 2 de setembro de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7445",
+   "first_law": "lei-2019-04517",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7445/lei_4517_2019_instituicaod_a_semana_de_conscientizac_7iBdHRU.pdf",
+     "sha256": "20fd25203f74ffd5786f3adc8337a952e8319feddd5abcf6b52d5d562d424f54",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.517, DE 02 DE SETEMBRO DE 2.019.\n(Projeto de Lei do Legislativo n° 057/2019, de autoria dos Vereadores Cristiane de Oliveira Costa Lasmar e Antônio Claret dos Santos) DISPÕE SOBRE A INSTITUIÇÃO DA SEMANA DE CONSCIENTIZAÇÃO DA SÍNDROME DE TOURETTE E CRIA O DIA MUNICIPAL DO PORTADOR DA SÍNDROME DE TOURETTE NO CALENDÁRIO DE EVENTOS DO MUNICÍPIO DE LAVRAS.\nA Câmara Municipal de Lavras aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art.1º",
+       "kind": "article",
+       "text": "Art.1º. Fica instituída no Município de Lavras a \"SEMANA MUNICIPAL DE CONSCIENTIZAÇÃO DA SÍNDROME DE TOURETTE\", a ser celebrada na primeira semana do mês de junho de cada ano com encerramento no dia 7 de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Fica criado o Dia Municipal do Portador da Síndrome de Tourette a ser celebrado no dia 7 de junho passando a integrar o Calendário Oficial de Eventos e Datas Comemorativas no Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Durante as comemorações poderão ser realizados eventos, palestras, seminários e debates relacionados às atividades desenvolvidas em prol da conscientização sobre a Síndrome de Tourette.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 02 de setembro de 2019.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.517, de 2 de setembro de 2019; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-04516",
+   "short": "Lei 4516/2019",
+   "title": "Lei nº 4.516, de 2 de setembro de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7444",
+   "first_law": "lei-2019-04516",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7444/lei_4516_2019_proibicao_da_distribuicao_ou_venda_de__gGyN7vt.pdf",
+     "sha256": "e67740c7c2b99852d48ded8c25ada2216d3365193aac9358d7e05da4b8c5f1ab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.516, DE 02 DE SETEMBRO DE 2.019.\n(Projeto de Lei do Legislativo n° 054/2019, de autoria dos Vereadores Antônio Claret dos Santos e Cristiane de Oliveira Costa Lasmar) DISPÕE SOBRE A PROIBIÇÃO DA DISTRIBUIÇÃO OU VENDA DE SACOLAS PLÁSTICAS E DISCIPLINA A DISTRIBUIÇÃO E VENDA DE SACOLAS BIODEGRADÁVEIS OU BIOCOMPOSTÁVEIS A CONSUMIDORES, EM TODOS OS ESTABELECIMENTOS COMERCIAIS EM LAVRAS, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art.1º",
+       "kind": "article",
+       "text": "Art.1º. Fica proibida a distribuição gratuita ou venda de sacolas plásticas, confeccionadas à base de polietileno, polipropileno ou plásticos de elevado tempo de degradação, plásticos oxibiodegradáveis, plástico verde ou equivalentes, para o acondicionamento e transporte de mercadorias adquiridas em estabelecimentos comerciais na cidade de Lavras.\nParágrafo único. Os estabelecimentos comerciais devem estimular o uso de sacolas reutilizáveis, assim consideradas aquelas que sejam confeccionadas com material resistente e que suportem o acondicionamento e transporte de produtos e mercadorias em geral.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. É permitida a distribuição ou venda de sacolas do tipo biodegradável ou biocompostável, que atendam as normas NBR 15448-2:2008 e NBR 15448-1:2008.\nParágrafo único. Para os fins desta Lei, entende-se por sacolas do tipo biodegradável ou biocompostável aquelas pelas normas citadas no caput deste artigo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. O disposto nos arts. 1º e 2º desta Lei deve ser implementado no prazo máximo de 12 meses.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. O disposto nesta Lei não se aplica:\nI-Às embalagens originais das mercadorias;\nII-Às embalagens de produtos alimentícios vendidos a granel, com peso superior ou igual a 10 kg.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. O descumprimento das disposições contidas nesta Lei sujeita o infrator às penalidade previstas na Lei Federal nº 9.605, de 12 de fevereiro de 1998 e a multa no valor de 500 Unidades Fiscais do Município (UFM).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Fica revogada a Lei nº 3.510, de 25 de agosto de 2009.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 02 de setembro de 2019.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.516, de 2 de setembro de 2019; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-04515",
+   "short": "Lei 4515/2019",
+   "title": "Lei nº 4.515, de 2 de setembro de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7443",
+   "first_law": "lei-2019-04515",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7443/lei_4515_2019_proibicao_da_distribuicao_de_folhetos__cymQr2Z.pdf",
+     "sha256": "14769b9c17bdbb87043c9dfc7ea638586fe8981bbb6779a50365189ec9d2b89f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.515, DE 02 DE SETEMBRO DE 2.019.\n(Projeto de Lei n° 003/2019, de autoria do Poder Executivo) DISPÕE SOBRE A PROIBIÇÃO DA DISTRIBUIÇÃO DE FOLHETOS, PANFLETOS OU QUALQUER OUTRO TIPO DE MATERIAL IMPRESSO VEICULADOR DE MENSAGENS PUBLICITÁRIAS NA FORMA E NOS LOCAIS QUE MENCIONA E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica proibido nas ruas, praças, calçadas, logradouros e demais locais públicos do Município ou em imóveis particulares, a distribuição de folhetos, panfletos ou qualquer outro tipo de material impresso veiculando mensagens publicitárias, mediante:\nI- fixação em veículos estacionados e postes de iluminação pública;\nII- dispensação indiscriminada em imóveis residenciais ou comerciais, sem autorização do proprietário ou possuidor;\nIII- lançamento através de veículos, aeronaves e edificações comerciais ou residenciais.\n§1º. Considera-se, ainda, material impresso veiculador de mensagens publicitárias, para os fins desta lei, os fragmentos de papel, ainda que desprovidos de texto, cujo intuito é meramente o de demonstrar a existência de promoção.\n§2º. Não se inclui na determinação contida no caput deste artigo a entrega direta e em mãos do interessado, caso assim aceito por quem receberá o panfleto, e o depósito de panfletos e assemelhados de propagandas nas respectivas caixas ou locais próprios para correspondências.\n§3º. Não se inclui na determinação contida no caput deste artigo os materiais de caráter religioso.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Excetua-se da vedação estabelecida por esta Lei a distribuição gratuita de jornais e periódicos que se enquadram em legislação federal ou estadual.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Excetua-se desta Lei a panfletagem realizada em campanhas eleitorais, a qual é regida pela Legislação Federal específica.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. Nos folhetos, panfletos ou qualquer outro tipo de material impresso veiculador de mensagens publicitárias, será obrigatório conter, em destaque, além do estabelecido na Lei 3.568, de 11 de novembro de 2.009, avisos de conscientização sobre o descarte correto do material, como: \"Não jogue este impresso na via pública\" ou \"Mantenha a cidade limpa\", sem prejuízo do cumprimento ao disposto\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Os funcionários das empresas de distribuição dos folhetos deverão utilizar-se de uniforme ou colete com as seguintes informações:\nI - nome da empresa;\nII - telefone para recebimento de denúncias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Aos infratores desta Lei serão aplicadas as seguintes penalidades, sequencialmente, sem prejuízo da apreensão do material distribuído irregularmente:\nI - advertência escrita;\nII- multa no valor de 150 (cento cinquenta) Unidades Fiscais do Município - UFML;\nIII- no caso de reincidência o valor da multa será duplicado;\n§1º. Consideram-se infratores para os fins desta Lei, a pessoa física ou jurídica beneficiada pela publicidade e o responsável pela distribuição, os quais responderão, solidariamente, pelas infrações estabelecidas nesta lei.\n§2º. A aplicação das penalidades de que tratam os incisos II, III e IV, serão precedidas da lavratura do respectivo auto de infração e notificação ao Infrator garantido o Contraditório e Ampla Defesa.\nArtigo. 7º. O processo administrativo para apuração das infrações de que tratam esta Lei observará os seguintes prazos máximos:\nI- 15 (quinze) dias para o infrator oferecer defesa ou impugnação do auto de infração, contados da data da ciência da autuação;\nII-30 (trinta) dias para a autoridade competente julgar o auto de infração, contados da data da sua lavratura, apresentada ou não a defesa ou impugnação;\nIII- 5 (cinco) dias para o pagamento de multa.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. A Secretaria de Desenvolvimento Econômico, Indústria, Comércio e Mobilidade Urbana através de seus agentes competentes, procederá à fiscalização, emissão das advertências, notificações e autos de infração, bem como o estabelecimento das sanções de que trata esta Lei.\nParágrafo único. No exercício da atividade fiscalizatória, o agente de fiscalização poderá fazer uso de quaisquer provas materiais, bem como informações oriundas de aparelhos eletrônicos, equipamentos de audiovisual ou outros meios tecnologicamente disponíveis.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 02 de setembro de 2019.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.515, de 2 de setembro de 2019; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00390",
+   "short": "LC 390/2019",
+   "title": "Lei Complementar nº 390, de 26 de agosto de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7434",
+   "first_law": "lc-2019-00390",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-08-27",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7434/lei_complementar_390_2019_altera_lei_complementar_167.pdf",
+     "sha256": "290cf3052e36ad93429b6e3c044f82ffca39c00a1cf713055c4099db109c6e42",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 390, DE 26 DE AGOSTO DE 2.019.\n(Projeto de Lei Complementar n° 007/2019, de autoria do Poder Executivo, com emenda da Vereadora Nastenka Georgina Ferreira) ALTERA O PARÁGRAFO PRIMEIRO DO ARTIGO 90 DA LEI COMPLEMENTAR N° 167, DE 29 DE JUNHO DE 2.009, QUE DISPÕE SOBRE O CÓDIGO DE POSTURAS DO MUNICÍPIO DE LAVRAS E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O §1º do artigo 90 da Lei Complementar 167 de 29 de junho de 2.009 passa a vigorar com a seguinte redação:\n"
+      },
+      "art-0090": {
+       "label": "Art. 90",
+       "kind": "article",
+       "text": "Art. 90. (...)\n§ 1º. Para se obter o licenciamento, deverão ser atendidas as seguintes condições:\nI - indicação, por escrito, pelo proprietário:\na) do número de caçambas a serem utilizadas;\nb) do local apropriado para guarda das caçambas utilizadas;\nc) do local onde será destinado os entulhos recolhidos.\nII - utilização de caçambas que atendam às especificações físicas previstas nesta Lei e nas normas que a regulamentam.\n(...)\nArt. 2°. Fica estabelecido o prazo de 120 (cento e vinte) dias para que os detentores de licenciamento para o exercício da atividade de que trata o artigo 90 da LC 167/2009, cumpra o estabelecido nesta Lei, sob pena de imediata cassação da referida licença.\nArt. 3°. Esta Lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 26 de agosto de 2019.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 390, de 26 de agosto de 2019; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-04500",
+   "short": "Lei 4500/2019",
+   "title": "Lei nº 4.500, de 30 de maio de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7324",
+   "first_law": "lei-2019-04500",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7324/lei_4500_2019_admissao_de_estagiarios_camara_municip_jYyc4ih.pdf",
+     "sha256": "5f4ce69d5640e2decf32724ef07241f246c43e0776607df7d3dcea869921e499",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 4.500, DE 30 DE MAIO DE 2.019.\n(Projeto de Lei do Legislativo nº 044/2019, de autoria da Mesa Diretora da Câmara Municipal de Lavras) DISPÕE SOBRE A ADMISSÃO DE ESTAGIÁRIOS NA CÂMARA MUNICIPAL DE LAVRAS, NOS TERMOS DA LEI FEDERAL Nº 11.788, DE 25 DE SETEMBRO DE 2008, E DÁ OUTRAS PROVIDÊNCIAS.\nO povo do Município de Lavras, por seus representantes, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art.1º",
+       "kind": "article",
+       "text": "Art.1º. A Câmara Municipal de Lavras, seguindo-se a proporcionalidade do art. 17, inciso IV, da Lei Federal nº 11.788, de 25 de setembro de 2008, poderá admitir até 09 (nove) estagiários de educação superior, dos cursos de \"Direito\" e \"Administração Pública\", por um período de até 01 (um) ano, prorrogável por igual período.\n§ 1º. Nos termos do § 5º, do art. 17, da Lei Federal nº 11.788, de 25 de setembro de 2008, 01 (uma) das vagas é assegurada às pessoas portadoras de deficiência (necessidades especiais)\n§ 2º. Os estagiários eventualmente admitidos pela Câmara Municipal de Lavras poderão ser cedidos à outros órgãos públicos, justificada a necessidade do órgão cessionário por meio de requerimento escrito, mediante a prévia existência de Convênio.\n§ 3º. Os estagiários serão admitidos por procedimento seletivo de ampla concorrência.\n§ 4º. Na hipótese de cessão, admitir-se-á o aproveitamento do procedimento seletivo do órgão cessionário, devidamente homologado, desde que vigente e acompanhado de requerimento que indicará, de forma precisa, o nome do candidato a ser admitido e cedido.\n§ 5º. Permanecerão nos arquivos da Câmara Municipal de Lavras, além do Convênio, as eventuais solicitações dos órgãos cessionários e as cópias dos procedimentos seletivos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O estágio será remunerado, conforme Anexo I, da presente Lei.\nParágrafo único. Os valores das bolsas serão anualmente revistos, nas mesmas datas e nos mesmos índices das revisões referentes aos servidores da Casa.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Será contratado, em favor do estagiário, seguro contra acidentes pessoais, conforme estabelecido no Termo de Compromisso de Estágio, nos termos do art. 9º, IV, da Lei Federal nº 11.788, de 254 de setembro de 2008.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A jornada do estágio será de 20 (vinte) horas, de segunda-feira a sexta-feira.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Para fazer face às despesas com a execução da presente Lei, deverão ser utilizados recursos previstos em rubricas orçamentárias próprias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. Os casos omissos poderão ser regulamentados pelo Presidente da Câmara Municipal de Lavras, por meio de Portaria, aplicando-se, sempre que necessário, as disposições da Lei Federal nº 11.788, de 25 de setembro de 2008.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. Esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 30 de maio de 2.019.\nJOSÉ CHEREM Prefeito Municipal ANEXO I Lei n° 4.500 de 30 de maio de 2019\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 4.500, de 30 de maio de 2019; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00386",
+   "short": "LC 386/2019",
+   "title": "Lei Complementar nº 386, de 24 de abril de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7258",
+   "first_law": "lc-2019-00386",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7258/lei_complementar_386_2019_procuradoria_geral_do_municipio.pdf",
+     "sha256": "ec4828571760f02eeea396f1a8a588aae7c00477c3e3e079dbbd895626068ca0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 386, DE 24 DE ABRIL DE 2.019.\n(Projeto de Lei Complementar n° 003/2019, de autoria do Poder Executivo) DISPÕE SOBRE A PROCURADORIA GERAL DO MUNICÍPIO DE LAVRAS E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras através de seus representantes legais aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I DISPOSIÇÃO PRELIMINAR\nArt. 1º. Esta Lei regulamenta a Procuradoria Geral do Município de Lavras, criada por lei complementar própria, que dispõe sobre Estrutura Organizacional da Administração Municipal, define suas atribuições e dispõe sobre o regime jurídico, prerrogativas, direitos e deveres dos seus integrantes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A Procuradoria Geral do Município, órgão permanente, diretamente vinculado ao Executivo Municipal, é essencial à justiça e compõe a estrutura administrativa básica, sendo incumbida da tutela do interesse público municipal, competindo-lhe, dentre outras atribuições, a representação judicial e a consultoria jurídica aos órgãos da Administração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. A Procuradoria Geral do Município é dirigida pelo Procurador Geral do Município, cabendo-lhe superintender e coordenar suas atividades jurídicas e administrativas, orientando-lhe a atuação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "## CAPÍTULO II DA ORGANIZAÇÃO E COMPETÊNCIA\n## SEÇÃO I DOS ÓRGÃOS INTERNOS DA PGM\nArt. 4º. A Procuradoria Geral do Município é composta da seguinte estrutura organizacional:\na) Gabinete do Procurador Geral do Município;\nb) Gabinete do Subprocurador Geral do Município;\nc) Diretoria de Assuntos Jurídicos;\nd) Procuradorias Especializadas;\ne) Diretoria das Políticas de Defesa do Consumidor;\nf) Coordenadoria de Apoio às Procuradorias Especializadas;\ng) Conselho de Procuradores.\nParágrafo único - A Procuradoria Geral do Município será integrada por cargos comissionados de livre nomeação e exoneração do Chefe do Poder Executivo definidos por lei específica, bem como por Procuradores Municipais de Carreira com vínculo efetivo com o Município.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. À Procuradoria Geral do Município, integrante do Poder Executivo Municipal, órgão de administração superior, compete:\nI - representar judicial e extrajudicialmente o Município;\nII - exercer as funções de consultoria jurídica do Poder Executivo e da Administração Direta em geral;\nIII - efetuar a cobrança extrajudicial e judicial da dívida ativa do Município;\nIV - elaborar representações sobre inconstitucionalidade de leis, por determinação do Chefe do Poder Executivo Municipal, ou de ofício;\nV - patrocinar judicialmente as causas em que o Município seja interessado como autor, réu ou interveniente;\nVI - atuar extrajudicialmente para a solução de conflitos e atuar perante órgãos e instituições no interesse do Município;\nVII - preparar informações e acompanhar processos de mandado de segurança impetrados contra ato do Prefeito, Secretários Municipais e Servidores da Administração Direta, quando o objeto se refira a ato praticado no exercício da função pública;\nVIII - acompanhar processos de usucapião e retificação de registro imobiliário para os quais o Município seja citado;\nIX - emitir parecer sobre matérias e processos administrativos submetidos a seu exame;\nX - organizar e acompanhar, após a devida autorização, os processos de desapropriação por interesse social ou utilidade pública;\nXI - elaborar minutas de contratos e convênios;\nXII - sugerir a adoção das medidas necessárias à adequação das leis e atos administrativos normativos às regras e princípios da Constituição Federal e Estadual, bem como da Lei Orgânica do Município de Lavras;\nXIII - promover privativamente a cobrança judicial da dívida ativa do Município, de natureza tributária ou não, funcionando em todos os processos em que haja interesse fiscal do Município;\nXIV - representar a Fazenda Municipal em processos que versem sobre matéria financeira e tributária relacionada com a arrecadação municipal;\nXV - emitir parecer em matéria fiscal;\nXVI - examinar as ordens e sentenças judiciais cujo cumprimento dependa de iniciativa do Secretário Municipal de Fazenda, Planejamento e Gestão, emitindo parecer, se solicitado;\nXVII - manifestar-se nas execuções fiscais sobre concessão de parcelamento de débitos tributários, nos termos da lei;\nXVIII - promover ações regressivas contra ex-agentes públicos municipais de qualquer categoria, declarados culpados de causar lesão ao erário, em processo em que caiba o exercício da ampla defesa e do contraditório;\nXIX - promover a regularização e defesa dos bens públicos municipais, dominiais, de uso comum do povo e destinados a uso especial, notadamente a proteção ao Meio Ambiente;\nXX - representar a Fazenda do Município junto aos Tribunais de Contas;\nXXI - propor ação civil pública;\nXXII - opinar, quando provocada, sobre a elaboração, por parte da Comissão Permanente de Licitação - CPL, de minutas-padrão no que se refere a instrumentos convocatórios de licitações, contratos, convênios e outros atos jurídicos de relevância patrimonial, a serem observadas por toda a Administração e publicadas oficialmente;\nXXIII - examinar projetos de lei, decretos e portarias;\nXXIV - executar outras tarefas afins, nos termos do seu regimento interno.\nParágrafo único - A requisição de processos administrativos, informações ou providências solicitadas pelo PGM e Procuradores Municipais de carreira a qualquer órgão da Administração e entidades a ela vinculada, para a defesa do interesse público, terá prioridade em sua tramitação, sob pena de responsabilidade funcional.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## SEÇÃO II DOS CARGOS DA PGM\nArt. 6º. A Procuradoria Geral do Município é constituída dos seguintes cargos:\nI-Comissionados:\na) Procurador Geral do Município;\nb) Chefe de Gabinete do Procurador Geral;\nc) Assessor de Gabinete do Procurador Geral;\nd) Subprocurador Geral do Município;\ne) Chefe de Gabinete do Subprocurador;\nf) Diretor das Políticas de Defesa do Consumidor;\ng) Diretor de Assuntos Jurídicos;\nh) Assistente Jurídico;\ni) Diretor da Coordenadoria de Apoio às Procuradorias Especializadas.\nII-Efetivos - Quadro Permanente:\na) Procurador Municipal;\nb) Auxiliar administrativo ou técnico.\n§ 1.º Os cargos comissionados são de livre nomeação e exoneração e de confiança do Prefeito Municipal e do Procurador Geral.\n§ 2.º Os cargos de Procurador Municipal e assistente administrativo ou técnico serão providos em caráter efetivo, mediante concurso de provas e/ou provas e títulos.\n§ 3° Os cargos de Diretor da Coordenadoria de Apoio às Procuradorias Especializadas serão nomeados exclusivamente dentre os servidores pertencentes ao quadro efetivo do Município.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## SEÇÃO III CONSELHO DE PROCURADORES\nArt. 7º. O Conselho de Procuradores é órgão interno deliberativo da Procuradoria Geral, composto pelo Procurador Geral, Subprocurador Geral e 05 (cinco) Procuradores Municipais efetivos, os quais serão escolhidos entre seus pares.\n§ 1º. Os Procuradores Municipais atuarão pelo prazo de 1 (um) ano como membros do Conselho, podendo ser reconduzidos.\n§ 2º. No primeiro dia útil de cada ano será encaminhado ao Procurador Geral do Município a indicação dos membros eleitos ou reconduzidos do Conselho, através de ofício, com a assinatura de todos os Procuradores Municipais efetivos.\n§ 3º. Compete ao Diretor da Coordenadoria de Apoio às Procuradorias Especializadas o acompanhamento e organização da eleição dos membros do Conselho.\n§ 4º. Não havendo o número de 05 (cinco) Procuradores Municipais efetivos em exercício, o Conselho poderá deliberar com quantidade inferior à prescrita no caput.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. O Procurador Geral do Município, em conjunto com o Conselho de Procuradores, editará, por Resolução, o Regimento Interno, observada a presente Lei Complementar e as demais leis Municipais.\n§1º. O Regimento Interno deverá regulamentar o disposto na presente lei, quanto ao cumprimento, no âmbito da Procuradoria Geral do Município, de sua organização interna e funcionamento.\n§2º. O Conselho de Procuradores será presidido pelo Procurador Geral do Município e, como secretário, o Subprocurador Geral, tendo como atribuição:\nI -pronunciar-se sobre o regimento interno da Procuradoria Geral, previamente à sua edição;\nII -uniformizar a jurisprudência administrativa, através de emissão de Enunciados de entendimento assente da Procuradoria-Geral do Município.\n§ 3º. O Procurador Geral do Município cientificará, previamente, o Conselho de Procuradores sobre a edição de projeto de lei que interesse ao funcionamento da Procuradoria Geral do Município.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## CAPÍTULO III PROCURADOR GERAL\nArt. 9º. O Procurador Geral do Município, cargo comissionado de livre nomeação e exoneração do Prefeito Municipal, será nomeado dentre advogados regularmente inscritos na Ordem dos Advogados do Brasil.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. São atribuições do Procurador Geral:\nI - dirigir o órgão de administração superior denominado Procuradoria Geral do Município, superintender e coordenar suas atividades e orientar-lhe a atuação, mediante a elaboração de Resoluções e Instruções Normativas;\nII -prestar assessoria jurídica direta ao Prefeito Municipal, podendo exercer quaisquer das atribuições previstas no artigo 5º da presente lei complementar;\nIII - propor ao Prefeito Municipal o ajuizamento de ação direta de inconstitucionalidade de lei ou ato normativo municipal, propondo ainda ao Prefeito Municipal a anulação de atos administrativos da administração pública municipal;\nIV - prestar assessoria legislativa ao Poder Executivo, mediante o auxílio na elaboração de projetos de lei, decretos e portarias do Chefe do Poder Executivo e demais autoridades municipais;\nV - acompanhar a tramitação dos Requerimentos, Moções e Indicações do Poder Legislativo no âmbito do Poder Executivo;\nVI - auxiliar ao Prefeito Municipal nas respostas de diligências e ofícios encaminhados pelo Ministério Público Estadual, Ministério Público Federal, Ministério Público de Contas e Ministério Público do Trabalho; Receita Estadual e Federal, Polícias Militar, Civil e Federal, Tribunal de Contas do Estado, Tribunal de Contas da União e Controladoria Geral da União; Governo Federal e seus órgãos, Governo do Estado do Paraná e seus órgãos;\nVII - acompanhar a elaboração da proposta orçamentária da Procuradoria Geral do Município;\nVIII - expedir instruções para os membros da Procuradoria Geral e para seu pessoal administrativo, sobre o exercício das respectivas funções;\nIX - representar judicialmente ou extrajudicialmente, quando necessário, o Município nos Consórcios Públicos do qual este faça parte;\nX - designar os representantes da Procuradoria Geral do Município junto aos Secretários, titulares de órgãos colegiados e de entidades da administração descentralizada e os que servirão junto às Procuradorias;\nXI - apreciar previamente os processos de licitação, as minutas de contratos administrativos, convênios, acordos e demais atos relativos a obrigações assumidas pelos órgãos da administração direta e indireta do Município.\nXII - emitir parecer em qualquer modalidade de procedimento licitatório, quando formalmente solicitado pelo Prefeito Municipal, Secretário, Diretor de Departamento ou Diretor de Consórcio Público do qual o Município do Lavras faça parte.\nXIII - receber as notificações e citações judiciais, inclusive nos processos judiciais eletrônicos, das ações em que o Município figurar como réu ou interessado, em qualquer foro ou tribunal;\nXIV- autorizar expressamente os Procuradores Municipais a promover a execução de dívida ativa, regularmente inscrita;\nXV- autorizar a realização de concursos públicos para provimento de cargos da Procuradoria Geral do Município;\nXVI - criar e extinguir, através de portaria, as procuradorias especializadas, designando suas atribuições;\nXVII - desempenhar outras atribuições inerentes ao cargo.\n§ 1.º O Procurador Geral do Município poderá avocar para sua atuação qualquer processo judicial ou administrativo, em que o Município de Lavras for parte, cuja atuação esteja a cargo de outro Procurador, protocolando petições e recursos de quaisquer naturezas, observado o disposto no inciso I do art. 5º da presente Lei, incluindo petições iniciais.\n§ 2.º No período de férias ou afastamento temporário da função, o Procurador Geral do Município será substituído interinamente pelo Subprocurador Geral.\n§ 3.º O Procurador Geral poderá delegar as competências dispostas no inciso II, IV, V, VI, IX, X, XI e XII, do caput deste artigo, ao Subprocurador Geral e ao Diretor de Assuntos Jurídicos.\n§ 4.º O Procurador Geral do Município, ou seu substituto deverá cumprir com o disposto no art. 29 da Lei Federal nº. 8.906/94, sendo-lhe vedada a advocacia privada durante o período de investidura no cargo.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## CAPÍTULO IV SUBPROCURADOR GERAL\nArt. 11. O Subprocurador Geral, cargo comissionado de livre nomeação e exoneração do Prefeito Municipal, por indicação do Procurador Geral do Município, será nomeado dentre advogados regularmente inscritos na Ordem dos Advogados do Brasil.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Compete ao Subprocurador Geral:\nI - substituir o Procurador Geral em suas ausências ou impedimentos eventuais;\nII - exercer a Chefia do Gabinete;\nIII - supervisionar as atividades das Procuradorias e demais unidades da Procuradoria Geral;\nIV - promover a distribuição, entre as diversas unidades da Procuradoria Geral, de processos judiciais e administrativos, podendo emitir parecer discordante ou complementar;\nV - supervisionar técnica e administrativamente o pessoal sob sua supervisão e chefia;\nVI - avocar qualquer ação ou processo, ou atribuí-los a Procurador especialmente designado;\nVII - articular-se com os Órgãos e Entidades com vistas a maior integração, agilidade nos processos e demais demandas;\nVIII -coordenar a produção legislativa municipal;\nIX - desempenhar outras atribuições inerentes ao cargo.\nParágrafo único - O Subprocurador Geral deverá cumprir com o disposto no art. 29 da Lei Federal nº. 8.906/94, sendo-lhe vedada a advocacia privada durante o período de investidura no cargo.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "## CAPÍTULO V DIRETOR DE ASSUNTOS JURÍDICOS\nArt. 13. Compete ao Diretor de Assuntos Jurídicos\nI - coordenar e supervisionar as atividades de competência de sua unidade;\nII -determinar a distribuição entre as Procuradorias Especializadas de processos e emitir parecer complementar ou discordante;\nIII - supervisionar, técnica e administrativamente o pessoal sob sua orientação e coordenação;\nIV -coordenar, orientar e distribuir os serviços das Procuradoria Especializadas inerentes aos processos judiciais e administrativos originários do Ministério Público;\nV -estabelecer medidas e providências visando a coordenação de assuntos de competência das correspondentes Procuradorias ou Representações, encaminhando as questões divergentes ao conhecimento do Procurador Geral;\nVI - comunicar ao Procurador Geral a solução dos processos e ações de interesse do Município, propondo o arquivamento de processos em que se verifique a impossibilidade ou inconveniência de procedimento judicial;\nVII - orientar diretamente os Procuradores sob sua coordenação, promovendo, para isso, reuniões periódicas;\nVIII- comunicar ao Procurador Geral, mensalmente, o desempenho dos Procuradores Municipais em conjunto com o Diretor de Coordenadoria de Apoio às Especializadas;\nIX -desempenhar outras atribuições inerentes ao cargo.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. O Diretor de Assuntos Jurídicos, cargo comissionado de livre nomeação e exoneração do Prefeito Municipal, por indicação do Procurador Geral do Município, será nomeado dentre advogados regularmente inscritos na Ordem dos Advogados do Brasil.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "## CAPÍTULO VI DO PROCURADOR MUNICIPAL\nArt. 15. O cargo de Procurador Municipal será provido em caráter efetivo, após prévia aprovação em concurso público de provas ou de provas e títulos, garantida possibilidade de participação da Ordem dos Advogados do Brasil, obedecendo-se, no ato de nomeação, à ordem classificatória.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. São atribuições do Procurador Municipal, mediante autorização do Procurador Geral do Município:\nI - representar o Município nos Juízos Cível, Trabalhista e Federal, ativa e passivamente, e promover sua defesa em todas e quaisquer ações, elaborando petições iniciais, cumprindo despachos judiciais, interpondo recursos quando cabíveis e que cujo manejo não represente aumento desnecessário de condenação em honorários de sucumbência ou custas processuais em desfavor do Município;\nII - promover a cobrança judicial e extrajudicial da dívida ativa e dos demais créditos do Município;\nIII - elaborar informações a serem prestadas pelas autoridades do Poder Executivo em mandados de segurança ou mandados de injunção;\nIV - emitir parecer sobre matérias relacionadas com processos judiciais em que o Município tenha interesse;\nV - apreciar previamente os processos de licitação, as minutas de contratos administrativos, convênios, acordos e demais atos relativos a obrigações assumidas pelos órgãos da administração direta do Poder Executivo;\nVI - apreciar todo e qualquer ato que implique alienação do patrimônio imobiliário municipal, bem como autorização, permissão e concessão de uso;\nVII - elaborar defesa técnica do Município nos processos em que este figure como Entidade ou Interessado, perante o Tribunal de Contas do Estado de Minas Gerais e Tribunal de Contas da União;\nVIII - defender o Município de Lavras nos processos judiciais e extrajudiciais em que for designado como procurador, observando os prazos judiciais e legais, bem como promover a juntada de documentos e provas determinadas pelo PGM, apresentando tempestivamente as petições e os recursos cabíveis;\nIX - desempenhar suas atribuições definidas nesta lei em lotação a ser designada pelo Procurador Geral Municipal, inclusive fora da sede administrativa do Município;\nX - ingressar com ações judiciais em geral e de execução fiscal, acompanhando e recebendo as intimações de referidos processos, bem como efetuar a defesa do Município em quaisquer outros processos, embargos à execução, embargos de terceiro, exceções de pré-executividade e recursos judiciais tributários em geral;\nXI - desistir quando autorizado expressamente pelo Procurador Geral do Município, de ações e recursos judiciais, recursos administrativos, na hipótese em que o valor discutido não compensar o custo da tramitação ou por ser substancialmente majorado em razão da sucumbência recursal, caracterizando processo antieconômico;\nXII - atuar nas Câmaras de Conciliação e Arbitragem previstas no art. 174 da Lei Federal nº. 13.105/2015 (Código de Processo Civil).\nXIII - subsidiar os demais órgãos em assuntos jurídicos e desempenhar outras funções correlatas.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. O Procurador Municipal tomará posse perante o Prefeito Municipal, mediante compromisso formal de estrita observância das leis, respeito às instituições democráticas e cumprimento dos deveres inerentes ao cargo.\n§ 1º. Após o ato de nomeação, deverá o Procurador Municipal providenciar a anotação do impedimento previsto no art. 30, I, da Lei Federal nº. 8.906/94, junto a Ordem dos Advogados do Brasil - OAB, sob pena de responsabilização disciplinar perante o Município de Lavras.\n§ 2º. Investido no cargo de procurador Municipal, o servidor poderá ser lotado no interesse público na Procuradoria, ou em qualquer outro órgão do Município em colaboração descentralizada, para desempenho de suas funções de consultoria e assessoria jurídica, mantendo-se subordinado ao Procurador Geral do Município.\n§ 3º. O Procurador Municipal, no exercício de suas funções deverá manter lealdade a Procuradoria Geral do Município de Lavras a que se encontra subordinado, sendo-lhe garantida a independência e prerrogativas inerentes à atividade advocatícia, quanto às opiniões de natureza técnico-científica emitidas em parecer, petição ou qualquer arrazoado produzido em processo administrativo ou judicial.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. O regime jurídico dos Procuradores do Município efetivos de Lavras é o estatutário, previsto na Lei Municipal Complementar nº 327, de 16 de julho de 2014 - Estatuto dos Servidores e/ou normas correlatas, inclusive as disposições da Lei Municipal Complementar nº 328, de 16 de julho de 2014, bem como as que vierem a substituí-las ou alterá-las.\n§ 1º. O Procurador Municipal de carreira cumprirá carga horária de 30 (trinta) horas semanais, sendo o horário diário determinado pelo Procurador Geral do Município.\n§ 2º A presente lei complementar não exclui os benefícios constantes das legislações constantes do caput.\n§ 3º Para fins exclusivos de aplicação da gratificação temporária por função - GTF, prevista no art. 63 - A, da Lei Complementar nº 328/14, os Procuradores efetivos serão equiparados à Classe 5, da Administração Geral.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. O Diretor da Coordenadoria de Apoio às Procuradorias Especializadas, poderá ser nomeado pelo Prefeito Municipal, a critério e indicação do Procurador Geral, dentre os Procuradores Municipais efetivos, competindo-lhe:\nI - planejar, orientar, coordenar, supervisionar, acompanhar e avaliar os trabalhos desenvolvidos;\nII - elaborar e submeter à apreciação e aprovação do Procurador Geral, a proposta dos planos, programas e projetos a serem desenvolvidos pela Unidade;\nIII - propor ao Procurador Geral medidas destinadas ao aperfeiçoamento ou redirecionamento de programas, projetos e atividades em execução na Procuradoria Geral, com vistas a sua otimização;\nIV - encaminhar ao Procurador Geral relatórios periódicos referentes às atividades da Unidade;\nV - coordenar a elaboração dos relatórios mensal e anual da Procuradoria Geral;\nVI - encaminhar ao Procurador Geral, ouvidos os procuradores municipais, propostas para inclusão no projeto orçamentário anual e plano plurianual;\nVII - fiscalizar e controlar a arrecadação dos honorários advocatícios pertencentes à Procuradoria Geral, bem como providenciar as medidas necessárias ao rateio destes valores entre os Procuradores Municipais, Procurador Geral, Subprocurador e o Fundo da Procuradoria;\nVIII - outras atividades correlatas determinadas pelo Procurador Geral.\nParágrafo único: O cargo de Diretor da Coordenadoria de Apoio às Procuradorias Especializadas destina-se exclusivamente aos titulares dos cargos efetivos de Procurador Municipal.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "## CAPÍTULO VII DIRETOR DAS POLÍTICAS DE DEFESA DO CONSUMIDOR\nArt. 20. O Diretor das Políticas de Defesa do Consumidor, cargo comissionado de livre nomeação e exoneração do Prefeito Municipal, por indicação do Procurador Geral do Município, com exigência mínima de graduação no curso de Direito.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. Compete ao Diretor das Políticas de Defesa do Consumidor:\nI - dirigir e coordenar a política de Defesa do Consumidor - PROCOM;\nII - determinar diretrizes e nortear as ações de governo para a defesa dos consumidores;\nIII - gerir, coordenar e orientar a equipe de pessoal do PROCON;\nIV - encaminhar ao Procurador Geral hipótese de projeto de lei, visando a melhoria das ações para defesa do consumidor;\nV - representar o PROCON no atendimento à imprensa sempre que solicitado;\nVI - desempenhar outras atividades determinadas pelo Procurador Geral.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "## CAPÍTULO VIII DAS PRERROGATIVAS, DIREITOS E DEVERES\nArt. 22. Aos Procuradores do Município aplicam-se, os diretos, as vedações e as incompatibilidades previstas na Lei Federal nº. 8.906/1994.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. São prerrogativas dos Procuradores:\nI - não ser constrangido de qualquer modo a agir em desconformidade com sua consciência ético-profissional;\nII - requisitar, sempre que necessário, auxílio e colaboração das autoridades públicas municipais par a o exercício de suas atribuições;\nIII - requisitar das autoridades competentes certidões, informações e diligências necessárias ao desempenho de suas funções;\nIV - ingressar livremente em qualquer edifício ou recinto onde funcione repartição pública do Município e requisitar documentos e informações úteis ao exercício da atividade funcional;\nV - requisitar mediante memorando interno, quaisquer documentos ou informações necessárias para a defesa do interesse do Município de Lavras em processos judiciais ou extrajudiciais em que este figure como parte, bem como para auxílio na elaboração de pareceres ou respostas a qualquer autoridade municipal;\nVI - requisitar o pagamento de diárias de viagem e reembolso de despesas, bem como dirigir veículos de propriedade do Município, quando autorizado e a serviço da Procuradoria e na atuação judicial ou extrajudicial do Município de Lavras.\nParágrafo único: Para fins do inciso VI, serão autorizados a conduzir os veículos de propriedade do Município apenas os Procuradores legalmente habilitados, com respectivo controle em diário de bordo.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. Além das proibições decorrentes do exercício do cargo público, ao Procurador do Município é vedado:\nI - aceitar cargo, exercer função pública ou mandato fora dos casos autorizados em lei;\nII - empregar em qualquer expediente oficial expressão ou termos desrespeitosos;\nIII - valer-se da qualidade de Procurador do Município para obter vantagem de qualquer espécie;\nIV - Manifestar-se, por qualquer meio de divulgação, sobre assunto pertinente às suas funções, salvo quando autorizado pelo Procurador Geral do Município.\nV- firmar acordos em audiências judiciais ou extrajudiciais sem autorização expressa do Procurador Geral do Município, sob pena de prática de infração disciplinar grave;\nVI - desistir de ações judiciais sem autorização do Procurador Geral do Município;\nVII - exercer a advocacia contra a Fazenda Pública Municipal.\n§ 1º. Ao servidor municipal investido no cargo de procurador é vedado revelar fato de que tem ciência em razão do cargo e que deva permanecer em sigilo, inclusive fiscal, ou facilitar sua revelação, sob pena de responder por infração disciplinar qualificada como grave.\n§ 2º. O Procurador Municipal tendo notícia de qualquer irregularidade administrativa em razão do seu cargo deverá comunicar imediatamente ao Procurador Geral do Município para as providências cabíveis.\n§ 3º. É vedado ao Procurador Municipal representar o Município ou participar de reuniões para tratar de assuntos da Administração, ou ainda, fornecer documentos internos da Administração Municipal a terceiros, sem autorização expressa do Procurador Geral do Município, sob pena de responder por infração disciplinar qualificada como grave.\n§ 4º. Aplicam-se, no que couber, aos demais cargos constantes do quadro de servidores da Procuradoria Geral do Município as vedações constantes do presente artigo.\n§ 5º. O advogado deve abster-se de patrocinar causa contrária à ética, à moral ou à validade de ato jurídico em que tenha colaborado, orientado ou conhecido em consulta.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. É defeso ao Procurador do Município exercer as suas funções em processo judicial ou administrativo:\nI - Em que seja parte;\nII - Em que haja atuado como advogado de qualquer das partes;\nIII - Em que seja interessado, cônjuge, parente consanguíneo ou afim, em linha reta ou colateral;\nIV - Nos casos de impedimento, suspeição e incompatibilidade previstos na legislação.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. O Procurador Municipal dar-se-á por suspeito quando:\nI - Houver proferido parecer favorável à pretensão deduzida em Juízo pela parte adversa;\nII - Ocorrer qualquer dos casos previstos na legislação.\nParágrafo único - Na hipótese prevista neste artigo, o Procurador Municipal comunicará ao Procurador Geral, em expediente reservado, os motivos da suspeição, para que este os acolha ou rejeite.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. São deveres dos Procuradores Municipais:\nI - assiduidade;\nII - pontualidade;\nIII - urbanidade;\nIV - lealdade às instituições a que serve;\nV - desempenhar com zelo e presteza, dentro dos prazos, os serviços a seu cargo e os que lhe forem atribuídos pelo Procurador-Geral;\nVI - guardar sigilo profissional;\nVII - comunicar ao Procurador-Geral sobre irregularidades que afetem o bom desempenho de suas atribuições;\nVIII - promover a defesa judicial do Município de Lavras em 1ª., 2ª., 3ª.\nInstâncias, apresentando contestações, impugnações, recursos em geral, até na instância extraordinária do STF, inclusive por meio de sustentação oral, perante qualquer foro ou tribunal;\nIX - apresentara o Procurador Geral do Município, conforme solicitação, relatório dos andamentos processuais judiciais que estejam sob sua responsabilidade;\nX - responsabilizar-se pelo cumprimento dos prazos processuais, sob pena de arcar com os prejuízos causados ao Patrimônio Público;\nXI - frequentar seminários, cursos de treinamento e de aperfeiçoamento profissional.\n§ 1º. É dever do Município de Lavras dentro das disponibilidades financeiras e orçamentárias investir em programas, cursos de treinamentos e aperfeiçoamento profissional para os integrantes da Procuradoria Geral do Município de Lavras.\n§ 2º. Aplicam-se, no que couber, aos demais cargos constantes do quadro de servidores da Procuradoria Geral do Município as vedações constantes do presente artigo.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28. Para fins da assiduidade e pontualidade a ser desempenhada pelos Procuradores Municipais, inclusive o Procurador Geral do Município, contará como carga horária de serviço em favor do Município a atividade desempenhada em qualquer foro ao qual o Município de Lavras esteja submetido, seja estadual ou federal, incluindo a jurisdição estadual, federal, trabalhista e administrativa de contas, bem como as horas in itinere.\nParágrafo único. A atividade jurídica eventualmente desempenhada pelos Procuradores do Município, inclusive o Procurador Geral, poderá ser considerada fora da sede do Município, inclusive quando em viagem a serviço da municipalidade, mediante controle.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29. O regime de apuração de irregularidades e aplicação de penalidades disciplinares serão aquelas estabelecidas pelo Regime Jurídico dos Servidores Municipais, constantes da Lei Municipal Complementar nº 327, de 16 de julho de 2014 - Estatuto dos Servidores e/ou normas correlatas, bem como as que vierem a substituí-las.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "## CAPÍTULO IX DOS HONORÁRIOS\nArt. 30. Os honorários pagos pela parte vencida em virtude de cobrança judicial da Dívida Ativa e nas demais Ações Judiciais, a título de sucumbência, pertencem aos Procuradores Municipais, conforme previsto na Lei nº 8.906/94, e serão levantados e rateados com autorização do Procurador Geral do Município.\n§ 1º. O disposto no caput deste artigo tem validade inclusive para ações já ajuizadas e em andamento ou não.\n§ 2º. Não será devido qualquer pagamento a título de honorários, quando efetuado acordo ou pagamento de débito pela via administrativa, desde que não tenha sido ajuizada a respectiva ação, ou realizado o envio da Certidão de Dívida Ativa para protesto extrajudicial.\n§ 3º. Vencido o prazo de recolhimento do crédito tributário e havendo envio de Certidão de Dívida Ativa para protesto extrajudicial, os procuradores municipais farão jus a honorários a serem pagos pelos devedores no percentual de 10% (dez por cento).\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31. Os honorários advocatícios de que trata esta lei serão partilhados de forma equânime entre os Procuradores que compõem o conjunto de Procuradores Municipais, ocupantes do cargo de Procurador Efetivo do Município, Procurador Geral e o Subprocurador Geral.\n§ 1º. Os honorários não constituem encargo do Tesouro Municipal, e serão pagos exclusivamente pela parte sucumbente ou devedora, adversa ao Município nos feitos judiciais.\n§ 2º. Não perderá o direito aos honorários advocatícios, o Procurador Municipal afastado ou licenciado, exceto nos casos do art. 88, III, V e VII e art.\n114, da Lei Complementar nº. 327/14, ou outra norma que a substituir.\n§ 4º. Perderá o direito aos honorários advocatícios o procurador nomeado para cargo em comissão com atribuições distintas da advocacia pública, nos processos que se seguirem a partir da nomeação, aplicadas as disposições do § 3º, deste artigo.\n§ 5º. Os Procuradores Municipais efetivos somente farão jus ao rateio e recebimento de honorários após 1 (um) ano de efetivo exercício no cargo.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32. Os valores provenientes da arrecadação dos honorários de sucumbência serão recolhidos em conta bancária aberta especialmente para este fim.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33. Considera-se em efetivo exercício, o Procurador que, na data do rateio, esteja:\nI - em gozo de férias regulamentares;\nII - em gozo de licença para tratamento de saúde;\nIII-em gozo de licença por motivo de doença em pessoa da família e licença prêmio;\nIV - licença à gestante, adotante e paternidade;\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34. Não se considera em efetivo exercício, o Procurador que, na data do rateio, esteja:\nI- licenciado para tratamento de interesses particulares;\nII- licenciado para campanha eleitoral;\nIII- licenciado para acompanhar cônjuge ou companheiro;\nIV - afastado para exercício de mandato eletivo;\nV - afastado da função para cumprimento de punição após regular Processo Administrativo;\nVI - aposentado.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35. Os valores apurados recolhidos na conta bancária a título de honorários serão geridos pelo Procurador Geral do Município em conjunto com o Secretário da Fazenda do Município e com o Diretor da Coordenadoria de Apoio às Procuradorias Especializadas.\n§ 1.º A conta bancária somente poderá ser movimentada em conjunto pelo Procurador Geral do Município, o Secretário Municipal e o Diretor da Coordenadoria.\n§ 2.º Qualquer controvérsia acerca da divisão dos honorários entre os Procuradores será dirimida pelo Procurador Geral do Município, com apoio do Diretor da Coordenadoria.\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "Art. 36. O rateio parcial dos honorários será realizado mensalmente mediante autorização do Procurador Geral do Município, que poderá fixar por ato próprio um piso mínimo mensal de distribuição entre os procuradores beneficiários.\n§1º. Sobre o pagamento dos honorários haverá retenção de tributos na forma da lei.\n§ 2º. No final de cada exercício o saldo remanescente depositado na conta de honorários será rateado de forma equânime, por ato do Procurador Geral do Município entre os Procuradores Municipais, Procurador Geral e Subprocurador.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37. A parcela de honorários advocatícios e sucumbenciais, devida aos Procuradores por força da presente lei, não será considerada, para quaisquer efeitos, como remuneração do cargo e nem servirão para base de cálculo de aposentadoria.\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "Art. 38. Do valor total recebido a título de honorários advocatícios, os beneficiários incentivarão entre a equipe de procuradores, a destinação de um percentual de 10% (dez por cento), para fins de auxílio na estruturação física e melhoramento técnico da Procuradoria Geral do Município\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "Art. 39. Compete aos beneficiários o recolhimento de tributos decorrentes das parcelas recebidas a título de honorários advocatícios.\n"
+      },
+      "art-0040": {
+       "label": "Art. 40",
+       "kind": "article",
+       "text": "## CAPÍTULO X DA GRATIFICAÇÃO DE PRODUTIVIDADE\nArt. 40. Aos titulares de cargo efetivo de Procurador Municipal, legalmente investidos, e em exercício pleno de suas atividades será atribuída uma Gratificação de Produtividade Jurídica - GPJ.\n§1º. Farão jus à gratificação de que trata o \"caput\" deste artigo, os Procuradores Municipais efetivos que não estejam investidos em cargo em comissão com atribuições distintas da advocacia pública.\n§ 2º. A GPJ será atribuída em forma de pontos, calculados sobre as atividades consideradas como desempenhadas pelos Procuradores Municipais, conforme descritas no ANEXO I, até o limite de 6.000 (seis mil) pontos.\n"
+      },
+      "art-0041": {
+       "label": "Art. 41",
+       "kind": "article",
+       "text": "Art. 41. Entende-se por produtividade jurídica a atuação do Procurador Municipal de carreira no sentido de aprimorar e de dar agilidade e eficiência aos serviços prestados ao Município.\n"
+      },
+      "art-0042": {
+       "label": "Art. 42",
+       "kind": "article",
+       "text": "Art. 42. O valor unitário de cada ponto será de R$ 0,20 (vinte centavos), sendo atualizado anualmente, no mês de maio, pelo INPC ou outro que vier a substituí-lo.\n"
+      },
+      "art-0043": {
+       "label": "Art. 43",
+       "kind": "article",
+       "text": "Art. 43. Para os efeitos previstos nesta Lei, consideram-se:\na) pontos atribuídos - será a soma dos pontos correspondentes às diversas tarefas executadas, em cada mês;\nb) pontos glosados - o número de pontos a serem descontados no mês da conferência, por ter sido atribuído indevidamente ou não comprovado em determinado mês.\n"
+      },
+      "art-0044": {
+       "label": "Art. 44",
+       "kind": "article",
+       "text": "Art. 44. Os pontos atribuídos ao Procurador Municipal, que ultrapassarem o limite máximo estabelecido, não servirão de crédito para o mês subsequente e/ou demais meses, salvo no próprio mês, para eventuais glosas de pontos.\n"
+      },
+      "art-0045": {
+       "label": "Art. 45",
+       "kind": "article",
+       "text": "Art. 45. Os pontos acumulados durante a vigência da Lei Complementar nº 343/15, poderão ser utilizados para complementação da pontuação glosada, na forma do artigo 44, pelo período de 6 (seis) meses contados da data de publicação da presente lei.\n"
+      },
+      "art-0046": {
+       "label": "Art. 46",
+       "kind": "article",
+       "text": "Art. 46. Os trabalhos serão sempre dirigidos pelo Procurador Geral do Município, visando à equidade na sua distribuição e evitando disparidade quanto à apuração da produtividade.\nParágrafo único - Será assegurado o pagamento de gratificação por produtividade aos Procuradores de carreira mesmo que em função de chefia, direção e assessoramento, salvo na hipótese contemplada pelo § 4º, do art. 31.\n"
+      },
+      "art-0047": {
+       "label": "Art. 47",
+       "kind": "article",
+       "text": "Art. 47. A GPJ terá seu controle efetivamente realizado através de preenchimento de Mapa de Produção Jurídica Individual (MPJI), conforme modelo Anexo II desta lei.\nParágrafo único - Os Mapas de Produção Jurídica, relativos a cada mês de produtividade, devidamente preenchidos serão encaminhados até o 5º dia útil do mês subsequente para aprovação e assinatura pelo Procurador Geral, ou seu substituto legal, devendo ser encaminhado ao RH, para inclusão em folha de pagamento até o dia 10.\n"
+      },
+      "art-0048": {
+       "label": "Art. 48",
+       "kind": "article",
+       "text": "Art. 48. No interesse público e visando atendimento de situações temporárias é autorizado a implantação de banco de horas extraordinárias quando legalmente executadas e justificadas.\n"
+      },
+      "art-0049": {
+       "label": "Art. 49",
+       "kind": "article",
+       "text": "Art. 49. O pagamento da Gratificação de Produtividade Jurídica incorpora a gratificação natalina e o afastamento do servidor em virtude de férias regulamentares, de férias prêmio, por até 30 (trinta) dias por ano, licença para tratamento de saúde e licença maternidade, considerando para pagamento a média dos últimos 6 (seis) meses.\nParágrafo único - A gratificação de produtividade individual será incorporada à remuneração para fins de aposentadoria com base na média de contribuição dos últimos cinco anos.\n"
+      },
+      "art-0050": {
+       "label": "Art. 50",
+       "kind": "article",
+       "text": "Art. 50. Os casos omissos ou as dúvidas que porventura surjam no entendimento e na aplicação deste capítulo serão dirimidos mediante Decreto do Executivo.\n"
+      },
+      "art-0051": {
+       "label": "Art. 51",
+       "kind": "article",
+       "text": "## CAPÍTULO XI DISPOSIÇÕES FINAIS\nArt. 51. Os advogados concursados que integram o quadro funcional da Procuradoria Geral do Município continuam sendo denominados Procuradores Municipais.\nParágrafo único - Os processos judiciais em trâmite que tenha como parte o Município de Lavras serão distribuídos aos Procuradores do Município, mediante despacho e outorga do Procurador Geral do Município.\n"
+      },
+      "art-0052": {
+       "label": "Art. 52",
+       "kind": "article",
+       "text": "Art. 52. Os atuais procuradores municipais em exercício serão mantidos na classificação que se encontram, com os mesmos valores de vencimentos vigentes na data de publicação desta lei, no Grupo Ocupacional Superior Especializado, Nível e Padrão constante do Anexo III da presente lei.\n"
+      },
+      "art-0053": {
+       "label": "Art. 53",
+       "kind": "article",
+       "text": "Art. 53. As funções comissionadas da Procuradoria Geral do Município terão suas atribuições, padrões e valores definidos também na Lei Municipal que dispõe sobre o Quadro Comissionado da Administração Municipal.\n"
+      },
+      "art-0054": {
+       "label": "Art. 54",
+       "kind": "article",
+       "text": "Art. 54. O Procurador Municipal, no exercício de suas funções, goza de independência e das prerrogativas inerentes à atividade advocatícia, inclusive autonomia funcional quanto às opiniões de natureza técnico-científica emitidas em parecer, petição ou qualquer arrazoado produzido em processo administrativo ou judicial.\n"
+      },
+      "art-0055": {
+       "label": "Art. 55",
+       "kind": "article",
+       "text": "Art. 55. Os pareceres emitidos pela Procuradoria Geral do Município possuem caráter opinativo, restritos à seara jurídica, sendo instrumento a subsidiar a decisão do Executivo Municipal, não imiscuindo na discricionariedade do ordenador de despesa.\nParágrafo único - As análises, por ventura realizadas pela Procuradoria Geral, de minutas de instrumentos contratuais e/ou parcerias se atém, exclusivamente, as formalidades previstas ou não defesas em lei.\n"
+      },
+      "art-0056": {
+       "label": "Art. 56",
+       "kind": "article",
+       "text": "Art. 56. A existência de corpo jurídico na Procuradoria Geral do Município, por si só, não inviabiliza a contratação de advogado externo pessoa natural ou jurídica, por contrato administrativo, desde que observado o devido processo de credenciamento e/ou, em casos específicos e justificados, com base no disposto no art. 25, inciso II, c/c art. 13, inciso V, ambos da Lei 8.666/93, para a prestação de serviços específicos na defesa dos interesses do Município de Lavras.\n"
+      },
+      "art-0057": {
+       "label": "Art. 57",
+       "kind": "article",
+       "text": "Art. 57. Fica o Poder Executivo Municipal autorizado a abrir por Decreto, Créditos Adicionais Especiais, para cobrir as despesas necessárias ao funcionamento da Procuradoria Geral do Município.\n"
+      },
+      "art-0058": {
+       "label": "Art. 58",
+       "kind": "article",
+       "text": "Art. 58. O Chefe do Poder Executivo fica autorizado a expedir Decretos para regulamentar a presente lei.\n"
+      },
+      "art-0059": {
+       "label": "Art. 59",
+       "kind": "article",
+       "text": "Art. 59. Revogam-se as disposições em contrário, especialmente a Lei Complementar Municipal nº. 343 de 21 de dezembro de 2015.\n"
+      },
+      "art-0060": {
+       "label": "Art. 60",
+       "kind": "article",
+       "text": "Art. 60. Esta lei entrará em vigor na data de sua publicação.\nLavras-MG, 24 de abril de 2019.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 386, de 24 de abril de 2019; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00385",
+   "short": "LC 385/2019",
+   "title": "Lei Complementar nº 385, de 25 de março de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7251",
+   "first_law": "lc-2019-00385",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-03-26",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7251/lei_complementar_385_2019_concessao_direito_real_de__WXq4Wo2.pdf",
+     "sha256": "9e4882c9d46a1999f01fec10d8f2ee4ecf5dc1da064103d85f8382dd85fed29a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 385, DE 25 DE MARÇO DE 2.019.\n(Projeto de Lei Complementar n° 001/2019, de autoria do Poder Executivo) AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica o Poder Executivo Municipal autorizado a conceder, com fundamento nos artigos 14, § 1º, e 15, caput e §1º da Lei Orgânica do Município, e mediante prévio processo licitatório na modalidade Concorrência tipo maior oferta, Direito Real de Uso do imóvel mencionado no artigo 2º desta Lei.\nParágrafo Único. Deverão ser fixados no edital da licitação de que trata o caput, critérios técnicos objetivos adequados para aferir a viabilidade econômica das propostas apresentadas pelos interessados, devendo as mesmas refletir diretamente na geração de empregos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, registrado sob a Matrícula n° 19.529 do Serviço Registral de Imóveis de Lavras, situa-se no lugar denominado \"Bicame\", confrontado pela frente com a BR-265, Distrito Industrial, Lavras/MG, área útil a ser concedida de 9.100m² (nove mil e cem metros quadrados).\nParágrafo Único. Não subsume o direito do Concessionário a utilização da área residual do imóvel registrado sob a Matrícula nº 19.529 do Serviço Registral de Imóveis de Lavras.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3°. Destina-se a Concessão de Direito Real de Uso para fins específicos de atividades empresariais e/ou industriais, resguardado o interesse público.\nParágrafo Único. Para efeitos desta Lei considera-se:\nI - Atividade empresarial, a atividade econômica exercida profissionalmente pelo empresário por meio da articulação dos fatores produtivos para a produção ou circulação de bens ou de serviços; e\nII - Atividade industrial, a atividade econômica que tem por finalidade transformar matéria-prima em produtos comercializáveis, utilizando para isto força humana, máquinas e/ou energia.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4°. A pesquisa de preços que servirá de parâmetro para o estabelecimento dos valores mínimos a serem admitidos na licitação deverá ser realizada junto aos órgãos oficiais, a Secretaria Municipal de Desenvolvimento Econômico, Indústria, Comércio e Mobilidade Urbana e outros órgãos que se fizerem necessários, de forma a viabilizar a fixação do preço mínimo da Concessão de Direito Real de Uso.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. A Concessão de Direito Real de Uso do imóvel de que trata o artigo 2º desta Lei será formalizada através de contrato administrativo e de escritura pública, devendo ser previsto, obrigatoriamente:\nI - a vinculação de uso, que não poderá ser diferente daqueles previstos nesta Lei;\nII - as hipóteses de rescisão administrativa da Concessão, incluindo a promovida por infração contratual;\nIII - o prazo da Concessão;\nIV - a manutenção das benfeitorias atuais existentes e do terreno, pela concessionária;\nV - a previsão indenizatória de bens que restarem incorporados ao patrimônio municipal nos casos de rescisão administrativa imotivada;\nVI - as penalidades para o caso de descumprimento parcial ou total das obrigações inseridas no contrato administrativo e das inseridas nesta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. A Concessão de Direito Real de Uso de que trata o artigo 1° desta Lei se dará pelo prazo de 10 (dez) anos, podendo ser prorrogado a critério da Administração Pública Municipal, desde que preenchidos os requisitos legais e as condições exaradas no edital do processo licitatório e no contrato administrativo.\nParágrafo Único. Na hipótese de superveniente decisão judicial capaz de alterar o titular da propriedade ou da posse do imóvel objeto da concessão, o prazo previsto no caput poderá ser alterado e/ou findada a Concessão de Direito Real de Uso a qualquer tempo, sem direito a indenização.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7°",
+       "kind": "article",
+       "text": "Art. 7°. A presente Concessão de Direito Real de Uso poderá resolver-se a qualquer tempo desde que o concessionário dê ao imóvel destinação diversa da estabelecida no artigo 3° desta Lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Constituem motivos para a rescisão do contrato administrativo, implicando na imediata retomada da área concedida e demais providências cabíveis, não gerando qualquer direito de indenização à concessionária por benfeitorias e acessões levantas, dentre outros a serem estabelecidos pelo Edital:\nI - desvio pela concessionária ou sucessores, a qualquer título, de sua finalidade e/ou atividade contratual;\nII - utilização do imóvel para finalidade diversa da prevista no artigo 3º, desta Lei;\nIII - descumprimento das disposições desta Lei;\nIV - extinção ou dissolução da concessionária a qualquer título, falência, insolvência ou comprometimento do patrimônio ou situação financeira;\nV - descumprimento, a qualquer tempo, da legislação ambiental pertinente ao tipo de atividade da concessionária e/ou ausência de adequada destinação aos resíduos resultantes da atividade.\nVI - paralisação do funcionamento do serviço, sem justa causa e prévia comunicação à concedente.\nVII - descumprimento qualquer das cláusulas contratuais ou prazos.\nVIII - demais razões de interesse público.\nParágrafo Único. A devolução do imóvel incontinente ao concedente sem o direito de indenização à concessionária, não exclui a aplicação das penalidades previstas no Contrato.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. É expressamente vedada a cessão, subconcessão ou transferência, total ou parcial, dos direitos decorrentes da concessão a terceiros, bem como sua sublocação total ou parcial, fusão, cisão ou incorporação que afetem a boa execução deste, sem prévia e expressa anuência do Concedente, sob pena de rescisão e cominação de penalidade aplicável à espécie, de pleno direito, independente de notificação judicial.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Findo o prazo estabelecido para a Concessão, o concessionário se obriga a devolver o imóvel tempestivamente e as benfeitorias então realizadas e existentes, incorporar-se-ão ao patrimônio público municipal, independentemente de qualquer indenização ou ato formalizador.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. A concessionária responderá por todos os encargos civis, administrativos e tributários que venham a incidir sobre o imóvel objeto da Concessão de Direito Real de Uso a que se refere esta Lei.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. O Poder Executivo poderá regulamentar esta Lei através de Decreto, se necessário.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, em 25 de março de 2019.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 385, de 25 de março de 2019; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00384",
+   "short": "LC 384/2019",
+   "title": "Lei Complementar nº 384, de 19 de março de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7249",
+   "first_law": "lc-2019-00384",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-03-19",
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7249/lei_complementar_384_2019_altera_lei_complementar_156.pdf",
+     "sha256": "0e11dbab71c7c8423cc7997b07b1ceaaa3066c9ec098a831e00a836d683cc48d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 384, DE 19 DE MARÇO DE 2.019.\n(Projeto de Lei Complementar n° 002/2019, de autoria do Poder Executivo) ALTERA A LEI COMPLEMENTAR Nº 156, DE 22 DE SETEMBRO DE 2008, QUE DISPÕE SOBRE O ZONEAMENTO E REGULAMENTA O USO E A OCUPAÇÃO DO SOLO URBANO DO MUNICÍPIO DE LAVRAS, E DÁ OUTRAS PROVIDÊNCIAS.\nA Câmara Municipal de Lavras, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O artigo 29 da Lei Complementar 156/2008, passa a vigorar com a seguinte redação:\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29. Em caso de uso residencial, comercial ou uso misto é facultativo o uso de pilotis, mas uma vez utilizado, é vedada a alteração de sua destinação.\nParágrafo primeiro. O pilotis poderá ser fechado em até 50% (cinquenta por cento) de sua área para lazer, recreação de uso comum, desde que possua pé direito de 4,5 metros e que as condições de iluminação e ventilação atendam ao Código de Obras, não se aplicando a vedação de que trata o caput.\nParágrafo segundo. A utilização de pilotis fica limitado a 01 (um) pavimento.\nParágrafo terceiro. Os pavimentos pilotis não serão considerados para efeito de contagem de gabarito.\nParágrafo quarto. Para utilização de mezanino no pavimento pilotis, observar-se-á o disposto no artigo 29-A.\nArt. 2º. A Lei Complementar 156/2008, passa a vigorar acrescida dos artigos 29-A e 29-B com as seguintes redações:\n"
+      },
+      "art-0029-a": {
+       "label": "Art. 29-A",
+       "kind": "article",
+       "text": "Art. 29-A. É permitida a construção de mezanino ou qualquer outro tipo de entrepiso, não sendo considerados como pavimentos, desde que observadas as seguintes disposições:\nI - ocupe, no máximo, 50% (cinquenta por cento) da área do compartimento em que for construído;\nII - Tenha acesso exclusivo pelo pavimento em que for construído, e não caracterize unidade autônoma;\nIII - não impeça ou prejudique a iluminação e a ventilação do compartimento em que for construído;\nIV - tenha altura mínima de 2,40m (dois metros e quarenta centímetros), e altura total do pavimento em que estiver localizado nunca inferior a 5,50 (cinco metros e cinquenta centímetros);\nV - O pé-direito máximo nos compartimentos que possuírem mezanino será de 06m (seis metros).\n"
+      },
+      "art-0029-b": {
+       "label": "Art. 29-B",
+       "kind": "article",
+       "text": "Art. 29-B. A parte do lote não coberta pela projeção da edificação poderá ser utilizada para área de lazer e recreação, podendo ser utilizada para estacionamento de veículos.\nArt. 3º. O Anexo IX (Glossário) passa a vigorar acrescido da seguinte definição:\n(...) MEZANINO - É um nível particular do pavimento e de uso exclusivo deste, situado entre o piso e o teto, subdividindo parcialmente um compartimento em dois pisos.\nArt. 4º. Esta lei entrará em vigor na data de sua publicação.\nPrefeitura Municipal de Lavras, 19 de março de 2019.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei Complementar nº 384, de 19 de março de 2019; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
