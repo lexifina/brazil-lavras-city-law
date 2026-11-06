@@ -546,6 +546,118 @@
      "sha256": "db728f0d7b6c3702f16d622b85534fd38a27fed99de393c89998c64af82021eb"
     }
    ]
+  },
+  {
+   "slug": "lei-2019-04517",
+   "short": "Lei 4517/2019",
+   "title": "Lei nº 4.517, de 2 de setembro de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7445",
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "units": 5,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7445/lei_4517_2019_instituicaod_a_semana_de_conscientizac_7iBdHRU.pdf",
+     "sha256": "20fd25203f74ffd5786f3adc8337a952e8319feddd5abcf6b52d5d562d424f54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-04516",
+   "short": "Lei 4516/2019",
+   "title": "Lei nº 4.516, de 2 de setembro de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7444",
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "units": 8,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7444/lei_4516_2019_proibicao_da_distribuicao_ou_venda_de__gGyN7vt.pdf",
+     "sha256": "e67740c7c2b99852d48ded8c25ada2216d3365193aac9358d7e05da4b8c5f1ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-04515",
+   "short": "Lei 4515/2019",
+   "title": "Lei nº 4.515, de 2 de setembro de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7443",
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "units": 9,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7443/lei_4515_2019_proibicao_da_distribuicao_de_folhetos__cymQr2Z.pdf",
+     "sha256": "14769b9c17bdbb87043c9dfc7ea638586fe8981bbb6779a50365189ec9d2b89f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00390",
+   "short": "LC 390/2019",
+   "title": "Lei Complementar nº 390, de 26 de agosto de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7434",
+   "versions": [
+    {
+     "from": "2019-08-27",
+     "units": 3,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7434/lei_complementar_390_2019_altera_lei_complementar_167.pdf",
+     "sha256": "290cf3052e36ad93429b6e3c044f82ffca39c00a1cf713055c4099db109c6e42"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2019-04500",
+   "short": "Lei 4500/2019",
+   "title": "Lei nº 4.500, de 30 de maio de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7324",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 8,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7324/lei_4500_2019_admissao_de_estagiarios_camara_municip_jYyc4ih.pdf",
+     "sha256": "5f4ce69d5640e2decf32724ef07241f246c43e0776607df7d3dcea869921e499"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00386",
+   "short": "LC 386/2019",
+   "title": "Lei Complementar nº 386, de 24 de abril de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7258",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 61,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7258/lei_complementar_386_2019_procuradoria_geral_do_municipio.pdf",
+     "sha256": "ec4828571760f02eeea396f1a8a588aae7c00477c3e3e079dbbd895626068ca0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00385",
+   "short": "LC 385/2019",
+   "title": "Lei Complementar nº 385, de 25 de março de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7251",
+   "versions": [
+    {
+     "from": "2019-03-26",
+     "units": 14,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7251/lei_complementar_385_2019_concessao_direito_real_de__WXq4Wo2.pdf",
+     "sha256": "9e4882c9d46a1999f01fec10d8f2ee4ecf5dc1da064103d85f8382dd85fed29a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-00384",
+   "short": "LC 384/2019",
+   "title": "Lei Complementar nº 384, de 19 de março de 2019",
+   "url": "https://sapl.lavras.mg.leg.br/norma/7249",
+   "versions": [
+    {
+     "from": "2019-03-19",
+     "units": 5,
+     "source_url": "https://sapl.lavras.mg.leg.br/media/sapl/public/normajuridica/2019/7249/lei_complementar_384_2019_altera_lei_complementar_156.pdf",
+     "sha256": "0e11dbab71c7c8423cc7997b07b1ceaaa3066c9ec098a831e00a836d683cc48d"
+    }
+   ]
   }
  ]
 }
